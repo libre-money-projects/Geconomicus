@@ -5,17 +5,25 @@
 
 <title>billet de monnaie relative</title>
 
-<rect x="250" y="10" width="200" height="100" rx="10" ry="10" style="stroke:black;stroke-width:10px;fill:blue;"/>
-<text x="290" y="70" style="font-size:30px; letter-spacing:5px; fill:red; fill-opacity:1; stroke:red; stroke-width:2px;">2 rouges</text>
+<g transform="translate(250,10) rotate(0)">
+<rect x="0" y="0" width="200" height="100" rx="10" ry="10" style="stroke:black;stroke-width:10px;fill:blue;"/>
+<text x="40" y="60" style="font-size:30px; letter-spacing:5px; fill:red; fill-opacity:1; stroke:red; stroke-width:2px;">2 rouges</text>
+</g>
 
-<rect x="490" y="140" width="200" height="100" rx="10" ry="10" style="stroke:black;stroke-width:10px;fill:red;"/>
-<text id="red" x="530" y="200" style="font-size:30px; letter-spacing:5px; fill:yellow; fill-opacity:1; stroke:yellow; stroke-width:2px;">2 jaunes</text>
+<g transform="translate(490,140) rotate(0)">
+<rect x="0" y="0" width="200" height="100" rx="10" ry="10" style="stroke:black;stroke-width:10px;fill:red;"/>
+<text x="40" y="60" style="font-size:30px; letter-spacing:5px; fill:yellow; fill-opacity:1; stroke:yellow; stroke-width:2px;">2 jaunes</text>
+</g>
 
-<rect x="250" y="140" width="200" height="100" rx="10" ry="10" style="stroke:black;stroke-width:10px;fill:yellow;"/>
-<text id="yellow" x="300" y="200" style="font-size:30px; letter-spacing:5px; fill:green; fill-opacity:1; stroke:green; stroke-width:2px;">2 verts</text>
+<g transform="translate(250,140) rotate(0)">
+<rect x="0" y="0" width="200" height="100" rx="10" ry="10" style="stroke:black;stroke-width:10px;fill:yellow;"/>
+<text x="40" y="60" style="font-size:30px; letter-spacing:5px; fill:green; fill-opacity:1; stroke:green; stroke-width:2px;">2 verts</text>
+</g>
 
-<rect x="10" y="140" width="200" height="100" rx="10" ry="10" style="stroke:black;stroke-width:10px;fill:green;"/>
-<text id="green" x="55" y="200" style="font-size:30px; letter-spacing:5px; fill:blue; fill-opacity:1; stroke:blue; stroke-width:2px;">2 bleus</text>
+<g transform="translate(10,140) rotate(0)">
+<rect x="0" y="0" width="200" height="100" rx="10" ry="10" style="stroke:black;stroke-width:10px;fill:green;"/>
+<text x="40" y="60" style="font-size:30px; letter-spacing:5px; fill:blue; fill-opacity:1; stroke:blue; stroke-width:2px;">2 bleus</text>
+</g>
 
 <image height="200" width="200" x="0" y="0" xlink:href="arrow_to_right.svg"/>
 <image height="200" width="200" x="450" y="0" xlink:href="arrow_to_down.svg"/>
