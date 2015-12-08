@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg width="63" height="88" xml:lang="fr" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>Dos de carte à jouer Ğeconomicus 63 mm x 88 mm</title>
+
+<image height="24" width="24" x="20" y="20" xlink:href="level/silver.svg"/>
+<text x="40" y="40" style="font-size:15; letter-spacing:2; fill:black; fill-opacity:1; stroke:black; stroke-width:1;">S</text>
+
+<g transform="translate(0,0) rotate(180 31 44)">
+<image height="24" width="24" x="20" y="20" xlink:href="level/silver.svg"/>
+<text x="40" y="40" style="font-size:15; letter-spacing:2; fill:black; fill-opacity:1; stroke:black; stroke-width:1;">S</text>
+</g>
+
+</svg>
