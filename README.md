@@ -13,6 +13,6 @@ You will find, and you can contribute in :
 - Project to code an online Ğeconomicus game.
 - ...
 
-Ğeconomicus current version is 1.25
+Ğeconomicus current version is 1.3
 
 XMPP chatroom to join Ğeconomicus developpers online : ğeconomicus@muc.jappix.com
