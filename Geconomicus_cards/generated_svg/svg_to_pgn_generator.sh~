@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Génération des pgn
+
+for file in *.svg
+do
+     inkscape -d 300 -z -f "${file}" -e "${file}.png"
+done

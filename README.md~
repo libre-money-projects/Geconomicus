@@ -12,3 +12,5 @@ You will find, and you can contribute in :
 - Examples of results you can compile to compare after playing in LibreOffice files.
 - Project to code an online Ğeconomicus game.
 - ...
+
+XMPP chatroom to join Ğeconomicus developpers online : ğeconomicus@muc.jappix.com

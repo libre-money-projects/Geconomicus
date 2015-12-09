@@ -32,7 +32,7 @@ sed s/levelx/trophy/g < carte_front.svg > generated_svg/carte_trophy1.svg
 sed -i -e s/textex/T/g generated_svg/carte_trophy1.svg
 sed -i -e s/valuex/v1/g generated_svg/carte_trophy1.svg
 
-# Génération des 12 cartes suivantes (ou plus : rajouter des valeurs.svg dans generated_svg/values, augmentez 'seq 2 max')
+# Génération des 12 cartes suivantes (ou plus : rajouter des valeurs.svg dans generated_svg/values, et augmentez 'seq 2 max')
 
 for i in `seq 2 13`;
 do
