@@ -12,7 +12,7 @@ sed -i -e s/fondx/#EB6800/g generated_svg/carte_silver_back.svg
 
 sed s/levelx/gold/g < carte_back.svg > generated_svg/carte_gold_back.svg
 sed -i -e s/textex/G/g generated_svg/carte_gold_back.svg
-sed -i -e s/fondx/#AA6DA2/g generated_svg/carte_gold_back.svg
+sed -i -e s/fondx/#6F256F/g generated_svg/carte_gold_back.svg
 
 sed s/levelx/trophy/g < carte_back.svg > generated_svg/carte_trophy_back.svg
 sed -i -e s/textex/T/g generated_svg/carte_trophy_back.svg
