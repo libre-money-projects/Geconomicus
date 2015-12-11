@@ -13,6 +13,22 @@ You will find, and you can contribute in :
 - Project to code an online Ğeconomicus game.
 - ...
 
-Ğeconomicus current version is 1.3
-
 XMPP chatroom to join Ğeconomicus developpers online : ğeconomicus@muc.jappix.com
+
+Ğeconomicus current version is 1.4
+
+To change model of cards (front and back) go to /Geconomicus_cards and to generate all cards :
+
+$ sudo bash svg_generator.sh
+
+To generate pgn ready to print at 300 dpi, go to /Geconomicus_cards/generated_svg/ :
+
+$ sudo bash svg_to_pgn_generator.sh
+
+To change model of the relative banknotes go to /Geconomicus_money, and to generate all of them :
+
+$ sudo bash svg_generator.sh
+
+To generate pgn ready to print at 300 dpi, go to /Geconomicus_money/generated_svg/ :
+
+$ sudo bash svg_to_pgn_generator.sh
