@@ -8,13 +8,13 @@
 <rect x="0" y="0" width="210" height="100" style="fill:yellow;stroke:black;stroke-width:5px;"/>
 
 <text x="10" y="15" style="font-size:10; letter-spacing:1; fill:green; fill-opacity:1; stroke:green; stroke-width:0.1;">2 Verts</text>
-<text x="150" y="15" style="font-size:10; letter-spacing:1; fill:red; fill-opacity:1; stroke:red; stroke-width:0.1;">1/2 Rouge</text>
+<text x="140" y="15" style="font-size:10; letter-spacing:1; fill:red; fill-opacity:1; stroke:red; stroke-width:0.1;">1/2 Rouge</text>
 
 <text x="70" y="55" style="font-size:30; letter-spacing:1; fill:white; fill-opacity:1; stroke:white; stroke-width:1;">1 DU</text>
 
 <g transform="translate(0,0) rotate(180 105 50)">
 <text x="10" y="15" style="font-size:10; letter-spacing:1; fill:green; fill-opacity:1; stroke:green; stroke-width:0.1;">2 Verts</text>
-<text x="150" y="15" style="font-size:10; letter-spacing:1; fill:red; fill-opacity:1; stroke:red; stroke-width:0.1;">1/2 Rouge</text>
+<text x="140" y="15" style="font-size:10; letter-spacing:1; fill:red; fill-opacity:1; stroke:red; stroke-width:0.1;">1/2 Rouge</text>
 </g>
 
 </svg>
