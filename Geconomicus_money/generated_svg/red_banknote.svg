@@ -7,14 +7,18 @@
 
 <rect x="0" y="0" width="210" height="100" style="fill:red;stroke:black;stroke-width:5px;"/>
 
-<text x="10" y="15" style="font-size:10; letter-spacing:1; fill:yellow; fill-opacity:1; stroke:yellow; stroke-width:0.1;">2 Jaunes</text>
-<text x="140" y="15" style="font-size:10; letter-spacing:1; fill:blue; fill-opacity:1; stroke:blue; stroke-width:0.1;">1/2 Bleu</text>
+<rect x="5" y="6" rx="5" ry="5" width="52" height="10" style="fill:white"/>
+<text x="9" y="13" style="font-family: Linux Libertine; font-size:7; letter-spacing:0.25; fill:red; fill-opacity:1; stroke:black; stroke-width:0.1;">1 R </text>
+<text x="24" y="13" style="font-family: Linux Libertine; font-size:7; letter-spacing:0.25; fill:yellow; fill-opacity:1; stroke:black; stroke-width:0.1;">2 J </text>
+<text x="38" y="13" style="font-family: Linux Libertine; font-size:7; letter-spacing:0.25; fill:blue; fill-opacity:1; stroke:black; stroke-width:0.1;">1/2 B</text>
 
-<text x="70" y="55" style="font-size:30; letter-spacing:1; fill:white; fill-opacity:1; stroke:white; stroke-width:1;">1 DU</text>
+<text x="70" y="55" style="font-family: Linux Libertine; font-size:30; letter-spacing:1; fill:white; fill-opacity:1; stroke:black; stroke-width:0.1;">1 DU</text>
 
 <g transform="translate(0,0) rotate(180 105 50)">
-<text x="10" y="15" style="font-size:10; letter-spacing:1; fill:yellow; fill-opacity:1; stroke:yellow; stroke-width:0.1;">2 Jaunes</text>
-<text x="140" y="15" style="font-size:10; letter-spacing:1; fill:blue; fill-opacity:1; stroke:blue; stroke-width:0.1;">1/2 Bleu</text>
+<rect x="5" y="6" rx="5" ry="5" width="52" height="10" style="fill:white"/>
+<text x="9" y="13" style="font-family: Linux Libertine; font-size:7; letter-spacing:0.25; fill:red; fill-opacity:1; stroke:black; stroke-width:0.1;">1 R </text>
+<text x="24" y="13" style="font-family: Linux Libertine; font-size:7; letter-spacing:0.25; fill:yellow; fill-opacity:1; stroke:black; stroke-width:0.1;">2 J </text>
+<text x="38" y="13" style="font-family: Linux Libertine; font-size:7; letter-spacing:0.25; fill:blue; fill-opacity:1; stroke:black; stroke-width:0.1;">1/2 B</text>
 </g>
 
 </svg>

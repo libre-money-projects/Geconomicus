@@ -17,7 +17,7 @@ You will find, and you can contribute in:
 XMPP chatroom to join Ğeconomicus developpers online: ğeconomicus@muc.jappix.com
 
 ### Version
-Ğeconomicus current version is 1.5
+Ğeconomicus current version is 1.6
 
 ### Generation
 To change model of cards (front and back) and to generate all cards:

@@ -7,14 +7,18 @@
 
 <rect x="0" y="0" width="210" height="100" style="fill:colorx;stroke:black;stroke-width:5px;"/>
 
-<text x="10" y="15" style="font-size:10; letter-spacing:1; fill:colory; fill-opacity:1; stroke:colory; stroke-width:0.1;">2 namey</text>
-<text x="140" y="15" style="font-size:10; letter-spacing:1; fill:colorz; fill-opacity:1; stroke:colorz; stroke-width:0.1;">1/2 namez</text>
+<rect x="5" y="6" rx="5" ry="5" width="52" height="10" style="fill:white"/>
+<text x="9" y="13" style="font-family: Linux Libertine; font-size:7; letter-spacing:0.25; fill:colorx; fill-opacity:1; stroke:black; stroke-width:0.1;">1 namex </text>
+<text x="24" y="13" style="font-family: Linux Libertine; font-size:7; letter-spacing:0.25; fill:colory; fill-opacity:1; stroke:black; stroke-width:0.1;">2 namey </text>
+<text x="38" y="13" style="font-family: Linux Libertine; font-size:7; letter-spacing:0.25; fill:colorz; fill-opacity:1; stroke:black; stroke-width:0.1;">1/2 namez</text>
 
-<text x="70" y="55" style="font-size:30; letter-spacing:1; fill:white; fill-opacity:1; stroke:white; stroke-width:1;">1 DU</text>
+<text x="70" y="55" style="font-family: Linux Libertine; font-size:30; letter-spacing:1; fill:white; fill-opacity:1; stroke:black; stroke-width:0.1;">1 DU</text>
 
 <g transform="translate(0,0) rotate(180 105 50)">
-<text x="10" y="15" style="font-size:10; letter-spacing:1; fill:colory; fill-opacity:1; stroke:colory; stroke-width:0.1;">2 namey</text>
-<text x="140" y="15" style="font-size:10; letter-spacing:1; fill:colorz; fill-opacity:1; stroke:colorz; stroke-width:0.1;">1/2 namez</text>
+<rect x="5" y="6" rx="5" ry="5" width="52" height="10" style="fill:white"/>
+<text x="9" y="13" style="font-family: Linux Libertine; font-size:7; letter-spacing:0.25; fill:colorx; fill-opacity:1; stroke:black; stroke-width:0.1;">1 namex </text>
+<text x="24" y="13" style="font-family: Linux Libertine; font-size:7; letter-spacing:0.25; fill:colory; fill-opacity:1; stroke:black; stroke-width:0.1;">2 namey </text>
+<text x="38" y="13" style="font-family: Linux Libertine; font-size:7; letter-spacing:0.25; fill:colorz; fill-opacity:1; stroke:black; stroke-width:0.1;">1/2 namez</text>
 </g>
 
 </svg>
