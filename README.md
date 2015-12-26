@@ -14,7 +14,7 @@ You will find, and you can contribute in:
 - …
 
 ### Chat room
-XMPP chatroom to join Ğeconomicus developpers online: [ğeconomicus@muc.jappix.com](xmpp:ğeconomicus@muc.jappix.com)
+XMPP chatroom to join Ğeconomicus developpers online: <a href="xmpp:ğeconomicus@muc.jappix.com">ğeconomicus@muc.jappix.com</a>
 
 ### Version
 Ğeconomicus current version is 1.6
