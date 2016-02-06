@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg width="816" height="1110" xml:lang="fr" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>Dos de carte à jouer Ğeconomicus 672 x 966 inside a 816 x 1110 total template</title>
+
+<rect x="" y ="" width="816" height="1110" style="fill:#EB6800;fill-opacity:1; stroke:#EB6800;stroke-width:5;stroke-opacity:1"/>
+
+<image x="200" y="250" width="300" height="300" xlink:href="level/diamond.svg"/>
+<text x="500" y="500" style="font-size:120; letter-spacing:2; fill:black; fill-opacity:1; stroke:black; stroke-width:5;">D</text>
+
+<g transform="translate(0,0) rotate(180 408 550)">
+<image x="200" y="250" width="300" height="300" xlink:href="level/diamond.svg"/>
+<text x="500" y="500" style="font-size:120; letter-spacing:2; fill:black; fill-opacity:1; stroke:black; stroke-width:5;">D</text>
+</g>
+
+</svg>
