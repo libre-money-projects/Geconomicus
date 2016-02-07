@@ -1,1 +1,5 @@
 *~
+.idea
+/rst/build/*
+!/rst/build/.gitkeep
+venv

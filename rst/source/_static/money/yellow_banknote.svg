@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="1040" height="685" xml:lang="fr" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Ğeconomicus billet format "carte de visite standard" 85x55 mm - Avec marges pleines : 1040 x 685 pixels - coupé : 1004 x 650 (36 pixels de marge)</title>
+
+<rect x="0" y="0" width="1040" height="685" style="fill:yellow;stroke:black;stroke-width:70;"/>
+
+<rect x="70" y="60" rx="20" ry="20" width="210" height="40" style="fill:white"/>
+<text x="80" y="90" style="font-family: Linux Libertine; font-size:1.5em; letter-spacing:1; fill:yellow; fill-opacity:1; stroke:black; stroke-width:0.5;">1 J </text>
+<text x="140" y="90" style="font-family: Linux Libertine; font-size:1.5em; letter-spacing:1; fill:green; fill-opacity:1; stroke:black; stroke-width:0.5;">2 V </text>
+<text x="200" y="90" style="font-family: Linux Libertine; font-size:1.5em; letter-spacing:1; fill:red; fill-opacity:1; stroke:black; stroke-width:0.5;">1/2 R</text>
+
+<text x="350" y="360" style="font-family: Linux Libertine; font-size:8em; letter-spacing:6; fill:white; fill-opacity:1; stroke:black; stroke-width:2;">1 DU</text>
+
+<g transform="translate(0,0) rotate(180 520 342)">
+<rect x="70" y="60" rx="20" ry="20" width="210" height="40" style="fill:white"/>
+<text x="80" y="90" style="font-family: Linux Libertine; font-size:1.5em; letter-spacing:1; fill:yellow; fill-opacity:1; stroke:black; stroke-width:0.5;">1 J </text>
+<text x="140" y="90" style="font-family: Linux Libertine; font-size:1.5em; letter-spacing:1; fill:green; fill-opacity:1; stroke:black; stroke-width:0.5;">2 V </text>
+<text x="200" y="90" style="font-family: Linux Libertine; font-size:1.5em; letter-spacing:1; fill:red; fill-opacity:1; stroke:black; stroke-width:0.5;">1/2 R</text>
+</g>
+
+</svg>
