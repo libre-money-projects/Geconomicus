@@ -1,0 +1,16 @@
+language: python
+python:
+  - "2.7"
+  - "3.4"
+  - "3.5"
+# command to install dependencies
+install: "pip install sphinx"
+# command to run tests
+script: build.sh
+
+## install headers ruby
+# sudo apt-get install ruby-dev
+## install client travis
+# sudo gem install travis --no-rdoc --no-ri
+## test travis.yml
+# travis lint travis.yml
