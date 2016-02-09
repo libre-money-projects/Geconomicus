@@ -103,7 +103,7 @@ On peut jouer avec de simples papiers colorés, mais il est plus pratique d'util
 
     *Billet jaune*
 
-Feuille d'aides
+Feuilles d'aide
 ---------------
 
 Ces feuilles représentent trois cases alignées au-dessus d'une case centrale. Il faut avoir deux feuilles d'aide.
