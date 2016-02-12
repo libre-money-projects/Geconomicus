@@ -138,8 +138,10 @@ Toutes les cartes valeurs "hors jeu" sont défaussées par les joueurs et remise
 
 ::
 
-    Les marqueurs de valeurs doivent chacun représenter le dos d'un paquet de valeurs.
-    C'est à dire les quatre symboles de valeurs (bronze, argent, or, diamant) , si on utilise les cartes Ğeconomicus.
+    Les marqueurs de valeurs doivent chacun représenter le dos
+    d'un paquet de valeurs.
+    C'est à dire les quatre symboles de valeurs (bronze, argent, or, diamant),
+    si on utilise les cartes Ğeconomicus.
 
 .. figure:: _static/levels/bronze.svg
     :align: center
@@ -204,6 +206,13 @@ Pour cela, il défausse son "carré" dans la pioche du paquet correspondant, et 
 
 Ainsi, si sa main était de quatre cartes "bronze", elle contient maintenant cinq cartes, quatre nouvelles "bronze" et une "argent".
 
+::
+
+    Important :
+    il est interdit de troquer une carte contre une autre.
+    Les joueurs doivent toujours avoir la monnaie suffisante
+    pour acheter la carte qu'il désire !
+
 
 Règles monétaires
 -----------------
@@ -218,7 +227,9 @@ L'animateur doit maintenant expliquer aux joueurs les règles qui régissent la 
 
 ::
 
-    Il est possible de jouer le troc, sans monnaie, en échangeant une carte contre une carte, mais par expérience, ce système bloque rapidement et ne tient pas 80 ans...
+    Il est possible de jouer le troc, sans monnaie,
+    en échangeant une carte contre une carte, mais par expérience,
+    ce système bloque rapidement et ne tient pas 80 ans...
 
 
 Déroulement de la partie
@@ -236,7 +247,8 @@ Seul l'animateur connaît à l'avance le nom du défunt de chaque tour.
 
 ::
 
-    L'ordre des décès est déterminé au début du jeu dans le tableur et doit être gardé secret par l'animateur.
+    L'ordre des décès est déterminé au début du jeu dans le tableur
+    et doit être gardé secret par l'animateur.
 
 
 A chaque tour, l'animateur annonce le début du tour et lance le chronomètre.
