@@ -53,6 +53,8 @@ $ ./svg_to_pgn_generator.sh
 
 ### Generate rules
 
+[![Build Status](https://travis-ci.org/vtexier/Geconomicus.svg?branch=dev)](https://travis-ci.org/vtexier/Geconomicus)
+
 #### Install Sphinx 1.3
 
 Require Python 2.6+ or Python 3.3+
