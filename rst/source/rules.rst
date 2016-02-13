@@ -283,3 +283,22 @@ Celui-ci comptabilise les valeurs et billets que possède les joueurs et les ajo
 
 Le tableur affiche alors un histogram complet, permettant de faire le bilan économique du système monétaire qui vient d'être joué.
 
+Compte rendu
+------------
+
+Un jeu Ğeconomicus n'est complet que si l'organisateur publie un compte rendu détaillé
+(billet de blog ou de réseau social, vidéo, diaporama, sur son propre site internet ou un autre lieu),
+notamment à l'aide des tableurs et graphiques générés que l'on peut remplir directement pendant le jeu
+par le banquier d'une part, et par celui qui fait la comptabilité des sortants / nouveaux entrants à chaque tour d'autre part.
+
+On devrait ainsi au minimum faire apparaître dans les graphiques pour chaque monnaie jouées :
+
+* Le nombre total de valeurs produites par joueur (banquier inclus pour la « monnaie dette »).
+* La moyenne globale des valeurs produites.
+* L'écart type de production des valeurs en % de la moyenne.
+* La mise à l'échelle comparative des différents types de monnaies jouées.
+
+Utiliser pour cela les tableurs au format LibreOffice de Ğeconomicus :
+
+* `Cliquer ici pour télécharger le tableur LibreOffice du compte-rendu <./_static/spreadsheets/Ğeconomicus_Monnaies.ods>`_
+* `Cliquer ici pour télécharger le tableur LibreOffice du banquier <./_static/spreadsheets/Ğeconomicus_Suivi_Banquier.ods>`_
