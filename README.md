@@ -87,11 +87,8 @@ To deactivate the environment in your shell:
 
 #### Generate HTML
 
-Go to the `rst` folder:
-
 ```bash
-    $ cd rst
-    $ make html
+    $ ./build.sh
 ```
 
 The rules are generated in the `rst/build/html` folder.
