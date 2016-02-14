@@ -20,8 +20,8 @@ L'intérêt du jeu est surtout de comparer différents types de monnaies, dont l
 Liens utiles :
 
 * `Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`_
-* `Dépôt Github <https://github.com/galuel/Geconomicus>`_
-* `Vidéos de compte-rendu sur Youtube <https://www.youtube.com/channel/UCcleYg38FkqwP1B5TxZe5Cw>`_
+* `Dépôt GitHub <https://github.com/galuel/Geconomicus>`_
+* `Vidéos de compte-rendu sur YouTube <https://www.youtube.com/channel/UCcleYg38FkqwP1B5TxZe5Cw>`_
 
 *Jeu sous license libre* `GPL v3 <http://www.gnu.org/licenses/gpl-3.0.fr.html>`_
 

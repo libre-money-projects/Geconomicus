@@ -48,17 +48,17 @@ Donc un « pouvoir d'achat » moyen distribué de (2 cartes valeurs + 1 DU) / 
 Info technique
 --------------
 
-À noter que, quel que soit le nombre « n+1 » de couleurs, donc 1 en attente et
+À noter que, quel que soit le nombre « n + 1 » de couleurs, donc 1 en attente et
 « n » en jeu on a un nombre x de DU (compté par exemple sur la valeur la plus basse) :
 
 ::
 
-    x DU = 1 + 2 + 4 + … + 2n-1
+    x DU = 1 + 2 + 4 + … + 2 × n - 1
 
 
 Qui reste stable entre deux tours, puisque le 1 sortira du jeu, les puissances seront décalées à gauche,
-et la couleur en attente entre en remplaçant la couleur la plus haute pour 2n-1 DU ( 23-1 = 4 DU avec 3 couleurs).
+et la couleur en attente entre en remplaçant la couleur la plus haute pour 2 × n - 1 DU ( 23 - 1 = 4 DU avec 3 couleurs).
 
-Et cela revient à multiplier la valeur quantitative de la monnaie par 2 = (1+10 %)8.
+Et cela revient à multiplier la valeur quantitative de la monnaie par 2 = (1 + 10 %)⁸.
 D'où le fait que l'on simule 8 ans (puissance 8) à chaque tour,
 pour un taux de renouvellement équivalent de 10 % / an, et donc en 10 tours 100 % des hommes sont renouvelés.
