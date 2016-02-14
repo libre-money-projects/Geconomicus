@@ -73,12 +73,6 @@ On peut jouer avec de simples papiers colorés, mais il est plus pratique d'util
    Pour plus de joueurs, prévoir au moins deux fois le nombre de joueurs par couleur.
 
 
-.. figure:: _static/money/red_banknote.svg
-    :align: center
-    :width: 40%
-
-    *Billet rouge*
-
 .. figure:: _static/money/green_banknote.svg
     :align: center
     :width: 40%
@@ -90,6 +84,12 @@ On peut jouer avec de simples papiers colorés, mais il est plus pratique d'util
     :width: 40%
 
     *Billet bleu*
+
+.. figure:: _static/money/red_banknote.svg
+    :align: center
+    :width: 40%
+
+    *Billet rouge*
 
 .. figure:: _static/money/yellow_banknote.svg
     :align: center
@@ -103,19 +103,11 @@ Feuilles d'aide
 
 Ces feuilles représentent trois cases alignées au-dessus d'une case centrale. Il faut avoir deux feuilles d'aide.
 
-Sur la première feuille, on dispose les 4 marqueurs de valeurs dans les cases.
-
-De gauche à droite : or, argent, bronze.
-
-Valeur "hors jeu" : diamant.
+Sur la première feuille, on disposera les 4 marqueurs de valeurs dans les cases.
 
 Sur la seconde feuille, on dispose les 4 marqueurs de billets dans les cases.
 
-De gauche à droite : Vert, bleu, rouge.
-
-Billet en attente : les jaunes.
-
-.. figure:: _static/help_sheet.svg
+.. figure:: _static/help_sheets/help_sheet.svg
     :align: center
     :scale: 100
 
@@ -185,6 +177,31 @@ Mise en place
 -------------
 
 Sur une table accessible à tous, l'animateur dispose les deux feuilles d'aide et leurs marqueurs.
+
+Sur la première feuille, il dispose les 4 marqueurs de valeurs dans les cases.
+
+De gauche à droite : or, argent, bronze.
+
+Valeur "hors jeu" : diamant.
+
+.. figure:: _static/help_sheets/help_sheet_values.svg
+    :align: center
+    :width: 50%
+
+    *Feuille d'aide des valeurs*
+
+Sur la seconde feuille, il dispose les 4 marqueurs de billets dans les cases.
+
+De gauche à droite : Vert, bleu, rouge.
+
+Billet en attente : les jaunes.
+
+.. figure:: _static/help_sheets/help_sheet_money.svg
+    :align: center
+    :width: 50%
+
+    *Feuille d'aide de la monnaie*
+
 
 Il mélange le paquet des cartes de la valeur la plus basse (le bronze) et éparpille les cartes faces cachées sur la table.
 
