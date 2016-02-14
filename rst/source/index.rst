@@ -17,7 +17,17 @@ Le temps est un facteur important du jeu, à plusieurs niveaux, notamment par le
 L'intérêt du jeu est surtout de comparer différents types de monnaies, dont le concept de monnaie libre, tel que défini dans `La Théorie Relative de la Monnaie
 <http://trm.creationmonetaire.info>`_.
 
-*Jeu sous license libre GPLv3*
+Liens utiles :
+
+* `Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`_
+* `Dépôt Github <https://github.com/galuel/Geconomicus>`_
+* `Vidéos de compte-rendu sur Youtube <https://www.youtube.com/channel/UCcleYg38FkqwP1B5TxZe5Cw>`_
+
+*Jeu sous license libre* `GPL v3 <http://www.gnu.org/licenses/gpl-3.0.fr.html>`_
+
+
+Table des matières
+------------------
 
 .. toctree::
     :maxdepth: 2
