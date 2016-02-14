@@ -59,16 +59,16 @@ ou seulement les intérêts pour les crédits en cours.
 Si le joueur ne peut pas rembourser en unités monétaires, alors le banquier est en droit de lui prendre
 autant de cartes valeurs qu'il juge nécessaire pour se rembourser largement.
 
-Eventuellement, en cas d'impossibilité totale de remboursement
+Éventuellement, en cas d'impossibilité totale de remboursement
 (ce qui sera dû à une inattention du banquier lors de l'allocation du crédit, voir la note sur les garanties_),
 le joueur peut être amené à « aller directement en prison » pour 1 tour,
 avant de reprendre le jeu avec 4 nouvelles cartes de valeur basse.
 
 ::
 
-    La prison ne doit pas être une période "drôle" pour le joueur.
+    La prison ne doit pas être une période « drôle » pour le joueur.
     Il doit être isolé loin du jeu pendant 1 tour sans pouvoir communiquer ni se nourrir.
-    Cela ne doit pas être une "pause" agréable, mais un isolement qui doit faire réfléchir
+    Cela ne doit pas être une « pause » agréable, mais un isolement qui doit faire réfléchir
     le joueur.
 
 

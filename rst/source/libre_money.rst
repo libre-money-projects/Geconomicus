@@ -2,11 +2,11 @@ Monnaie libre
 =============
 
 La monnaie libre est une monnaie dont tous les utilisateurs sont co-créateurs, à parts égales. La monnaie est créée sous
-la forme d'un Dividende Universel (DU) régulier. Celui ci peut être journalier, hebdomadaire ou mensuel,
-mais doit respecter un accroissement de la masse monétaire de 10% par an.
+la forme d'un Dividende Universel (DU) régulier. Celui-ci peut être journalier, hebdomadaire ou mensuel,
+mais doit respecter un accroissement de la masse monétaire de 10 % par an.
 
 Mais compter les prix en unités dans une monnaie en accroissement constant est peu pratique, on préférera donc compter en DU.
-On appel cela "compter en relatif". En relatif, la masse monétaire moyenne par individu reste constante en DU.
+On appelle cela "compter en relatif". En relatif, la masse monétaire moyenne par individu reste constante en DU.
 La monnaie est alors un flux constant ne connaissant pas de pénurie.
 
 L'utilisation d'une monnaie libre se fait grâce au roulement des couleurs des billets définis plus haut.
@@ -18,7 +18,7 @@ A chaque nouveau tour, l'animateur fait tourner les marqueurs de billets sur la 
 la couleur supérieure.
 
 Il distribue alors 2 nouveaux billets de la valeur supérieure (qui est la couleur qui était en attente) à chaque joueur,
-et récupère tous les billets de la valeur la plus faible qui devient à sont tour la valeur en attente jusqu'au tour suivant.
+et récupère tous les billets de la valeur la plus faible qui devient à son tour la valeur en attente jusqu'au tour suivant.
 
 Il y a donc ainsi toujours 3 couleurs de billets en jeu valant respectivement 1/2 DU, 1 DU, et 2 DU, qui « glissent » (ou « tournent »)
 à chaque tour, la couleur médiane étant donc le DU de référence en vigueur lors d'un tour.
@@ -27,7 +27,7 @@ Les valeurs monétaires des cartes se fondent sur le DU de référence en vigueu
 (le plus souvent ce seront les cartes de niveau bronze pour les cartes standards Ğeconomicus), valent chacune 3 DU.
 
 Comme on distribue 2 billets supplémentaires de couleur haute  à chaque tour, et que l'on élimine les billets de couleur basse,
-on aura donc une moyenne de DU distribués par joueur, pour 3 couleurs égale à :
+on aura donc une moyenne de DU distribué par joueur, pour 3 couleurs égale à :
 
 ::
 
@@ -48,7 +48,7 @@ Donc un « pouvoir d'achat » moyen distribué de (2 cartes valeurs + 1 DU) / 
 Info technique
 --------------
 
-A noter que, quelque soit le nombre « n+1 » de couleurs, donc 1 en attente et
+À noter que, quel que soit le nombre « n+1 » de couleurs, donc 1 en attente et
 « n » en jeu on a un nombre x de DU (compté par exemple sur la valeur la plus basse) :
 
 ::
