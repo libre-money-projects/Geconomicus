@@ -1,0 +1,16 @@
+language: python
+python:
+- '3.4'
+install: pip install sphinx
+script: ./build.sh
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: ./deploy_github_pages.sh
+  on:
+    branch: dev
+    python: '3.4'
+env:
+  global:
+  - GH_REF="github.com/vtexier/Geconomicus.git"
+  - secure: vIRRJhe7W5gWArNm3J0jrEieACcYUeqisGgm69sENN0Uea++zOBINr6w5l/Jgg9P+u+I2L4hirSq089kN3TNUWcZVwHgDaI7whTfdqOGHR/Go0EFcWDj4EwtXEpZGSKJebYykPnOGs16WG6tz/RT4c4H81JflL7MXjRT30DXpkdV/Nhq0itJIMfAm1+SdlX69DCAy2gd+0dAgPjAdVDrWu1H5PAHAOBLcNn3k7RM/YvWgBndPdPHst5clKHDsdfdooj+1P8DJ13zya6z6O4H0WDKPE9i5tvtmiitO5ruPWwM7yUFa0Q+mwH5z+WIrdo5k8Wxywy6k1Edy4ppnHizYV5xKTvNZp0DyY1ASbkklWr61Ta/HrvDjD0F9zCk0B+HJ+Y7AYeU6fESlO/3BrhSY3VGg7jm9V9umbkixfLOJGXQMoSpasK8MXFFnTzYU6S1zmeWhdmqlYW+0j8kjgTnJkp9jlIB0Vmal4YHSLy6Ur2OiwX1f3pMlqQuIfHjp6CgC/Ec3CeLCWQOzMPttkd7/SCR5PsucFKLsYePHDtWdNxyfIMt3eLF58ZH7Qh87Ty/Jl8jGcKlv0eqWnClGUdSI5ugJH+1zS/6t8z5qKc09HYcG2COt50lbwzM2nIUn1LBNTL8M6KALLu+wKZuJzuqXUUwmjBcPOTSvK2R4dPL+40=
