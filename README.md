@@ -63,6 +63,7 @@ Require Sphinx 1.3+
 On Ubuntu:
 
 ```bash
+    $ sudo apt-get install inkscape
     $ sudo apt-get install python-pip
     $ sudo pip install virtualenv
 ```
