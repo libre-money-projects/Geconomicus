@@ -35,3 +35,4 @@ Table des matières
     rules.rst
     debt_money.rst
     libre_money.rst
+    to_print.rst
