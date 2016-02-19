@@ -4,5 +4,5 @@
 
 for file in *.svg
 do
-     inkscape -d 300 -z -f "${file}" -e "${file}.png"
+     inkscape -d 300 -z -f "${file}" -e "${file%.svg}.png"
 done
