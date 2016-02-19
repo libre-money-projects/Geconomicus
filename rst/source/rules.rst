@@ -121,8 +121,8 @@ Les marqueurs de valeurs permettent aux joueurs de savoir, à chaque tour, qu'el
 
 La valeur la plus haute est dans la case de gauche.
 
-Dés qu'un joueur a constitué un carré de la plus haute valeur (case de gauche), on décale les valeurs d'une case vers la droite,
-en suivant le sens de la flêche.
+Dès qu'un joueur a constitué un carré de la plus haute valeur (case de gauche), on décale les valeurs d'une case vers la droite,
+en suivant le sens de la flèche.
 
 Le marqueur de la case "hors jeu" est déplacé dans la case de gauche, et le marqueur de la case de droite rejoint la case "hors jeu".
 
@@ -217,7 +217,7 @@ Le but du jeu est de créer le plus de valeurs économiques possibles.
 
 Pour cela, chaque joueur, doit acheter et vendre des cartes valeur du même paquet, afin de constituer un "carré" de quatre cartes identiques.
 
-A chaque "carré" obtenu, le joueur gagne une carte du paquet de la valeur supérieure (voir la feuille d'aide des valeurs).
+À chaque "carré" obtenu, le joueur gagne une carte du paquet de la valeur supérieure (voir la feuille d'aide des valeurs).
 
 Pour cela, il défausse son "carré" dans la pioche du paquet correspondant, et pioche quatre nouvelles cartes de ce même paquet.
 
@@ -246,7 +246,7 @@ L'animateur doit maintenant expliquer aux joueurs les règles qui régissent la 
 
     Il est possible de jouer le troc, sans monnaie,
     en échangeant une carte contre une carte, mais par expérience,
-    ce système bloque rapidement et ne tient pas 80 ans...
+    ce système bloque rapidement et ne tient pas 80 ans…
 
 
 Déroulement de la partie
@@ -254,11 +254,11 @@ Déroulement de la partie
 
 La partie se déroule en 10 tours chronométrés de cinq minutes maximum. On peut réduire à trois minutes si on veut accélérer le jeu.
 
-Chaque tour représente 8 ans. A la fin d'une partie, chaque joueur aura donc vécu 80 ans, ce qui est l'espérance de vie moyenne en Europe.
+Chaque tour représente 8 ans. À la fin d'une partie, chaque joueur aura donc vécu 80 ans, ce qui est l'espérance de vie moyenne en Europe.
 
-Mais attention, la mort rôde et les générations se succèdent...
+Mais attention, la mort rôde et les générations se succèdent…
 
-A chaque tour, un des joueurs doit mourir et rendre toutes ses cartes valeurs et ses billets à l'animateur.
+À chaque tour, un des joueurs doit mourir et rendre toutes ses cartes valeurs et ses billets à l'animateur.
 
 Seul l'animateur connaît à l'avance le nom du défunt de chaque tour.
 
@@ -268,18 +268,18 @@ Seul l'animateur connaît à l'avance le nom du défunt de chaque tour.
     et doit être gardé secret par l'animateur.
 
 
-A chaque tour, l'animateur annonce le début du tour et lance le chronomètre.
+À chaque tour, l'animateur annonce le début du tour et lance le chronomètre.
 
 Les joueurs vendent et achètent des cartes valeurs à l'aide des billets de la monnaie en cours.
 
-A la fin du tour, les échanges doivent cesser immédiatement. Néammoins, les personnes ayant constitué un carré
+À la fin du tour, les échanges doivent cesser immédiatement. Néanmoins, les personnes ayant constitué un carré
 avant la fin du chronomètre peuvent l'échanger et gagner une carte de valeur supérieure.
 
 
 Fin du tour
 -----------
 
-A la fin de chaque tour, l'animateur appel le joueur emporté par la mort.
+À la fin de chaque tour, l'animateur appel le joueur emporté par la mort.
 
 Celui-ci s'isole avec l'animateur, afin que ce dernier comptabilise les valeurs et les billets en possession du joueur.
 
@@ -295,10 +295,10 @@ Il reçoit le montant de billets prévu pour les nouveaux arrivants, selon le sy
 Fin de la partie
 ----------------
 
-A la fin du dernier tour, tous les joueurs sont appelés un par un devant l'animateur.
-Celui-ci comptabilise les valeurs et billets que possède les joueurs et les ajoute dans la feuille du tableur.
+À la fin du dernier tour, tous les joueurs sont appelés un par un devant l'animateur.
+Celui-ci comptabilise les valeurs et billets que possèdent les joueurs et les ajoute dans la feuille du tableur.
 
-Le tableur affiche alors un histogram complet, permettant de faire le bilan économique du système monétaire qui vient d'être joué.
+Le tableur affiche alors un histogramme complet, permettant de faire le bilan économique du système monétaire qui vient d'être joué.
 
 Compte rendu
 ------------
