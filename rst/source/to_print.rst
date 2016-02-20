@@ -1,5 +1,5 @@
 ==========
-A imprimer
+À imprimer
 ==========
 
 Nous vous proposons ici des fichiers destinés à être imprimés, pour obtenir les cartes et les billets dédiés au jeu.
@@ -7,7 +7,7 @@ Nous vous proposons ici des fichiers destinés à être imprimés, pour obtenir 
 La monnaie
 ----------
 
-Les billets sont sous la forme de fichiers au format PNG de la taille d'une carte de visite standard (88 x 58 mm).
+Les billets sont sous la forme de fichiers au format PNG de la taille d'une carte de visite standard (88 × 58 mm).
 
 Style "DU"
 __________
@@ -32,10 +32,10 @@ Le style "modern" utilise des ronds de couleurs pour signaler les correspondance
 Les cartes valeur
 -----------------
 
-A venir...
+À venir…
 
 ::
 
     En attendant les cartes valeurs dédiées Ğeconomicus,
-    vous pouvez faire imprimer 4 jeux de 52 cartes classiques avec le dos personnalisé.
+    vous pouvez faire imprimer quatre jeux de 52 cartes classiques avec le dos personnalisé.
 
