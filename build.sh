@@ -15,8 +15,10 @@ cp ../Ğeconomicus_spreadsheets/*.ods ./build/html/_static/spreadsheets/.
 # copy png files in html
 cp ../Geconomicus_money/generated_svg/*.png ./build/html/_static/money/.
 
-# generate cards set from inkscape layers
+# create fodler for cards sets
 mkdir -p ./build/html/_static/cards
+
+# generate "revolution" cards set from inkscape layers
 ./build_cards.py ./source/_static/cards/revolution ./build/html/_static/cards
 
 cd ${current_dir};
