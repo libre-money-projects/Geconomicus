@@ -122,7 +122,7 @@ if __name__ == '__main__':
         ####################################
         # FRONT IMAGES
         ####################################
-        # create 13 front cards
+        # create 13 value cards
         card_number = 1
         # for each value...
         for value in range(1, 14):
@@ -141,6 +141,31 @@ if __name__ == '__main__':
             svg2png(svg_path, os.path.join(_dirname, filename + '.png'), PNG_DPI)
 
             card_number += 1
+
+        ####################################
+        # create marker card
+        filename = 'front_53'
+        svg_path = os.path.join(_dirname, filename + '.svg')
+        layers = [level_name]
+
+        # compose svg layers
+        svg2svg(back_layers_path, svg_path, layers)
+
+        # convert to png
+        svg2png(svg_path, os.path.join(_dirname, filename + '.png'), PNG_DPI)
+
+        #####################################
+        # create notice card
+        filename = 'front_54'
+        svg_path = os.path.join(_dirname, filename + '.svg')
+        layers = ['notice']
+
+        # compose svg layers
+        svg2svg(front_layers_path, svg_path, layers)
+
+        # convert to png
+        svg2png(svg_path, os.path.join(_dirname, filename + '.png'), PNG_DPI)
+
 
         #####################################
         # ZIP SETS
