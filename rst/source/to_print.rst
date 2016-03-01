@@ -14,6 +14,10 @@ __________
 
 Le style "DU" indique en chiffres les correspondances entre les billets.
 
+.. figure:: _static/money/blue_banknote.png
+    :align: center
+    :width: 50%
+
 * `Cliquer ici pour télécharger le billet vert <./_static/money/green_banknote.png>`_
 * `Cliquer ici pour télécharger le billet bleu <./_static/money/blue_banknote.png>`_
 * `Cliquer ici pour télécharger le billet rouge <./_static/money/red_banknote.png>`_
@@ -23,6 +27,10 @@ Style "modern"
 ______________
 
 Le style "modern" utilise des ronds de couleurs pour signaler les correspondances entre les billets.
+
+.. figure:: _static/money/blue_banknote_modern.png
+    :align: center
+    :width: 50%
 
 * `Cliquer ici pour télécharger le billet vert <./_static/money/green_banknote_modern.png>`_
 * `Cliquer ici pour télécharger le billet bleu <./_static/money/blue_banknote_modern.png>`_
@@ -44,7 +52,19 @@ Les quatre niveaux de valeurs sont des gravures évoquant dans l'ordre :
 3. L'énergie : représente les valeurs qui concernent les ressources énergétiques.
 4. La technologie : représente les valeurs technologiques.
 
+.. figure:: _static/cards/revolution/backs.png
+    :align: center
+
+    *Dos des cartes avec les quatre niveaux*
+
 Les valeurs sont représentées par des numéros de 1 à 13. Cela permet de faciliter les échanges.
+
+.. figure:: _static/cards/revolution/fronts.png
+    :align: center
+
+    *13 valeurs par niveau*
+
+La taille des cartes est celle des cartes de poker classique (63mm x 88mm, 2.5" x 3.5").
 
 Chaque archive ZIP contient les 16 images PNG nécessaires à imprimer un paquet de 54 cartes.
 
