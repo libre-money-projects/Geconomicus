@@ -111,7 +111,7 @@ if __name__ == '__main__':
         # create back image of the set
         filename = 'back'
         svg_path = os.path.join(_dirname, filename + '.svg')
-        layers = ['background', level_name]
+        layers = ['background_{level}'.format(level=level), level_name]
 
         # compose svg layers
         svg2svg(back_layers_path, svg_path, layers)
@@ -132,7 +132,7 @@ if __name__ == '__main__':
             # create front image of the value
             filename = 'front_{number}'.format(number=card_number)
             svg_path = os.path.join(_dirname, filename + '.svg')
-            layers = ['background', level_name, value_name]
+            layers = ['background_{level}'.format(level=level), level_name, value_name]
 
             # compose svg layers
             svg2svg(front_layers_path, svg_path, layers)
@@ -143,10 +143,10 @@ if __name__ == '__main__':
             card_number += 1
 
         ####################################
-        # create marker card
+        # create marker card by using backs
         filename = 'front_53'
         svg_path = os.path.join(_dirname, filename + '.svg')
-        layers = [level_name]
+        layers = ['background_{level}'.format(level=level), level_name]
 
         # compose svg layers
         svg2svg(back_layers_path, svg_path, layers)
