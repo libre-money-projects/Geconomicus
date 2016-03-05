@@ -1,11 +1,21 @@
 language: python
 python:
 - '3.4'
+
+# only build dev branch for deploy
+branches:
+  only:
+    - dev
+
 before_install:
   - sudo apt-get -qq update
   - sudo apt-get install -y inkscape
+  - sudo apt-get install -y imagemagick
+
 install: pip install sphinx
+
 script: ./build.sh
+
 deploy:
   provider: script
   skip_cleanup: true
@@ -13,6 +23,7 @@ deploy:
   on:
     branch: dev
     python: '3.4'
+
 env:
   global:
   - GH_REF="github.com/vtexier/Geconomicus.git"

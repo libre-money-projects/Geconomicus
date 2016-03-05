@@ -64,10 +64,11 @@ On Ubuntu:
 
 ```bash
     $ sudo apt-get install inkscape
+    $ sudo apt-get install imagemagick
     $ sudo apt-get install python-pip
     $ sudo pip install virtualenv
 ```
-Create and activate a virtual environment for python:     
+Create and activate a virtual environment for python:
 
 ```bash
     $ virtualenv -p /usr/bin/python3.4 venv

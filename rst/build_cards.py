@@ -61,6 +61,44 @@ def svg2png(svg_filepath, png_filepath, dpi):
             pass
 
 
+def png_add_mask_and_drop_shadow(source_filepath, mask_filepath, destination_filepath, shadow_offset=10):
+
+    quoted_source_filepath = shlex.quote(source_filepath)
+    quoted_mask_filepath = shlex.quote(mask_filepath)
+    quoted_destination_filepath = shlex.quote(destination_filepath)
+
+    command = "convert \( {source_filepath} {mask_filepath} -alpha Off -compose copyopacity -composite \) \
+          -background black \( +clone -shadow 60x{offset}+{offset}+{offset} \) +swap \
+          -compose Over -composite +repage \
+          {destination_filepath}".format(
+        source_filepath=quoted_source_filepath,
+        mask_filepath=quoted_mask_filepath,
+        destination_filepath=quoted_destination_filepath,
+        offset=shadow_offset)
+
+    # execute command
+    status = subprocess.call(shlex.split(command))
+    if status != 0:
+        exit(status)
+
+
+def png_assemble(sources, destination_path, offset):
+
+    command = "convert"
+    quoted_destination_filepath = destination_path
+    count = 0
+    for png_filepath in sources:
+        quoted_png_filepath = shlex.quote(png_filepath)
+
+        command += " -page +{offset}+0 {png_filepath}".format(offset=count*offset, png_filepath=quoted_png_filepath)
+
+    command += " +append {destination_path}".format(destination_path=quoted_destination_filepath)
+
+    # execute command
+    status = subprocess.call(shlex.split(command))
+    if status != 0:
+        exit(status)
+
 if __name__ == '__main__':
     # command line options parser
     parser = argparse.ArgumentParser(description='Build PNG card sets')
@@ -111,13 +149,36 @@ if __name__ == '__main__':
         # create back image of the set
         filename = 'back'
         svg_path = os.path.join(_dirname, filename + '.svg')
-        layers = ['background', level_name]
+        layers = ['background_{level}'.format(level=level), level_name]
+        back_png_path = os.path.join(_dirname, filename + '.png')
 
         # compose svg layers
         svg2svg(back_layers_path, svg_path, layers)
 
         # convert to png
-        svg2png(svg_path, os.path.join(_dirname, filename + '.png'), PNG_DPI)
+        svg2png(svg_path, back_png_path, PNG_DPI)
+
+        ############
+        ## create web preview
+        # Use mask image as alpha on card : convert back_2.png mask.png -alpha Off -compose CopyOpacity -composite test.png
+        # convert -background transparent -page +0+0 \( back_2.png mask.png -alpha Off -compose copyopacity -composite \) -page +1000+0 \( back_1.png mask.png -alpha Off -compose copyopacity -composite \) +append test.png
+
+        ################################################
+        # create cutout mask image for web preview
+        filename = 'mask'
+        svg_path = os.path.join(_dirname, filename + '.svg')
+        layers = ['mask']
+        mask_png_path = os.path.join(destination_path, filename + '.png')
+        preview_png_path = os.path.join(destination_path, 'back_{level}'.format(level=level) + '.png')
+
+        # compose svg layers
+        svg2svg(back_layers_path, svg_path, layers)
+
+        # convert to png in destination path
+        svg2png(svg_path, mask_png_path, PNG_DPI)
+
+        # create a web preview card, cutted out with a drop shadow
+        png_add_mask_and_drop_shadow(back_png_path, mask_png_path, preview_png_path)
 
         ####################################
         # FRONT IMAGES
@@ -132,7 +193,7 @@ if __name__ == '__main__':
             # create front image of the value
             filename = 'front_{number}'.format(number=card_number)
             svg_path = os.path.join(_dirname, filename + '.svg')
-            layers = ['background', level_name, value_name]
+            layers = ['background_{level}'.format(level=level), level_name, value_name]
 
             # compose svg layers
             svg2svg(front_layers_path, svg_path, layers)
@@ -143,10 +204,10 @@ if __name__ == '__main__':
             card_number += 1
 
         ####################################
-        # create marker card
+        # create marker card by using backs
         filename = 'front_53'
         svg_path = os.path.join(_dirname, filename + '.svg')
-        layers = [level_name]
+        layers = ['background_{level}'.format(level=level), level_name]
 
         # compose svg layers
         svg2svg(back_layers_path, svg_path, layers)
@@ -166,9 +227,15 @@ if __name__ == '__main__':
         # convert to png
         svg2png(svg_path, os.path.join(_dirname, filename + '.png'), PNG_DPI)
 
+        ######################################
+        # create a web preview card, cutted out with a drop shadow
+        front_png_path = os.path.join(_dirname, "front_1.png")
+        preview_png_path = os.path.join(destination_path, "front_{level}.png".format(level=level))
+
+        png_add_mask_and_drop_shadow(front_png_path, mask_png_path, preview_png_path)
 
         #####################################
-        # ZIP SETS
+        # ZIP SET
         #####################################
         zip_filename = '{level}.zip'.format(level=level_name)
 
@@ -194,5 +261,23 @@ if __name__ == '__main__':
                 shutil.rmtree(_dirname)
             except IOError:
                 pass
+
+    ###################################
+    # create preview of back cards
+    png_assemble(
+        [os.path.join(destination_path, "back_{level}.png".format(level=level)) for level in range(1, 5)],
+        os.path.join(destination_path, "backs.png"),
+        1000
+    )
+
+    ###################################
+    # create preview of front cards
+    png_assemble(
+        [os.path.join(destination_path, "front_{level}.png".format(level=level)) for level in range(1, 5)],
+        os.path.join(destination_path, "fronts.png"),
+        1000
+    )
+
+
 
     exit(0)

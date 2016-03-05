@@ -22,8 +22,7 @@ le banquier doit décider lui-même s'il doit insuffler des crédits de niveau s
 Les prix des cartes s'adapteront alors à la nouvelle unité supérieure ainsi injectée.
 
 Ainsi, en faisant « tourner la monnaie » s'il le souhaite, par l'injection d'une couleur "haute",
-le banquier pourra dévaluer la monnaie précédemment émise. Ceci est intéressant pour ruiner les emprunteurs
-et leur réclamer des cartes valeurs en remboursement.
+le banquier pourra dévaluer la monnaie précédemment émise.
 
 Ici donc c'est le banquier seul qui va créditer l'économie.
 
