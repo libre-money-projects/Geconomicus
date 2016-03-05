@@ -57,14 +57,14 @@ Les quatre niveaux de valeurs sont des gravures évoquant dans l'ordre :
 
     *Dos des cartes avec les quatre niveaux*
 
-Les valeurs sont représentées par des numéros de 1 à 13. Cela permet de faciliter les échanges.
+Les valeurs sont représentées par des lettres de **A** à **M**. Cela permet de faciliter les échanges.
 
 .. figure:: _static/cards/revolution/fronts.png
     :align: center
 
-    *13 valeurs par niveau*
+    *13 lettres valeurs par niveau*
 
-La taille des cartes est celle des cartes de poker classique (63mm x 88mm, 2.5" x 3.5").
+La taille des cartes est celle des cartes de poker classiques (63mm x 88mm, 2.5" x 3.5").
 
 Chaque archive ZIP contient les 16 images PNG nécessaires à imprimer un paquet de 54 cartes.
 
