@@ -9,20 +9,6 @@ La monnaie
 
 Les billets sont sous la forme de fichiers au format PNG de la taille d'une carte de visite standard (88 × 58 mm).
 
-Style "DU"
-__________
-
-Le style "DU" indique en chiffres les correspondances entre les billets.
-
-.. figure:: _static/money/blue_banknote.png
-    :align: center
-    :width: 50%
-
-* `Cliquer ici pour télécharger le billet vert <./_static/money/green_banknote.png>`_
-* `Cliquer ici pour télécharger le billet bleu <./_static/money/blue_banknote.png>`_
-* `Cliquer ici pour télécharger le billet rouge <./_static/money/red_banknote.png>`_
-* `Cliquer ici pour télécharger le billet jaune <./_static/money/yellow_banknote.png>`_
-
 Style "modern"
 ______________
 

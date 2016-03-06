@@ -73,25 +73,25 @@ On peut jouer avec de simples papiers colorés, mais il est plus pratique d'util
    Pour plus de joueurs, prévoir au moins deux fois le nombre de joueurs par couleur.
 
 
-.. figure:: _static/money/green_banknote.svg
+.. figure:: _static/money/green_banknote_modern.svg
     :align: center
     :width: 40%
 
     *Billet vert*
 
-.. figure:: _static/money/blue_banknote.svg
+.. figure:: _static/money/blue_banknote_modern.svg
     :align: center
     :width: 40%
 
     *Billet bleu*
 
-.. figure:: _static/money/red_banknote.svg
+.. figure:: _static/money/red_banknote_modern.svg
     :align: center
     :width: 40%
 
     *Billet rouge*
 
-.. figure:: _static/money/yellow_banknote.svg
+.. figure:: _static/money/yellow_banknote_modern.svg
     :align: center
     :width: 40%
 
@@ -124,40 +124,41 @@ La valeur la plus haute est dans la case de gauche.
 Dès qu'un joueur a constitué un carré de la plus haute valeur (case de gauche), on décale les valeurs d'une case vers la droite,
 en suivant le sens de la flèche.
 
-Le marqueur de la case "hors jeu" est déplacé dans la case de gauche, et le marqueur de la case de droite rejoint la case "hors jeu".
+Le marqueur de la case du bas ("en attente") est déplacé dans la case de gauche, et le marqueur de la case de droite
+rejoint la case du bas.
 
-Toutes les cartes valeurs "hors jeu" sont défaussées par les joueurs et remise dans la pioche correspondante, sans compensation !
+Toutes les cartes valeurs "en attente" sont défaussées par les joueurs et remise dans la pioche correspondante, sans compensation !
 
 ::
 
     Les marqueurs de valeurs doivent chacun représenter le dos
     d'un paquet de valeurs.
-    C'est à dire les quatre symboles de valeurs (bronze, argent, or, diamant),
+    C'est à dire les quatre symboles de valeurs (alimentation, culture, énergie, technologie),
     si on utilise les cartes Ğeconomicus.
 
-.. figure:: _static/levels/bronze.svg
+.. figure:: _static/levels/level_1.png
     :align: center
-    :width: 10%
+    :width: 30%
 
-    *Marqueur niveau bronze*
+    *Marqueur niveau alimentation*
 
-.. figure:: _static/levels/silver.svg
+.. figure:: _static/levels/level_2.png
     :align: center
-    :width: 10%
+    :width: 30%
 
-    *Marqueur niveau argent*
+    *Marqueur niveau culture*
 
-.. figure:: _static/levels/gold.svg
+.. figure:: _static/levels/level_3.png
     :align: center
-    :width: 10%
+    :width: 30%
 
-    *Marqueur niveau or*
+    *Marqueur niveau énergie*
 
-.. figure:: _static/levels/diamond.svg
+.. figure:: _static/levels/level_4.png
     :align: center
-    :width: 10%
+    :width: 30%
 
-    *Marqueur niveau diamant*
+    *Marqueur niveau technologie*
 
 
 Marqueurs de billets
@@ -168,9 +169,10 @@ Les marqueurs de billets permettent aux joueurs de savoir, à chaque tour, qu'el
 Avant chaque tour, on décale les marqueurs d'une case vers la droite, en suivant le sens de la flêche.
 La marqueur de la case de droite rejoint alors la case centrale.
 
-Le marqueur de la case "hors jeu" est déplacé dans la case de gauche, et le marqueur de la case de droite rejoint la case "hors jeu".
+Le marqueur de la case du bas ("en attente") est déplacé dans la case de gauche, et le marqueur de la case de droite rejoint la case du bas.
 
-Pour imprimer les marqueurs de billets, imprimer une planche supplémentaire de billets ou utiliser les billets du chapitre `Billets de la monnaie`_.
+Pour imprimer les marqueurs de billets, imprimer une planche supplémentaire de billets
+ou utiliser les billets du chapitre `Billets de la monnaie`_.
 
 
 Mise en place
@@ -180,13 +182,13 @@ Sur une table accessible à tous, l'animateur dispose les deux feuilles d'aide e
 
 Sur la première feuille, il dispose les 4 marqueurs de valeurs dans les cases.
 
-De gauche à droite : or, argent, bronze.
+De gauche à droite : énergie, culture, alimentation.
 
-Valeur "hors jeu" : diamant.
+Valeur "en attente" : technologie.
 
 .. figure:: _static/help_sheets/help_sheet_values.svg
     :align: center
-    :width: 50%
+    :width: 100%
 
     *Feuille d'aide des valeurs*
 
@@ -198,16 +200,17 @@ Billet en attente : les jaunes.
 
 .. figure:: _static/help_sheets/help_sheet_money.svg
     :align: center
-    :width: 50%
+    :width: 100%
 
     *Feuille d'aide de la monnaie*
 
 
-Il mélange le paquet des cartes de la valeur la plus basse (le bronze) et éparpille les cartes faces cachées sur la table.
+Il mélange le paquet des cartes de la valeur la plus basse (alimentation) et éparpille les cartes faces cachées sur la table.
 
-Il demande alors aux joueurs de piocher chacun 4 cartes au hasard. Ces cartes représentent les valeurs économiques de départ que possèdent les joueurs.
+Il demande alors aux joueurs de piocher chacun 4 cartes au hasard.
+Ces cartes représentent les valeurs économiques de départ que possèdent les joueurs.
 
-Il prépare aussi deux pioches étalées sur la table avec les deux autres paquets de valeur en jeu (argent et or).
+Il prépare aussi deux pioches étalées sur la table avec les deux autres paquets de valeur en jeu (culture et énergie).
 
 
 But du jeu
@@ -221,7 +224,7 @@ Pour cela, chaque joueur, doit acheter et vendre des cartes valeur du même paqu
 
 Pour cela, il défausse son "carré" dans la pioche du paquet correspondant, et pioche quatre nouvelles cartes de ce même paquet.
 
-Ainsi, si sa main était de quatre cartes "bronze", elle contient maintenant cinq cartes, quatre nouvelles "bronze" et une "argent".
+Ainsi, si sa main était de quatre cartes "alimentation", elle contient maintenant cinq cartes, quatre nouvelles "alimentation" et une "culture".
 
 ::
 
