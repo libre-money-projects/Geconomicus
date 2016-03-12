@@ -16,6 +16,13 @@ La couleur la plus haute vaut 2 unités, la suivante 1 unité et la dernière 1/
 
 Une carte valeur vaut 1 unité monétaire au départ.
 
+::
+
+    Important :
+    il est interdit de troquer une carte contre une autre.
+    Les joueurs doivent toujours avoir la monnaie suffisante
+    pour acheter la carte qu'il désire !
+
 La monnaie fonctionne toujours selon le principe roulant dans le temps, ce qui permet, si le banquier le souhaite,
 de faire tourner les couleurs s'il l'estime nécessaire. Mais ici ce n'est pas une obligation,
 le banquier doit décider lui-même s'il doit insuffler des crédits de niveau supérieur ou pas dans l'économie.

@@ -26,6 +26,14 @@ Il y a donc ainsi toujours 3 couleurs de billets en jeu valant respectivement 1/
 Les valeurs monétaires des cartes se fondent sur le DU de référence en vigueur, et les cartes de valeur la plus basse
 (le plus souvent ce seront les cartes de niveau bronze pour les cartes standards Ğeconomicus), valent chacune 3 DU.
 
+::
+
+    Important :
+    il est interdit de troquer une carte contre une autre.
+    Les joueurs doivent toujours avoir la monnaie suffisante
+    pour acheter la carte qu'il désire !
+
+
 Comme on distribue 2 billets supplémentaires de couleur haute  à chaque tour, et que l'on élimine les billets de couleur basse,
 on aura donc une moyenne de DU distribué par joueur, pour 3 couleurs égale à :
 
