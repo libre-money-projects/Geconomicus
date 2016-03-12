@@ -62,6 +62,30 @@ Elle sont constituées de 4 paquets de cartes à dos différents.
 
 Chaque paquet contient 13 séries de 4 cartes identiques, soit 52 cartes.
 
+Style "révolution"
+__________________
+
+Le style "révolution" évoque la révolution industrielle du 19ème siècle.
+
+Les quatre niveaux de valeurs sont des gravures évoquant dans l'ordre :
+
+1. L'alimentation : représente les valeurs qui concernent les ressources alimentaires.
+2. La culture : représente les valeurs culturelles.
+3. L'énergie : représente les valeurs qui concernent les ressources énergétiques.
+4. La technologie : représente les valeurs technologiques.
+
+.. figure:: _static/cards/revolution/backs.png
+    :align: center
+
+    *Dos des cartes avec les quatre niveaux*
+
+Les valeurs sont représentées par des lettres de **A** à **M**. Cela permet de faciliter les échanges.
+
+.. figure:: _static/cards/revolution/fronts.png
+    :align: center
+
+    *13 lettres valeurs par niveau*
+
 
 Billets de la monnaie
 ---------------------

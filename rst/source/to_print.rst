@@ -31,25 +31,6 @@ __________________
 
 Le style "révolution" évoque la révolution industrielle du 19ème siècle.
 
-Les quatre niveaux de valeurs sont des gravures évoquant dans l'ordre :
-
-1. L'alimentation : représente les valeurs qui concernent les ressources alimentaires.
-2. La culture : représente les valeurs culturelles.
-3. L'énergie : représente les valeurs qui concernent les ressources énergétiques.
-4. La technologie : représente les valeurs technologiques.
-
-.. figure:: _static/cards/revolution/backs.png
-    :align: center
-
-    *Dos des cartes avec les quatre niveaux*
-
-Les valeurs sont représentées par des lettres de **A** à **M**. Cela permet de faciliter les échanges.
-
-.. figure:: _static/cards/revolution/fronts.png
-    :align: center
-
-    *13 lettres valeurs par niveau*
-
 La taille des cartes est celle des cartes de poker classiques (63mm x 88mm, 2.5" x 3.5").
 
 Chaque archive ZIP contient les 16 images PNG nécessaires à imprimer un paquet de 54 cartes.
@@ -69,7 +50,4 @@ Liens de téléchargements :
 * `Cliquer ici pour télécharger le modèle du dos des cartes <./_static/cards/revolution/back_layers.svg>`_
 * `Cliquer ici pour télécharger le modèle du dessus des cartes <./_static/cards/revolution/front_layers.svg>`_
 
-::
-
-    Vous pouvez aussi faire imprimer quatre jeux de 52 cartes classiques avec le dos personnalisé.
 
