@@ -227,6 +227,7 @@ L'animateur doit maintenant expliquer aux joueurs les règles qui régissent la 
 
     debt_money.rst
     libre_money.rst
+    other_money.rst
 
 ::
 
