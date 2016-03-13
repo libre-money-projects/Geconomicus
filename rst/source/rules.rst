@@ -261,9 +261,10 @@ Mais attention, la mort rôde et les générations se succèdent…
 L'animateur classe les joueurs en dix classes d'âges reparties sur les dix tours.
 À chaque tour, la classe d'âge correspondante meurt et reviens en jeu en tant que nouveau-né.
 
-Exemples
-    À 20 joueurs, 2 joueurs meurt par tour.
-    À 15 joueurs, un ou deux joueurs meurt selon la repartition faîtes sur les dix tours.
+Exemples :
+ À 20 joueurs, 2 joueurs meurent par tour.
+
+ À 15 joueurs, un ou deux joueurs meurent selon la repartition faîtes sur les dix tours.
 
 Seul l'animateur connaît à l'avance le nom du ou des défunts de chaque tour.
 
