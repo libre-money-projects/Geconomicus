@@ -15,8 +15,7 @@ Les joueurs y achètent et vendent des valeurs économiques dans le but d'en cr�
 Le temps est un facteur important du jeu, à plusieurs niveaux, notamment par le cycle de vie des humains et des valeurs.
 
 L'intérêt du jeu est surtout de comparer différents types de monnaies, dont le concept de monnaie libre,
- tel que défini dans `La Théorie Relative de la Monnaie
-<http://trm.creationmonetaire.info>`_.
+ tel que défini dans `La Théorie Relative de la Monnaie <http://trm.creationmonetaire.info>`_.
 
 Liens utiles :
 
