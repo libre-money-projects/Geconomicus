@@ -179,7 +179,7 @@ De gauche à droite : énergie, culture, alimentation.
 
 Valeur "en attente" : technologie.
 
-.. figure:: _static/help_sheets/help_sheet_values.svg
+.. figure:: _static/help_sheets/help_sheet_markers.png
     :align: center
     :width: 100%
 
@@ -191,7 +191,7 @@ De gauche à droite : Vert, bleu, rouge.
 
 Billet en attente : les jaunes.
 
-.. figure:: _static/help_sheets/help_sheet_money.svg
+.. figure:: _static/help_sheets/help_sheet_banknotes.png
     :align: center
     :width: 100%
 
