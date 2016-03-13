@@ -22,7 +22,7 @@ Liens utiles :
 
 * `Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`_
 * `Dépôt GitHub <https://github.com/galuel/Geconomicus>`_
-* `Vidéos de compte-rendu sur YouTube <https://www.youtube.com/channel/UCcleYg38FkqwP1B5TxZe5Cw>`_
+* `Vidéos de compte-rendu sur YouTube <https://www.youtube.com/watch?v=KUVTQWmZWuY&list=PLpnzpufBlv-mdpm3VMf0vSkrGoijNkbXb>`_
 
 *Jeu sous license libre* `GPL v3 <http://www.gnu.org/licenses/gpl-3.0.fr.html>`_
 
