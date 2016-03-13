@@ -136,17 +136,19 @@ Sur la seconde feuille, on dispose les 4 marqueurs de billets dans les cases.
 Marqueurs de valeurs
 --------------------
 
-Les marqueurs de valeurs permettent aux joueurs de savoir, à chaque tour, qu'elle est la valeur la plus haute et l'ordre des valeurs.
+Les marqueurs de valeurs permettent aux joueurs de savoir, à chaque tour, qu'elle est la valeur la plus haute
+et l'ordre des valeurs.
 
-La valeur la plus haute est dans la case de gauche.
+La valeur en jeu la plus haute est dans la case de droite.
 
-Dès qu'un joueur a constitué un carré de la plus haute valeur (case de gauche), on décale les valeurs d'une case vers la droite,
-en suivant le sens de la flèche.
+Dès qu'un joueur a constitué un carré de la plus haute valeur (case de droite),
+on décale les valeurs d'une case vers la gauche, en suivant le sens des flèches.
 
-Le marqueur de la case du bas ("en attente") est déplacé dans la case de gauche, et le marqueur de la case de droite
+Le marqueur de la case du bas ("en attente") est déplacé dans la case de droite, et le marqueur de la case de gauche
 rejoint la case du bas.
 
-Toutes les cartes valeurs "en attente" sont défaussées par les joueurs et remise dans la pioche correspondante, sans compensation !
+Toutes les cartes valeurs "en attente" sont défaussées par les joueurs et remise dans la pioche correspondante,
+sans compensation !
 
 .. figure:: _static/cards/revolution/markers.png
     :align: center
@@ -157,14 +159,15 @@ Toutes les cartes valeurs "en attente" sont défaussées par les joueurs et remi
 Marqueurs de billets
 --------------------
 
-Les marqueurs de billets permettent aux joueurs de savoir, à chaque tour, qu'elle est le billet le plus haut et l'ordre des billets.
+Les marqueurs de billets permettent aux joueurs de savoir, à chaque tour, qu'elle est le billet le plus haut
+et l'ordre des billets.
 
-Avant chaque tour, on décale les marqueurs d'une case vers la droite, en suivant le sens de la flêche.
-La marqueur de la case de droite rejoint alors la case centrale.
+Avant chaque tour, on décale les marqueurs d'une case vers la gauche, en suivant le sens des flêches.
 
-Le marqueur de la case du bas ("en attente") est déplacé dans la case de gauche, et le marqueur de la case de droite rejoint la case du bas.
+Le marqueur de la case du bas ("en attente") est déplacé dans la case de droite,
+et le marqueur de la case de gauvche rejoint la case du bas.
 
-Pour imprimer les marqueurs de billets, imprimer une planche supplémentaire de billets
+Pour imprimer les marqueurs de billets, il faut imprimer une planche supplémentaire de billets
 ou utiliser les billets du chapitre `Billets de la monnaie`_.
 
 
@@ -175,9 +178,9 @@ Sur une table accessible à tous, l'animateur dispose les deux feuilles d'aide e
 
 Sur la première feuille, il dispose les 4 marqueurs de valeurs dans les cases.
 
-De gauche à droite : énergie, culture, alimentation.
+De gauche à droite : l'alimentation, la culture, l'énergie.
 
-Valeur "en attente" : technologie.
+Valeur "en attente" : la technologie.
 
 .. figure:: _static/help_sheets/help_sheet_markers.png
     :align: center
@@ -187,9 +190,9 @@ Valeur "en attente" : technologie.
 
 Sur la seconde feuille, il dispose les 4 marqueurs de billets dans les cases.
 
-De gauche à droite : Vert, bleu, rouge.
+De gauche à droite : le rouge, le jaune, le vert.
 
-Billet en attente : les jaunes.
+Billet en attente : le bleu.
 
 .. figure:: _static/help_sheets/help_sheet_banknotes.png
     :align: center
@@ -198,7 +201,8 @@ Billet en attente : les jaunes.
     *Feuille d'aide de la monnaie*
 
 
-Il mélange le paquet des cartes de la valeur la plus basse (alimentation) et éparpille les cartes faces cachées sur la table.
+Il mélange le paquet des cartes de la valeur la plus basse (alimentation)
+et éparpille les cartes faces cachées sur la table.
 
 Il demande alors aux joueurs de piocher chacun 4 cartes au hasard.
 Ces cartes représentent les valeurs économiques de départ que possèdent les joueurs.
@@ -211,13 +215,17 @@ But du jeu
 
 Le but du jeu est de créer le plus de valeurs économiques possibles.
 
-Pour cela, chaque joueur, doit acheter et vendre des cartes valeur du même paquet, afin de constituer un "carré" de quatre cartes identiques.
+Pour cela, chaque joueur, doit acheter et vendre des cartes valeur du même paquet,
+afin de constituer un "carré" de quatre cartes identiques.
 
-À chaque "carré" obtenu, le joueur gagne une carte du paquet de la valeur supérieure (voir la feuille d'aide des valeurs).
+À chaque "carré" obtenu, le joueur gagne une carte du paquet de la valeur supérieure
+(voir la feuille d'aide des valeurs).
 
-Pour cela, il défausse son "carré" dans la pioche du paquet correspondant, et pioche quatre nouvelles cartes de ce même paquet.
+Pour cela, il défausse son "carré" dans la pioche du paquet correspondant,
+et pioche quatre nouvelles cartes de ce même paquet.
 
-Ainsi, si sa main était de quatre cartes "alimentation", elle contient maintenant cinq cartes, quatre nouvelles "alimentation" et une "culture".
+Ainsi, si sa main était de quatre cartes "alimentation", elle contient maintenant cinq cartes,
+quatre nouvelles "alimentation" et une "culture".
 
 
 Règles monétaires
@@ -242,19 +250,20 @@ L'animateur doit maintenant expliquer aux joueurs les règles qui régissent la 
 Déroulement de la partie
 ------------------------
 
-La partie se déroule en 10 tours chronométrés de cinq minutes maximum. On peut réduire à trois minutes si on veut accélérer le jeu.
+La partie se déroule en 10 tours chronométrés de cinq minutes maximum.
+On peut réduire à trois minutes si on veut accélérer le jeu.
 
-Chaque tour représente 8 ans. À la fin d'une partie, chaque joueur aura donc vécu 80 ans, ce qui est l'espérance de vie moyenne en Europe.
+Chaque tour représente 8 ans. À la fin d'une partie, chaque joueur aura donc vécu 80 ans,
+ce qui est l'espérance de vie moyenne en Europe.
 
 Mais attention, la mort rôde et les générations se succèdent…
 
-L'animateur classe les joiueur en dix classes d'ages reparties sur les dix tours.
-À chaque tour, la classe d'age correspondante meurt et reviens en jeu en tant que nouveau-né.
+L'animateur classe les joueurs en dix classes d'âges reparties sur les dix tours.
+À chaque tour, la classe d'âge correspondante meurt et reviens en jeu en tant que nouveau-né.
 
-exemples
-
+Exemples
     À 20 joueurs, 2 joueurs meurt par tour.
-    A 15 joueurs, un ou deux joueurs meurt selon la repartition faîtes sur les dix tours.
+    À 15 joueurs, un ou deux joueurs meurt selon la repartition faîtes sur les dix tours.
 
 Seul l'animateur connaît à l'avance le nom du ou des défunts de chaque tour.
 
