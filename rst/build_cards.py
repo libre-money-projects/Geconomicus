@@ -82,15 +82,28 @@ def png_add_mask_and_drop_shadow(source_filepath, mask_filepath, destination_fil
         exit(status)
 
 
-def png_assemble(sources, destination_path, offset):
+def png_assemble(sources, destination_path, offset, rotate=0):
+    """
+    Compose sources side by side horizontally on a transparent background
 
+    :param list sources:    List of sources pathes
+    :param str destination_path: Path of detsination file
+    :param int offset:  Offset in pixels
+    :param int rotate: Optional, default=0, rotate N degree
+    :return:
+    """
     command = "convert"
     quoted_destination_filepath = destination_path
+
     count = 0
     for png_filepath in sources:
         quoted_png_filepath = shlex.quote(png_filepath)
 
-        command += " -page +{offset}+0 {png_filepath}".format(offset=count*offset, png_filepath=quoted_png_filepath)
+        command += " -page +{offset}+0 \( -rotate {rotate} {png_filepath} \)".format(
+            offset=count*offset,
+            png_filepath=quoted_png_filepath,
+            rotate=rotate
+        )
 
     command += " +append {destination_path}".format(destination_path=quoted_destination_filepath)
 
@@ -204,16 +217,23 @@ if __name__ == '__main__':
             card_number += 1
 
         ####################################
-        # create marker card by using backs
+        # create marker cards from back_layers.svg
         filename = 'front_53'
         svg_path = os.path.join(_dirname, filename + '.svg')
-        layers = ['background_{level}'.format(level=level), level_name]
+        layers = ['background_{level}'.format(level=level), 'marker_{level}'.format(level=level)]
 
         # compose svg layers
         svg2svg(back_layers_path, svg_path, layers)
 
         # convert to png
         svg2png(svg_path, os.path.join(_dirname, filename + '.png'), PNG_DPI)
+
+        ######################################
+        # create a web preview card of a marker card, cutted out with a drop shadow
+        front_png_path = os.path.join(_dirname, "front_53.png")
+        preview_png_path = os.path.join(destination_path, "marker_{level}.png".format(level=level))
+
+        png_add_mask_and_drop_shadow(front_png_path, mask_png_path, preview_png_path)
 
         #####################################
         # create notice card
@@ -228,7 +248,7 @@ if __name__ == '__main__':
         svg2png(svg_path, os.path.join(_dirname, filename + '.png'), PNG_DPI)
 
         ######################################
-        # create a web preview card, cutted out with a drop shadow
+        # create a web preview card of a front card, cutted out with a drop shadow
         front_png_path = os.path.join(_dirname, "front_1.png")
         preview_png_path = os.path.join(destination_path, "front_{level}.png".format(level=level))
 
@@ -278,6 +298,13 @@ if __name__ == '__main__':
         1000
     )
 
-
+    ###################################
+    # create preview of marker cards
+    png_assemble(
+        [os.path.join(destination_path, "marker_{level}.png".format(level=level)) for level in range(1, 5)],
+        os.path.join(destination_path, "markers.png"),
+        1000,
+        270
+    )
 
     exit(0)

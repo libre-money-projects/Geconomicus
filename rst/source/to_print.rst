@@ -4,6 +4,15 @@
 
 Nous vous proposons ici des fichiers destinés à être imprimés, pour obtenir les cartes et les billets dédiés au jeu.
 
+La feuille d'aide
+-----------------
+
+À imprimer en deux exemplaires.
+
+.. figure:: _static/help_sheets/help_sheet.svg
+    :align: center
+    :scale: 100
+
 La monnaie
 ----------
 

@@ -93,19 +93,6 @@ Billets de la monnaie
 Il faut 4 couleurs de 20 billets chacune. La monnaie en jeu est constituée de 60 billets colorés.
 Et il y a une couleur contituée de 20 billets en attente.
 
-
-.. figure:: _static/money/green_banknote_modern.svg
-    :align: center
-    :width: 40%
-
-    *Billet vert*
-
-.. figure:: _static/money/blue_banknote_modern.svg
-    :align: center
-    :width: 40%
-
-    *Billet bleu*
-
 .. figure:: _static/money/red_banknote_modern.svg
     :align: center
     :width: 40%
@@ -118,6 +105,17 @@ Et il y a une couleur contituée de 20 billets en attente.
 
     *Billet jaune*
 
+.. figure:: _static/money/green_banknote_modern.svg
+    :align: center
+    :width: 40%
+
+    *Billet vert*
+
+.. figure:: _static/money/blue_banknote_modern.svg
+    :align: center
+    :width: 40%
+
+    *Billet bleu*
 
 Feuilles d'aide
 ---------------
@@ -150,30 +148,11 @@ rejoint la case du bas.
 
 Toutes les cartes valeurs "en attente" sont défaussées par les joueurs et remise dans la pioche correspondante, sans compensation !
 
-.. figure:: _static/levels/level_1.png
+.. figure:: _static/cards/revolution/markers.png
     :align: center
-    :width: 30%
+    :width: 100%
 
-    *Marqueur niveau alimentation*
-
-.. figure:: _static/levels/level_2.png
-    :align: center
-    :width: 30%
-
-    *Marqueur niveau culture*
-
-.. figure:: _static/levels/level_3.png
-    :align: center
-    :width: 30%
-
-    *Marqueur niveau énergie*
-
-.. figure:: _static/levels/level_4.png
-    :align: center
-    :width: 30%
-
-    *Marqueur niveau technologie*
-
+    *Marqueurs de valeurs*
 
 Marqueurs de billets
 --------------------
