@@ -6,6 +6,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="301.18109"
@@ -29,6 +30,10 @@
   </metadata>
   <defs
      id="defs3210">
+    <color-profile
+       name="PSO-Coated-v3"
+       xlink:href="/home/vit/.local/share/color/icc/PSOcoated_v3.icc"
+       id="color-profile5107" />
     <linearGradient
        id="linearGradient7553"
        osb:paint="solid">
@@ -47,8 +52,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1615"
-     inkscape:window-height="1026"
+     inkscape:window-width="876"
+     inkscape:window-height="465"
      id="namedview3208"
      showgrid="true"
      inkscape:document-units="cm"
@@ -60,12 +65,12 @@
      fit-margin-bottom="0"
      showborder="true"
      borderlayer="true"
-     inkscape:zoom="1.8748816"
-     inkscape:cx="46.363122"
-     inkscape:cy="-16.42811"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.9374408"
+     inkscape:cx="152.99468"
+     inkscape:cy="77.698101"
+     inkscape:window-x="738"
+     inkscape:window-y="465"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg3182"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -107,11 +112,11 @@
      y="-8.0499121e-06"
      width="301.18109"
      height="194.88188"
-     style="fill:#ffff00;fill-opacity:1;stroke:none"
+     style="fill:#fde300 icc-color(PSO-Coated-v3, 0, 0, 1, 0.00032044);fill-opacity:1;stroke:none"
      id="rect3186" />
   <path
      sodipodi:type="arc"
-     style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.99212599000000001;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+     style="fill:#00a55c icc-color(PSO-Coated-v3, 1, 0, 0.99539173, 0);fill-opacity:1;stroke:#000000;stroke-width:0.99212599000000001;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
      id="path3996"
      sodipodi:cx="128.08824"
      sodipodi:cy="37.734821"
@@ -124,7 +129,7 @@
   <path
      transform="translate(97.638488,-4.6065288)"
      sodipodi:type="arc"
-     style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     style="fill:#e20f23 icc-color(PSO-Coated-v3, 0.0000763, 0.99999994, 0.85043955, 0);fill-opacity:1;stroke:#000000;stroke-opacity:1"
      id="path3996-9"
      sodipodi:cx="128.08824"
      sodipodi:cy="37.734821"
@@ -134,7 +139,7 @@
   <path
      transform="translate(117.63848,-4.6065288)"
      sodipodi:type="arc"
-     style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     style="fill:#e20f23 icc-color(PSO-Coated-v3, 0.0000763, 0.99999994, 0.85043955, 0);fill-opacity:1;stroke:#000000;stroke-opacity:1"
      id="path3996-3"
      sodipodi:cx="128.08824"
      sodipodi:cy="37.734821"
@@ -144,7 +149,7 @@
   <path
      transform="translate(97.638484,124.01876)"
      sodipodi:type="arc"
-     style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     style="fill:#e20f23 icc-color(PSO-Coated-v3, 0.0000763, 0.99999994, 0.85043955, 0);fill-opacity:1;stroke:#000000;stroke-opacity:1"
      id="path3996-9-0"
      sodipodi:cx="128.08824"
      sodipodi:cy="37.734821"
@@ -154,7 +159,7 @@
   <path
      transform="translate(117.63848,124.01876)"
      sodipodi:type="arc"
-     style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     style="fill:#e20f23 icc-color(PSO-Coated-v3, 0.0000763, 0.99999994, 0.85043955, 0);fill-opacity:1;stroke:#000000;stroke-opacity:1"
      id="path3996-3-7"
      sodipodi:cx="128.08824"
      sodipodi:cy="37.734821"
@@ -164,7 +169,7 @@
   <path
      transform="matrix(-1,0,0,1,203.54262,124.14706)"
      sodipodi:type="arc"
-     style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     style="fill:#e20f23 icc-color(PSO-Coated-v3, 0.0000763, 0.99999994, 0.85043955, 0);fill-opacity:1;stroke:#000000;stroke-opacity:1"
      id="path3996-9-3-1"
      sodipodi:cx="128.08824"
      sodipodi:cy="37.734821"
@@ -174,7 +179,7 @@
   <path
      transform="matrix(-1,0,0,1,183.54262,124.14706)"
      sodipodi:type="arc"
-     style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     style="fill:#e20f23 icc-color(PSO-Coated-v3, 0.0000763, 0.99999994, 0.85043955, 0);fill-opacity:1;stroke:#000000;stroke-opacity:1"
      id="path3996-3-6-2"
      sodipodi:cx="128.08824"
      sodipodi:cy="37.734821"
@@ -184,7 +189,7 @@
   <path
      transform="matrix(-1,0,0,1,201.25915,-4.6065245)"
      sodipodi:type="arc"
-     style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     style="fill:#e20f23 icc-color(PSO-Coated-v3, 0.0000763, 0.99999994, 0.85043955, 0);fill-opacity:1;stroke:#000000;stroke-opacity:1"
      id="path3996-9-3-1-7"
      sodipodi:cx="128.08824"
      sodipodi:cy="37.734821"
@@ -194,7 +199,7 @@
   <path
      transform="matrix(-1,0,0,1,183.54262,-4.6065288)"
      sodipodi:type="arc"
-     style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     style="fill:#e20f23 icc-color(PSO-Coated-v3, 0.0000763, 0.99999994, 0.85043955, 0);fill-opacity:1;stroke:#000000;stroke-opacity:1"
      id="path3996-3-6-2-5"
      sodipodi:cx="128.08824"
      sodipodi:cy="37.734821"
@@ -203,7 +208,7 @@
      d="m 143.00001,37.734821 a 14.911765,14.911765 0 1 1 -29.82353,0 14.911765,14.911765 0 1 1 29.82353,0 z" />
   <text
      xml:space="preserve"
-     style="font-size:95.62467194px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff7f00;fill-opacity:1;stroke:none;font-family:Sans"
+     style="font-size:95.62467193999999893px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f67d15 icc-color(PSO-Coated-v3, 0, 0.58957809, 0.89073014, 0);fill-opacity:1;stroke:none;font-family:Sans"
      x="113.47062"
      y="141.14439"
      id="text3007"
@@ -214,11 +219,11 @@
        id="tspan3009"><tspan
          x="113.47062"
          y="141.14439"
-         style="font-variant:normal;font-stretch:normal;fill:#ff7f00;font-family:Serif;-inkscape-font-specification:Serif"
+         style="font-variant:normal;font-stretch:normal;fill:#f67d15 icc-color(PSO-Coated-v3, 0, 0.58957809, 0.89073014, 0);font-family:Serif;-inkscape-font-specification:Serif;fill-opacity:1"
          id="tspan3011">Ğ</tspan></tspan></text>
   <path
      sodipodi:type="arc"
-     style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.99212599000000001;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+     style="fill:#00a55c icc-color(PSO-Coated-v3, 1, 0, 0.99539173, 0);fill-opacity:1;stroke:#000000;stroke-width:0.99212599000000001;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
      id="path3996-36"
      sodipodi:cx="128.08824"
      sodipodi:cy="37.734821"
@@ -230,7 +235,7 @@
      transform="translate(-94.963878,124.151)" />
   <path
      sodipodi:type="arc"
-     style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.99212599000000001;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+     style="fill:#00a55c icc-color(PSO-Coated-v3, 1, 0, 0.99539173, 0);fill-opacity:1;stroke:#000000;stroke-width:0.99212599000000001;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
      id="path3996-2"
      sodipodi:cx="128.08824"
      sodipodi:cy="37.734821"
@@ -242,7 +247,7 @@
      transform="matrix(-1,0,0,1,396.14498,-4.6104658)" />
   <path
      sodipodi:type="arc"
-     style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.99212599000000001;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+     style="fill:#00a55c icc-color(PSO-Coated-v3, 1, 0, 0.99539173, 0);fill-opacity:1;stroke:#000000;stroke-width:0.99212599000000001;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
      id="path3996-2-6"
      sodipodi:cx="128.08824"
      sodipodi:cy="37.734821"
