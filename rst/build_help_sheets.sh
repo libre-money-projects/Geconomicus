@@ -27,8 +27,8 @@ convert "${HELP_SHEET_PNG_PATH}" \
 
 # create banknotes help sheet
 convert "${HELP_SHEET_PNG_PATH}" \
-\( "${BANKNOTES_PATH}/red_banknote_modern.png" \) -geometry +100+450 -composite \
-\( "${BANKNOTES_PATH}/yellow_banknote_modern.png" \) -geometry +1250+450 -composite \
-\( "${BANKNOTES_PATH}/green_banknote_modern.png" \) -geometry +2400+450 -composite \
-\( "${BANKNOTES_PATH}/blue_banknote_modern.png" \) -geometry +1250+1450 -composite \
+\( "${BANKNOTES_PATH}/red_banknote_modern_preview.png" \) -geometry +100+450 -composite \
+\( "${BANKNOTES_PATH}/yellow_banknote_modern_preview.png" \) -geometry +1250+450 -composite \
+\( "${BANKNOTES_PATH}/green_banknote_modern_preview.png" \) -geometry +2400+450 -composite \
+\( "${BANKNOTES_PATH}/blue_banknote_modern_preview.png" \) -geometry +1250+1450 -composite \
 "${HELP_SHEET_BANKNOTES_PATH}"

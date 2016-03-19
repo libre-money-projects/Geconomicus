@@ -93,25 +93,25 @@ Billets de la monnaie
 Il faut 4 couleurs de 20 billets chacune. La monnaie en jeu est constituée de 60 billets colorés.
 Et il y a une couleur contituée de 20 billets en attente.
 
-.. figure:: _static/money/red_banknote_modern.svg
+.. figure:: _static/money/red_banknote_modern_preview.png
     :align: center
     :width: 40%
 
     *Billet rouge*
 
-.. figure:: _static/money/yellow_banknote_modern.svg
+.. figure:: _static/money/yellow_banknote_modern_preview.png
     :align: center
     :width: 40%
 
     *Billet jaune*
 
-.. figure:: _static/money/green_banknote_modern.svg
+.. figure:: _static/money/green_banknote_modern_preview.png
     :align: center
     :width: 40%
 
     *Billet vert*
 
-.. figure:: _static/money/blue_banknote_modern.svg
+.. figure:: _static/money/blue_banknote_modern_preview.png
     :align: center
     :width: 40%
 
