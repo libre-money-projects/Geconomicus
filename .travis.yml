@@ -1,11 +1,11 @@
 language: python
 
 python:
-- '3.4'
+  - '3.4'
 
 branches:
   only:
-  - dev
+    - dev
 
 before_install:
 - sudo apt-get -qq update
@@ -35,7 +35,7 @@ deploy:
   # deploy zip releases on tags
   - provider: releases
     api_key:
-    secure: muTCTtKjhLZtLSNS+OZCMh0kcHoW2hdpQkkGlX53RELYrg91mF8KAsVGFWwGGxfJlp/N+nTrBIphyCeef62NNSsME6wPOFZlfUGYv8QupxGCt8+phzHGRBphKvReQca2S0KnWX0L07kdwmzV7gZia1WTkAcH6HnZOxPY1MYJ9YJTFK75aW+r4VZGsdv2g8PJdMbxJBC83fFanLJ6mqrWvv6umxwCXRnfvhFVUFXiRdh4b2YF8jTX+EJ5ZhbCPb41i1uppzqxpgeIHEQMCJvNNPIikkRXO8SugswtM4BvYqCBVl0tBd7vuQCRw5PGTduoKgPsN+1sF4J1aLYg9hfx/AoWg1RpbqUVzIM0O7GAI49e6WL/2mKq2cE9nF0izxibfWYMLfSsjHAGeR2S7UgN6/5BmVFAVErwkVZTaJt+Z8E63UcGncmBLKIlp/usj+0BuTT4rUBknqeFmi9SSWdxV7ux2AceBCcHa0mXsAf5BJD4R4c1R/YYnrVWrH9iScpsl8x97lgIZs9XCdmSrZ94O90BEJzAPhz9hFgp1ZQzt1RmZs6HtQZVe3agmJvCPzFZ4Yy9lLtbVNeez00vkmpcW4kTMoNpCHZ8y5oo5ASFhxy+En9NjPOAFUSernKEnF7rKmjBpFXXEU0gFTZsx1DOBbfVhh+JPRIoXjc2m0TjS68=
+      secure: muTCTtKjhLZtLSNS+OZCMh0kcHoW2hdpQkkGlX53RELYrg91mF8KAsVGFWwGGxfJlp/N+nTrBIphyCeef62NNSsME6wPOFZlfUGYv8QupxGCt8+phzHGRBphKvReQca2S0KnWX0L07kdwmzV7gZia1WTkAcH6HnZOxPY1MYJ9YJTFK75aW+r4VZGsdv2g8PJdMbxJBC83fFanLJ6mqrWvv6umxwCXRnfvhFVUFXiRdh4b2YF8jTX+EJ5ZhbCPb41i1uppzqxpgeIHEQMCJvNNPIikkRXO8SugswtM4BvYqCBVl0tBd7vuQCRw5PGTduoKgPsN+1sF4J1aLYg9hfx/AoWg1RpbqUVzIM0O7GAI49e6WL/2mKq2cE9nF0izxibfWYMLfSsjHAGeR2S7UgN6/5BmVFAVErwkVZTaJt+Z8E63UcGncmBLKIlp/usj+0BuTT4rUBknqeFmi9SSWdxV7ux2AceBCcHa0mXsAf5BJD4R4c1R/YYnrVWrH9iScpsl8x97lgIZs9XCdmSrZ94O90BEJzAPhz9hFgp1ZQzt1RmZs6HtQZVe3agmJvCPzFZ4Yy9lLtbVNeez00vkmpcW4kTMoNpCHZ8y5oo5ASFhxy+En9NjPOAFUSernKEnF7rKmjBpFXXEU0gFTZsx1DOBbfVhh+JPRIoXjc2m0TjS68=
     file: ./rst/build/geconomicus.zip
     skip_cleanup: true
     on:
