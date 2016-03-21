@@ -94,3 +94,12 @@ To deactivate the environment in your shell:
 ```
 
 The rules are generated in the `rst/build/html` folder.
+
+## ICC profile
+
+We use the `PSOcoated_v3` icc profile, downloaded at http://www.eci.org/en/downloads
+
+Locate or create the folder `.local/share/color/icc` and put the profile in it.
+Open `Inkscape > Document Properties > Color Management` and link the profile.
+
+Choose colors in the CMS tab with the `PSOcoated_v3` icc profile selected.

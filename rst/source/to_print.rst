@@ -4,17 +4,37 @@
 
 Nous vous proposons ici des fichiers destinés à être imprimés, pour obtenir les cartes et les billets dédiés au jeu.
 
+La feuille d'aide
+-----------------
+
+À imprimer en deux exemplaires.
+
+.. figure:: _static/help_sheets/help_sheet.svg
+    :align: center
+    :scale: 100
+
 La monnaie
 ----------
 
 Les billets sont sous la forme de fichiers au format PNG de la taille d'une carte de visite standard (88 × 58 mm).
+
+::
+
+    Taille marges pleines comprises
+    88 x 58 mm
+    1040 x 685 pixels en 300 dpi
+
+    Taille du document coupé
+    85 x 55 mm
+    1004 x 650 pixels en 300 dpi
+
 
 Style "modern"
 ______________
 
 Le style "modern" utilise des ronds de couleurs pour signaler les correspondances entre les billets.
 
-.. figure:: _static/money/blue_banknote_modern.png
+.. figure:: _static/money/blue_banknote_modern_preview.png
     :align: center
     :width: 50%
 
@@ -26,30 +46,6 @@ Le style "modern" utilise des ronds de couleurs pour signaler les correspondance
 Les cartes valeur
 -----------------
 
-Style "révolution"
-__________________
-
-Le style "révolution" évoque la révolution industrielle du 19ème siècle.
-
-Les quatre niveaux de valeurs sont des gravures évoquant dans l'ordre :
-
-1. L'alimentation : représente les valeurs qui concernent les ressources alimentaires.
-2. La culture : représente les valeurs culturelles.
-3. L'énergie : représente les valeurs qui concernent les ressources énergétiques.
-4. La technologie : représente les valeurs technologiques.
-
-.. figure:: _static/cards/revolution/backs.png
-    :align: center
-
-    *Dos des cartes avec les quatre niveaux*
-
-Les valeurs sont représentées par des lettres de **A** à **M**. Cela permet de faciliter les échanges.
-
-.. figure:: _static/cards/revolution/fronts.png
-    :align: center
-
-    *13 lettres valeurs par niveau*
-
 La taille des cartes est celle des cartes de poker classiques (63mm x 88mm, 2.5" x 3.5").
 
 Chaque archive ZIP contient les 16 images PNG nécessaires à imprimer un paquet de 54 cartes.
@@ -58,6 +54,15 @@ Chaque archive ZIP contient les 16 images PNG nécessaires à imprimer un paquet
 * Les 13 valeurs à imprimer en 4 exemplaires (52 cartes)
 * Le marqueur de valeur pour la feuille d'aide (53ème carte)
 * La notice avec la license et le lien vers les règles (54ème carte)
+
+
+Style "révolution"
+__________________
+
+Le style "révolution" évoque la révolution industrielle du 19ème siècle.
+
+.. figure:: _static/cards/revolution/backs.png
+    :align: center
 
 Liens de téléchargements :
 
@@ -69,7 +74,14 @@ Liens de téléchargements :
 * `Cliquer ici pour télécharger le modèle du dos des cartes <./_static/cards/revolution/back_layers.svg>`_
 * `Cliquer ici pour télécharger le modèle du dessus des cartes <./_static/cards/revolution/front_layers.svg>`_
 
-::
+Profil couleur ICC
+------------------
 
-    Vous pouvez aussi faire imprimer quatre jeux de 52 cartes classiques avec le dos personnalisé.
+Les couleurs utilisées dans les fichiers SVG respectent le profil couleur d'impression PSOcoated_v3.icc.
 
+`Télécharger le profil ICC PSOcoated_v3.icc <./_static/icc/PSOcoated_v3.icc>`_
+
+1. Réglez votre moniteur LCD sur le profil **sRGB**.
+2. Dans les **Préférences** de Inkscape, sélectionnez le profil d'écran **sRGB**.
+3. Dans les **Propriétés du Document** de Inkscape, sélectionnez le profil **PSOcoated_v3**.
+4. Utiliser les couleurs de l'onglet **CMS**, avec le profil **PSOcoated_v3** sélectionné (couleurs en CMJN).

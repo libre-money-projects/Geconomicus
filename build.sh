@@ -18,4 +18,7 @@ mkdir -p ./build/html/_static/cards
 # generate "revolution" cards set from inkscape layers
 ./build_cards.py ./source/_static/cards/revolution ./build/html/_static/cards
 
+# generate help sheets from cards and money
+./build_help_sheets.sh
+
 cd ${current_dir};

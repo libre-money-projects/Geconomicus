@@ -2,6 +2,9 @@
 Règles du jeu
 =============
 
+Les règles données ici sont pour dix joueurs. Pour plus de joueurs,
+il faut plus de matériel (voir les chapitres concernés).
+
 Nombre de joueurs
 -----------------
 
@@ -26,13 +29,16 @@ Durée
 Matériel
 --------
 
-* 4 paquets de 52 cartes valeur
+* 4 paquets de 54 cartes
+avec 52 valeurs + marqueurs + license
+* 4 marqueurs valeurs
+
 * 20 billets rouges
 * 20 billets verts
 * 20 billets bleus
 * 20 billets jaunes
-* 4 marqueurs valeurs
-* 4 marqueurs billets
+* 4 billets marqueurs
+
 * Feuille d'aide pour le cycle des valeurs
 * Feuille d'aide pour le cycle des billets
 * 1 chronomètre
@@ -41,9 +47,14 @@ Matériel
 
    Matériel pour dix joueurs.
 
+   Pour plus de joueurs, prévoir au moins cinq fois le nombre de joueurs en cartes Valeurs.
+   Arrondissez au multiple de quatre supérieur.
 
-Cartes valeur
--------------
+   Pour plus de joueurs, prévoir au moins deux fois le nombre de joueurs par couleur.
+
+
+Cartes valeurs
+--------------
 
 Les cartes valeur représentent les valeurs économiques échangeables.
 
@@ -51,52 +62,60 @@ Elle sont constituées de 4 paquets de cartes à dos différents.
 
 Chaque paquet contient 13 séries de 4 cartes identiques, soit 52 cartes.
 
-On peut jouer avec des jeux de cartes classiques, mais il est plus pratique d'utiliser les cartes Ğéconomicus.
+Style "révolution"
+__________________
 
-::
+Le style "révolution" évoque la révolution industrielle du 19ème siècle.
 
-   Pour plus de joueurs, prévoir au moins cinq fois le nombre de joueurs en cartes Valeurs.
-   Arrondissez au multiple de quatre supérieur.
+Les quatre niveaux de valeurs sont des gravures évoquant dans l'ordre :
+
+1. L'alimentation : représente les valeurs qui concernent les ressources alimentaires.
+2. La culture : représente les valeurs culturelles.
+3. L'énergie : représente les valeurs qui concernent les ressources énergétiques.
+4. La technologie : représente les valeurs technologiques.
+
+.. figure:: _static/cards/revolution/backs.png
+    :align: center
+
+    *Dos des cartes avec les quatre niveaux*
+
+Les valeurs sont représentées par des lettres de **A** à **M**. Cela permet de faciliter les échanges.
+
+.. figure:: _static/cards/revolution/fronts.png
+    :align: center
+
+    *13 lettres valeurs par niveau*
 
 
 Billets de la monnaie
 ---------------------
 
-La monnaie est constituée de 60 billets colorés.
+Il faut 4 couleurs de 20 billets chacune. La monnaie en jeu est constituée de 60 billets colorés.
+Et il y a une couleur contituée de 20 billets en attente.
 
-Il faut 4 couleurs de 20 billets chacune.
-
-On peut jouer avec de simples papiers colorés, mais il est plus pratique d'utiliser les billets Ğéconomicus.
-
-::
-
-   Pour plus de joueurs, prévoir au moins deux fois le nombre de joueurs par couleur.
-
-
-.. figure:: _static/money/green_banknote_modern.svg
-    :align: center
-    :width: 40%
-
-    *Billet vert*
-
-.. figure:: _static/money/blue_banknote_modern.svg
-    :align: center
-    :width: 40%
-
-    *Billet bleu*
-
-.. figure:: _static/money/red_banknote_modern.svg
+.. figure:: _static/money/red_banknote_modern_preview.png
     :align: center
     :width: 40%
 
     *Billet rouge*
 
-.. figure:: _static/money/yellow_banknote_modern.svg
+.. figure:: _static/money/yellow_banknote_modern_preview.png
     :align: center
     :width: 40%
 
     *Billet jaune*
 
+.. figure:: _static/money/green_banknote_modern_preview.png
+    :align: center
+    :width: 40%
+
+    *Billet vert*
+
+.. figure:: _static/money/blue_banknote_modern_preview.png
+    :align: center
+    :width: 40%
+
+    *Billet bleu*
 
 Feuilles d'aide
 ---------------
@@ -117,61 +136,38 @@ Sur la seconde feuille, on dispose les 4 marqueurs de billets dans les cases.
 Marqueurs de valeurs
 --------------------
 
-Les marqueurs de valeurs permettent aux joueurs de savoir, à chaque tour, qu'elle est la valeur la plus haute et l'ordre des valeurs.
+Les marqueurs de valeurs permettent aux joueurs de savoir, à chaque tour, qu'elle est la valeur la plus haute
+et l'ordre des valeurs.
 
-La valeur la plus haute est dans la case de gauche.
+La valeur en jeu la plus haute est dans la case de droite.
 
-Dès qu'un joueur a constitué un carré de la plus haute valeur (case de gauche), on décale les valeurs d'une case vers la droite,
-en suivant le sens de la flèche.
+Dès qu'un joueur a constitué un carré de la plus haute valeur (case de droite),
+on décale les valeurs d'une case vers la gauche, en suivant le sens des flèches.
 
-Le marqueur de la case du bas ("en attente") est déplacé dans la case de gauche, et le marqueur de la case de droite
+Le marqueur de la case du bas ("en attente") est déplacé dans la case de droite, et le marqueur de la case de gauche
 rejoint la case du bas.
 
-Toutes les cartes valeurs "en attente" sont défaussées par les joueurs et remise dans la pioche correspondante, sans compensation !
+Toutes les cartes valeurs "en attente" sont défaussées par les joueurs et remise dans la pioche correspondante,
+sans compensation !
 
-::
-
-    Les marqueurs de valeurs doivent chacun représenter le dos
-    d'un paquet de valeurs.
-    C'est à dire les quatre symboles de valeurs (alimentation, culture, énergie, technologie),
-    si on utilise les cartes Ğeconomicus.
-
-.. figure:: _static/levels/level_1.png
+.. figure:: _static/cards/revolution/markers.png
     :align: center
-    :width: 30%
+    :width: 100%
 
-    *Marqueur niveau alimentation*
-
-.. figure:: _static/levels/level_2.png
-    :align: center
-    :width: 30%
-
-    *Marqueur niveau culture*
-
-.. figure:: _static/levels/level_3.png
-    :align: center
-    :width: 30%
-
-    *Marqueur niveau énergie*
-
-.. figure:: _static/levels/level_4.png
-    :align: center
-    :width: 30%
-
-    *Marqueur niveau technologie*
-
+    *Marqueurs de valeurs*
 
 Marqueurs de billets
 --------------------
 
-Les marqueurs de billets permettent aux joueurs de savoir, à chaque tour, qu'elle est le billet le plus haut et l'ordre des billets.
+Les marqueurs de billets permettent aux joueurs de savoir, à chaque tour, qu'elle est le billet le plus haut
+et l'ordre des billets.
 
-Avant chaque tour, on décale les marqueurs d'une case vers la droite, en suivant le sens de la flêche.
-La marqueur de la case de droite rejoint alors la case centrale.
+Avant chaque tour, on décale les marqueurs d'une case vers la gauche, en suivant le sens des flêches.
 
-Le marqueur de la case du bas ("en attente") est déplacé dans la case de gauche, et le marqueur de la case de droite rejoint la case du bas.
+Le marqueur de la case du bas ("en attente") est déplacé dans la case de droite,
+et le marqueur de la case de gauvche rejoint la case du bas.
 
-Pour imprimer les marqueurs de billets, imprimer une planche supplémentaire de billets
+Pour imprimer les marqueurs de billets, il faut imprimer une planche supplémentaire de billets
 ou utiliser les billets du chapitre `Billets de la monnaie`_.
 
 
@@ -182,11 +178,11 @@ Sur une table accessible à tous, l'animateur dispose les deux feuilles d'aide e
 
 Sur la première feuille, il dispose les 4 marqueurs de valeurs dans les cases.
 
-De gauche à droite : énergie, culture, alimentation.
+De gauche à droite : l'alimentation, la culture, l'énergie.
 
-Valeur "en attente" : technologie.
+Valeur "en attente" : la technologie.
 
-.. figure:: _static/help_sheets/help_sheet_values.svg
+.. figure:: _static/help_sheets/help_sheet_markers.png
     :align: center
     :width: 100%
 
@@ -194,18 +190,19 @@ Valeur "en attente" : technologie.
 
 Sur la seconde feuille, il dispose les 4 marqueurs de billets dans les cases.
 
-De gauche à droite : Vert, bleu, rouge.
+De gauche à droite : le rouge, le jaune, le vert.
 
-Billet en attente : les jaunes.
+Billet en attente : le bleu.
 
-.. figure:: _static/help_sheets/help_sheet_money.svg
+.. figure:: _static/help_sheets/help_sheet_banknotes.png
     :align: center
     :width: 100%
 
     *Feuille d'aide de la monnaie*
 
 
-Il mélange le paquet des cartes de la valeur la plus basse (alimentation) et éparpille les cartes faces cachées sur la table.
+Il mélange le paquet des cartes de la valeur la plus basse (alimentation)
+et éparpille les cartes faces cachées sur la table.
 
 Il demande alors aux joueurs de piocher chacun 4 cartes au hasard.
 Ces cartes représentent les valeurs économiques de départ que possèdent les joueurs.
@@ -218,20 +215,17 @@ But du jeu
 
 Le but du jeu est de créer le plus de valeurs économiques possibles.
 
-Pour cela, chaque joueur, doit acheter et vendre des cartes valeur du même paquet, afin de constituer un "carré" de quatre cartes identiques.
+Pour cela, chaque joueur, doit acheter et vendre des cartes valeur du même paquet,
+afin de constituer un "carré" de quatre cartes identiques.
 
-À chaque "carré" obtenu, le joueur gagne une carte du paquet de la valeur supérieure (voir la feuille d'aide des valeurs).
+À chaque "carré" obtenu, le joueur gagne une carte du paquet de la valeur supérieure
+(voir la feuille d'aide des valeurs).
 
-Pour cela, il défausse son "carré" dans la pioche du paquet correspondant, et pioche quatre nouvelles cartes de ce même paquet.
+Pour cela, il défausse son "carré" dans la pioche du paquet correspondant,
+et pioche quatre nouvelles cartes de ce même paquet.
 
-Ainsi, si sa main était de quatre cartes "alimentation", elle contient maintenant cinq cartes, quatre nouvelles "alimentation" et une "culture".
-
-::
-
-    Important :
-    il est interdit de troquer une carte contre une autre.
-    Les joueurs doivent toujours avoir la monnaie suffisante
-    pour acheter la carte qu'il désire !
+Ainsi, si sa main était de quatre cartes "alimentation", elle contient maintenant cinq cartes,
+quatre nouvelles "alimentation" et une "culture".
 
 
 Règles monétaires
@@ -244,6 +238,7 @@ L'animateur doit maintenant expliquer aux joueurs les règles qui régissent la 
 
     debt_money.rst
     libre_money.rst
+    other_money.rst
 
 ::
 
@@ -255,15 +250,23 @@ L'animateur doit maintenant expliquer aux joueurs les règles qui régissent la 
 Déroulement de la partie
 ------------------------
 
-La partie se déroule en 10 tours chronométrés de cinq minutes maximum. On peut réduire à trois minutes si on veut accélérer le jeu.
+La partie se déroule en 10 tours chronométrés de cinq minutes maximum.
+On peut réduire à trois minutes si on veut accélérer le jeu.
 
-Chaque tour représente 8 ans. À la fin d'une partie, chaque joueur aura donc vécu 80 ans, ce qui est l'espérance de vie moyenne en Europe.
+Chaque tour représente 8 ans. À la fin d'une partie, chaque joueur aura donc vécu 80 ans,
+ce qui est l'espérance de vie moyenne en Europe.
 
 Mais attention, la mort rôde et les générations se succèdent…
 
-À chaque tour, un des joueurs doit mourir et rendre toutes ses cartes valeurs et ses billets à l'animateur.
+L'animateur classe les joueurs en dix classes d'âges reparties sur les dix tours.
+À chaque tour, la classe d'âge correspondante meurt et reviens en jeu en tant que nouveau-né.
 
-Seul l'animateur connaît à l'avance le nom du défunt de chaque tour.
+Exemples :
+ À 20 joueurs, 2 joueurs meurent par tour.
+
+ À 15 joueurs, un ou deux joueurs meurent selon la repartition faîtes sur les dix tours.
+
+Seul l'animateur connaît à l'avance le nom du ou des défunts de chaque tour.
 
 ::
 
@@ -282,9 +285,10 @@ avant la fin du chronomètre peuvent l'échanger et gagner une carte de valeur s
 Fin du tour
 -----------
 
-À la fin de chaque tour, l'animateur appel le joueur emporté par la mort.
+À la fin de chaque tour, l'animateur appelle le ou les joueurs emportés par la mort.
 
-Celui-ci s'isole avec l'animateur, afin que ce dernier comptabilise les valeurs et les billets en possession du joueur.
+Celui-ci ou ceux-ci s'isolent avec l'animateur, afin que ce dernier comptabilise les valeurs
+et les billets en possession du joueur.
 
 Le score est enregistré dans la feuille du tableur prévue à cet effet.
 

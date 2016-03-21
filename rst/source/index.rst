@@ -12,16 +12,16 @@ Présentation
 
 Ğeconomicus est un jeu de simulation économique permettant de découvrir l'influence de la création monétaire sur les échanges.
 Les joueurs y achètent et vendent des valeurs économiques dans le but d'en créer de nouvelles.
-Le temps est un facteur important du jeu, à plusieurs niveaux, notamment par le cycle de vie des humains et l'obsolescence des valeurs.
+Le temps est un facteur important du jeu, à plusieurs niveaux, notamment par le cycle de vie des humains et des valeurs.
 
-L'intérêt du jeu est surtout de comparer différents types de monnaies, dont le concept de monnaie libre, tel que défini dans `La Théorie Relative de la Monnaie
-<http://trm.creationmonetaire.info>`_.
+L'intérêt du jeu est surtout de comparer différents types de monnaies, dont le concept de monnaie libre,
+tel que démontré dans `La Théorie Relative de la Monnaie <http://trm.creationmonetaire.info>`_.
 
 Liens utiles :
 
 * `Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`_
 * `Dépôt GitHub <https://github.com/galuel/Geconomicus>`_
-* `Vidéos de compte-rendu sur YouTube <https://www.youtube.com/channel/UCcleYg38FkqwP1B5TxZe5Cw>`_
+* `Vidéos de compte-rendu sur YouTube <https://www.youtube.com/watch?v=KUVTQWmZWuY&list=PLpnzpufBlv-mdpm3VMf0vSkrGoijNkbXb>`_
 
 *Jeu sous license libre* `GPL v3 <http://www.gnu.org/licenses/gpl-3.0.fr.html>`_
 
@@ -33,6 +33,4 @@ Table des matières
     :maxdepth: 2
 
     rules.rst
-    debt_money.rst
-    libre_money.rst
     to_print.rst

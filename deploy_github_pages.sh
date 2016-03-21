@@ -3,6 +3,7 @@ current_dir=$(pwd);
 set -e && \
 cd ./rst/build/html/ && \
 touch .nojekyll && \
+echo "geconomicus.glibre.org" > CNAME && \
 remote_repo="https://${GH_TOKEN}@${GH_REF}" && \
 remote_branch="gh-pages" && \
 git init && \
