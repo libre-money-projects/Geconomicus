@@ -47,10 +47,12 @@ avec 52 valeurs + marqueurs + license
 
    Matériel pour dix joueurs.
 
-   Pour plus de joueurs, prévoir au moins cinq fois le nombre de joueurs en cartes Valeurs.
-   Arrondissez au multiple de quatre supérieur.
+   Pour plus de joueurs,
 
-   Pour plus de joueurs, prévoir au moins deux fois le nombre de joueurs par couleur.
+   prévoir au moins cinq fois le nombre de joueurs en cartes Valeurs.
+   Arrondir au multiple de quatre supérieur, pour avoir des "carrés" complets.
+
+   Prévoir au moins deux fois le nombre de joueurs pour chaque couleur de billet.
 
 
 Cartes valeurs
