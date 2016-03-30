@@ -29,9 +29,7 @@ Durée
 Matériel
 --------
 
-* 4 paquets de 54 cartes
-avec 52 valeurs + marqueurs + license
-* 4 marqueurs valeurs
+* 4 paquets de 54 cartes (52 cartes valeurs + 1 carte marqueur + 1 carte notice)
 
 * 20 billets rouges
 * 20 billets verts
