@@ -5,9 +5,6 @@ cd rst;
 
 # build html document
 make html;
-# copy spreadsheets files in html
-mkdir -p ./build/html/_static/spreadsheets
-cp ../Ğeconomicus_spreadsheets/*.ods ./build/html/_static/spreadsheets/.
 
 # generate money in png from svg in html
 ./build_money.sh
