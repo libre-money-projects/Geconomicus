@@ -1,13 +1,12 @@
 # Ğeconomicus
-Ğeconomicus is a set of free graphics and rules to play a generic economy simulation based on 80 years human life expectancy or more, with different money systems.
-
-You are free to use the graphical tools, specific examples of rules, and any other contribution proposed here, under the GPL v3 licence.
+Ğeconomicus is a generic free economic game under GPLv3, that includes a set of free graphics, files and rules allowing to play a generic economy simulation based on 80 years human life expectancy or more, with different money systems.
 
 You will find, and you can contribute in:
 
 - SVG images you can adapt and print, or use in programs.
 - Examples of different money rules to play.
-- Examples of results you can compile to compare after playing in LibreOffice files.
+- Examples of results in LibreOffice Calc.
+- HTML full website including all necessary to play, you can install in your own server
 
 #### Ğeconomicus HTML
 
@@ -29,7 +28,7 @@ You can study and install [Jabber/XMPP free clients softwares](http://xmpp.org/s
 
 Ğeconomicus adds another dimension to any economic game based on its principles : limited lifetime of the players, rotation of the money and rotation of the values, in order to be able to simulate at least a life expectancy game time (near 80 years in Europe in 2016), where players can die and be born again, and where money and economical values can follow this entire cycle.
 
-It includes free money system like it is demonstrated in Relative Theory of Money (GPL v3) = a money system based on an Universal Dividend (see http://en.trm.creationmonetaire.info or http://trm.creationmonetaire.info), money debt, and other money systems in order to compare their impact in the final result.
+It includes free money system like it is demonstrated in Relative Theory of Money (GPL v3) = a money system based on a Universal Dividend (see http://en.trm.creationmonetaire.info or http://trm.creationmonetaire.info), money debt, and other money systems in order to compare their impact in the final result.
 
 Ğeconomicus uses the Ğ caracter as it's defined in http://www.glibre.org
 
