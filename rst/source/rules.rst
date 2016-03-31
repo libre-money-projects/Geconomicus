@@ -29,9 +29,7 @@ Durée
 Matériel
 --------
 
-* 4 paquets de 54 cartes
-avec 52 valeurs + marqueurs + license
-* 4 marqueurs valeurs
+* 4 paquets de 54 cartes (52 cartes valeurs + 1 carte marqueur + 1 carte notice)
 
 * 20 billets rouges
 * 20 billets verts
@@ -47,10 +45,12 @@ avec 52 valeurs + marqueurs + license
 
    Matériel pour dix joueurs.
 
-   Pour plus de joueurs, prévoir au moins cinq fois le nombre de joueurs en cartes Valeurs.
-   Arrondissez au multiple de quatre supérieur.
+   Pour plus de joueurs,
 
-   Pour plus de joueurs, prévoir au moins deux fois le nombre de joueurs par couleur.
+   prévoir au moins cinq fois le nombre de joueurs en cartes Valeurs.
+   Arrondir au multiple de quatre supérieur, pour avoir des "carrés" complets.
+
+   Prévoir au moins deux fois le nombre de joueurs pour chaque couleur de billet.
 
 
 Cartes valeurs

@@ -23,6 +23,12 @@ Liens utiles :
 * `Dépôt GitHub <https://github.com/galuel/Geconomicus>`_
 * `Vidéos de compte-rendu sur YouTube <https://www.youtube.com/watch?v=KUVTQWmZWuY&list=PLpnzpufBlv-mdpm3VMf0vSkrGoijNkbXb>`_
 
+Hébergement :
+
+* http://geconomicus.glibre.org
+* http://galuel.github.io/Geconomicus
+* http://vtexier.github.io/Geconomicus
+
 *Jeu sous license libre* `GPL v3 <http://www.gnu.org/licenses/gpl-3.0.fr.html>`_
 
 
