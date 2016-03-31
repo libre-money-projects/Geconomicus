@@ -13,7 +13,7 @@ You will find, and you can contribute in:
 - Examples of different money rules to play.
 - Examples of results you can compile to compare after playing in LibreOffice files.
 
-### Ğeconomicus HTML web pages inclunding online rules (french) and zip ready-to-print cards and banknotes
+### Ğeconomicus HTML web pages including online rules (french) and zip ready-to-print cards and banknotes
 
 http://geconomicus.glibre.org
 
