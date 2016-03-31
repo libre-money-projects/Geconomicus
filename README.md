@@ -1,14 +1,11 @@
 # Ğeconomicus
-Ğeconomicus is a set of free graphics and rules to play a generic economy simulation
-based on 80 years human life expectancy or more, with different money systems,
-including a freedom money system like, as it is demonstrated in
-Relative Theory of Money (GPL v3) = a money system based on an Universal Dividend
-(see https://github.com/vtexier/theorie-relative-de-la-monnaie ).
+Ğeconomicus is a set of free graphics and rules to play a generic economy simulation based on 80 years human life expectancy or more, with different money systems.
 
-Ğeconomicus uses the Ğ caracter as it is defined by http://www.glibre.org
+It includes free money system like it is demonstrated in Relative Theory of Money (GPL v3) = a money system based on an Universal Dividend (see http://en.trm.creationmonetaire.info or http://trm.creationmonetaire.info).
 
-You are free to use the graphical tools, specific examples of rules,
- and any other contribution proposed here, under the GPL v3 licence.
+Ğeconomicus uses the Ğ caracter as it is defined in http://www.glibre.org
+
+You are free to use the graphical tools, specific examples of rules, and any other contribution proposed here, under the GPL v3 licence.
 
 You will find, and you can contribute in:
 
@@ -16,18 +13,18 @@ You will find, and you can contribute in:
 - Examples of different money rules to play.
 - Examples of results you can compile to compare after playing in LibreOffice files.
 
-### Online rules (french)
+### Ğeconomicus HTML web pages inclunding online rules (french) and zip ready-to-print cards and banknotes
 
-http://vtexier.github.io/Geconomicus/
+http://geconomicus.glibre.org
 
-### Download rules (french)
+### Spread Ğeconomicus with latest release of Ğeconomicus HTML web pages and zip ready-to-print files.
 
 https://github.com/vtexier/Geconomicus/releases/latest
 
 ### Chat room
-XMPP chatroom to join Ğeconomicus developers online: ğ<a href="xmpp:ğeconomicus@muc.jappix.com">economicus@muc.jappix.com</a>
+XMPP chatroom to join Ğeconomicus developers online: <a href="xmpp:ğeconomicus@muc.jappix.com">ğeconomicus@muc.jappix.com</a>
 
-### Generate rules
+### Generate rules with travis
 
 [![Build Status](https://travis-ci.org/vtexier/Geconomicus.svg?branch=dev)](https://travis-ci.org/vtexier/Geconomicus)
 
@@ -69,7 +66,7 @@ To deactivate the environment in your shell:
     $ ./build.sh
 ```
 
-The rules are generated in the `rst/build/html` folder.
+The Ğeconomicus HTML web pages are generated in the `rst/build/html` folder.
 
 ## ICC profile
 
