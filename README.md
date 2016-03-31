@@ -1,10 +1,6 @@
 # Ğeconomicus
 Ğeconomicus is a set of free graphics and rules to play a generic economy simulation based on 80 years human life expectancy or more, with different money systems.
 
-It includes free money system like it is demonstrated in Relative Theory of Money (GPL v3) = a money system based on an Universal Dividend (see http://en.trm.creationmonetaire.info or http://trm.creationmonetaire.info).
-
-Ğeconomicus uses the Ğ caracter as it is defined in http://www.glibre.org
-
 You are free to use the graphical tools, specific examples of rules, and any other contribution proposed here, under the GPL v3 licence.
 
 You will find, and you can contribute in:
@@ -13,18 +9,31 @@ You will find, and you can contribute in:
 - Examples of different money rules to play.
 - Examples of results you can compile to compare after playing in LibreOffice files.
 
-### Ğeconomicus HTML web pages including online rules (french) and zip ready-to-print cards and banknotes
+#### Ğeconomicus HTML
 
-http://geconomicus.glibre.org
+Web pages including online rules (french) and zip ready-to-print cards and banknotes : http://geconomicus.glibre.org
 
-### Spread Ğeconomicus with latest release of Ğeconomicus HTML web pages and zip ready-to-print files.
+#### Ğeconomicus latest release
 
-https://github.com/vtexier/Geconomicus/releases/latest
+Spread Ğeconomicus, download and install Ğeconomicus HTML web pages and ready-to-print cards and banknotes on your own server : https://github.com/vtexier/Geconomicus/releases/latest
 
-### Chat room
-XMPP chatroom to join Ğeconomicus developers online: <a href="xmpp:ğeconomicus@muc.jappix.com">ğeconomicus@muc.jappix.com</a>
+#### XMPP Chat room
 
-### Generate rules with travis
+XMPP chatroom to join Ğeconomicus developers online: ğeconomicus@muc.jappix.com
+
+You can study and install [Jabber/XMPP free clients softwares](http://xmpp.org/software/clients.html).
+
+#### Contributions
+
+Ğeconomicus was inspired by several economic games like [La Corbeille](https://github.com/Valeureux/LaCorbeille-Trading-Floor) another free game under GPL v3, Monopoly™, La bonne paye™, online MMORPG that include also specific money that every time is created following specific rules.
+
+Ğeconomicus adds another dimension to any economic game based on its principles : limited lifetime of the players, rotation of the money and rotation of the values, in order to be able to simulate at least a life expectancy game time (near 80 years in Europe in 2016), where players can die and be born again, and where money and economical values can follow this entire cycle.
+
+It includes free money system like it is demonstrated in Relative Theory of Money (GPL v3) = a money system based on an Universal Dividend (see http://en.trm.creationmonetaire.info or http://trm.creationmonetaire.info), money debt, and other money systems in order to compare their impact in the final result.
+
+Ğeconomicus uses the Ğ caracter as it's defined in http://www.glibre.org
+
+# Generate rules with travis
 
 [![Build Status](https://travis-ci.org/vtexier/Geconomicus.svg?branch=dev)](https://travis-ci.org/vtexier/Geconomicus)
 
@@ -68,7 +77,7 @@ To deactivate the environment in your shell:
 
 The Ğeconomicus HTML web pages are generated in the `rst/build/html` folder.
 
-## ICC profile
+# ICC profile
 
 We use the `PSOcoated_v3` icc profile, downloaded at http://www.eci.org/en/downloads
 
