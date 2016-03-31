@@ -32,7 +32,7 @@ It includes free money system like it is demonstrated in Relative Theory of Mone
 
 Ğeconomicus uses the Ğ caracter as it's defined in http://www.glibre.org
 
-# Generate rules with travis
+# Generate HTML with travis
 
 [![Build Status](https://travis-ci.org/vtexier/Geconomicus.svg?branch=dev)](https://travis-ci.org/vtexier/Geconomicus)
 
