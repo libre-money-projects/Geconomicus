@@ -62,12 +62,6 @@ Install Sphinx 1.3:
     $ pip install sphinx
 ```
 
-To deactivate the environment in your shell:
-
-```bash
-    $ deactivate
-```
-
 #### build HTML
 
 ```bash
@@ -75,6 +69,12 @@ To deactivate the environment in your shell:
 ```
 
 The Ğeconomicus HTML web pages are generated in the `rst/build/html` folder.
+
+After build, to deactivate the environment in your shell:
+
+```bash
+    $ deactivate
+```
 
 # ICC profile
 
