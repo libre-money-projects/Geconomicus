@@ -59,7 +59,7 @@ Create and activate a virtual environment for python:
 Install Sphinx 1.3:
 
 ```bash
-    $ pip install sphinx
+    $ pip install sphinx==1.3
 ```
 
 #### build HTML
