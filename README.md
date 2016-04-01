@@ -14,7 +14,7 @@ Web pages including online rules (french) and zip ready-to-print cards and bankn
 
 #### Ğeconomicus latest release
 
-Spread Ğeconomicus, download and install Ğeconomicus HTML web pages and ready-to-print cards and banknotes on your own server : https://github.com/vtexier/Geconomicus/releases/latest
+Spread Ğeconomicus, download and install Ğeconomicus HTML web pages and ready-to-print cards and banknotes on your own server : https://github.com/galuel/Geconomicus/releases/latest
 
 #### XMPP Chat room
 
