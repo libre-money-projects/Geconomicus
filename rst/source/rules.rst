@@ -136,7 +136,7 @@ Sur la seconde feuille, on dispose les 4 marqueurs de billets dans les cases.
 Marqueurs de valeurs
 --------------------
 
-Les marqueurs de valeurs permettent aux joueurs de savoir, à chaque tour, qu'elle est la valeur la plus haute
+Les marqueurs de valeurs permettent aux joueurs de savoir, à chaque tour, quelle est la valeur la plus haute
 et l'ordre des valeurs.
 
 La valeur en jeu la plus haute est dans la case de droite.
@@ -159,7 +159,7 @@ sans compensation !
 Marqueurs de billets
 --------------------
 
-Les marqueurs de billets permettent aux joueurs de savoir, à chaque tour, qu'elle est le billet le plus haut
+Les marqueurs de billets permettent aux joueurs de savoir, à chaque tour, quel est le billet le plus haut
 et l'ordre des billets.
 
 Avant chaque tour, on décale les marqueurs d'une case vers la gauche, en suivant le sens des flêches.
@@ -258,13 +258,12 @@ ce qui est l'espérance de vie moyenne en Europe.
 
 Mais attention, la mort rôde et les générations se succèdent…
 
-L'animateur classe les joueurs en dix classes d'âges reparties sur les dix tours.
-À chaque tour, la classe d'âge correspondante meurt et reviens en jeu en tant que nouveau-né.
+L'animateur classe les joueurs en dix classes d'âges réparties sur les dix tours. À chaque tour, le (ou les) joueur de la classe d'âge correspondante meurt et revient en jeu en tant que nouveau-né.
 
 Exemples :
  À 20 joueurs, 2 joueurs meurent par tour.
 
- À 15 joueurs, un ou deux joueurs meurent selon la repartition faîtes sur les dix tours.
+ À 15 joueurs, un ou deux joueurs meurent selon la répartition faîtes sur les dix tours.
 
 Seul l'animateur connaît à l'avance le nom du ou des défunts de chaque tour.
 
@@ -294,7 +293,7 @@ Le score est enregistré dans la feuille du tableur prévue à cet effet.
 
 Le joueur est ensuite invité à reprendre le jeu comme un nouveau-né.
 
-Il pioche 4 carte de la valeur la plus basse.
+Il pioche 4 cartes de la valeur la plus basse.
 
 Il reçoit le montant de billets prévu pour les nouveaux arrivants, selon le système monétaire en cours.
 
@@ -315,7 +314,7 @@ Un jeu Ğeconomicus n'est complet que si l'organisateur publie un compte rendu d
 notamment à l'aide des tableurs et graphiques générés que l'on peut remplir directement pendant le jeu
 par le banquier d'une part, et par celui qui fait la comptabilité des sortants / nouveaux entrants à chaque tour d'autre part.
 
-On devrait ainsi au minimum faire apparaître dans les graphiques pour chaque monnaie jouées :
+On devrait ainsi au minimum faire apparaître dans les graphiques pour chaque monnaie jouée :
 
 * Le nombre total de valeurs produites par joueur (banquier inclus pour la « monnaie dette »).
 * La moyenne globale des valeurs produites.

@@ -40,3 +40,4 @@ Table des matières
 
     rules.rst
     to_print.rst
+    direct_print.rst
