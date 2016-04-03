@@ -128,7 +128,7 @@ Sur la seconde feuille, on dispose les 4 marqueurs de billets dans les cases.
 
 .. figure:: _static/help_sheets/help_sheet.svg
     :align: center
-    :scale: 100
+    :scale: 100%
 
     *Feuille d'aide à imprimer*
 

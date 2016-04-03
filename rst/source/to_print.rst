@@ -11,7 +11,10 @@ La feuille d'aide
 
 .. figure:: _static/help_sheets/help_sheet.svg
     :align: center
-    :scale: 100
+    :scale: 100%
+
+* `Cliquer ici pour télécharger la feuille d'aide à imprimer <./_static/help_sheets/help_sheet.png>`_
+
 
 La monnaie
 ----------

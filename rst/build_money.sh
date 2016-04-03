@@ -10,6 +10,7 @@ do
     inkscape -d ${DPI} -z -f "${file}" -e "${file%.svg}.png"
 
     # image magick create preview with drop shadow
-    convert "${file%.svg}.png" -background black \( +clone -shadow 60x${SHADOW_OFFSET}+${SHADOW_OFFSET}+${SHADOW_OFFSET} \) +swap \
+    # resize at 75 dpi pixels size
+    convert "${file%.svg}.png" -resize 251x162 -background black \( +clone -shadow 60x${SHADOW_OFFSET}+${SHADOW_OFFSET}+${SHADOW_OFFSET} \) +swap \
           -compose Over -composite +repage  "${file%.svg}_preview.png"
 done
