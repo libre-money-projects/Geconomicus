@@ -7,6 +7,7 @@ import shlex
 import shutil
 
 DPI = 300
+SHADOW_OFFSET = 6
 
 
 def svg2svg(source_path, destination_path, layers):
@@ -199,7 +200,7 @@ if __name__ == '__main__':
         svg2png(svg_path, mask_png_path, 75)
 
         # create a web preview card, cutted out with a drop shadow
-        png_add_mask_and_drop_shadow(back_png_path, mask_png_path, preview_png_path)
+        png_add_mask_and_drop_shadow(back_png_path, mask_png_path, preview_png_path, SHADOW_OFFSET)
 
         ####################################
         # FRONT IMAGES
@@ -241,7 +242,7 @@ if __name__ == '__main__':
         front_png_path = os.path.join(_dirname, "front_53.png")
         preview_png_path = os.path.join(destination_path, "marker_{level}.png".format(level=level))
 
-        png_add_mask_and_drop_shadow(front_png_path, mask_png_path, preview_png_path)
+        png_add_mask_and_drop_shadow(front_png_path, mask_png_path, preview_png_path, SHADOW_OFFSET)
 
         #####################################
         # create notice card
@@ -260,7 +261,7 @@ if __name__ == '__main__':
         front_png_path = os.path.join(_dirname, "front_1.png")
         preview_png_path = os.path.join(destination_path, "front_{level}.png".format(level=level))
 
-        png_add_mask_and_drop_shadow(front_png_path, mask_png_path, preview_png_path)
+        png_add_mask_and_drop_shadow(front_png_path, mask_png_path, preview_png_path, SHADOW_OFFSET)
 
         #####################################
         # ZIP SET

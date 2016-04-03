@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DPI=300
-SHADOW_OFFSET=10
+SHADOW_OFFSET=6
 
 # convert SVG to PNG with inkscape
 for file in build/html/_static/money/*.svg
