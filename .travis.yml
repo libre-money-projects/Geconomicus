@@ -3,6 +3,11 @@ language: python
 python:
   - '3.4'
 
+# blacklist
+branches:
+  except:
+    - master
+
 before_install:
 - sudo apt-get -qq update
 - sudo apt-get install -y inkscape
