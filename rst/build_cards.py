@@ -6,7 +6,8 @@ import argparse
 import shlex
 import shutil
 
-PNG_DPI = 300
+DPI = 300
+SHADOW_OFFSET = 6
 
 
 def svg2svg(source_path, destination_path, layers):
@@ -62,12 +63,20 @@ def svg2png(svg_filepath, png_filepath, dpi):
 
 
 def png_add_mask_and_drop_shadow(source_filepath, mask_filepath, destination_filepath, shadow_offset=10):
+    """
+    Resize source png at 205x280 (75dpi), then cut out with 75 dpi mask, then add drop shadow
 
+    :param str source_filepath: Path to source png file
+    :param str mask_filepath:   Path to mask png file
+    :param str destination_filepath: Path to save result file
+    :param int shadow_offset: Offset of shadow in pixels
+    :return:
+    """
     quoted_source_filepath = shlex.quote(source_filepath)
     quoted_mask_filepath = shlex.quote(mask_filepath)
     quoted_destination_filepath = shlex.quote(destination_filepath)
 
-    command = "convert \( {source_filepath} {mask_filepath} -alpha Off -compose copyopacity -composite \) \
+    command = "convert \( {source_filepath} -resize 205x280 {mask_filepath} -alpha Off -compose copyopacity -composite \) \
           -background black \( +clone -shadow 60x{offset}+{offset}+{offset} \) +swap \
           -compose Over -composite +repage \
           {destination_filepath}".format(
@@ -169,7 +178,7 @@ if __name__ == '__main__':
         svg2svg(back_layers_path, svg_path, layers)
 
         # convert to png
-        svg2png(svg_path, back_png_path, PNG_DPI)
+        svg2png(svg_path, back_png_path, DPI)
 
         ############
         ## create web preview
@@ -184,14 +193,14 @@ if __name__ == '__main__':
         mask_png_path = os.path.join(destination_path, filename + '.png')
         preview_png_path = os.path.join(destination_path, 'back_{level}'.format(level=level) + '.png')
 
-        # compose svg layers
+        # extract mask from svg layers
         svg2svg(back_layers_path, svg_path, layers)
 
-        # convert to png in destination path
-        svg2png(svg_path, mask_png_path, PNG_DPI)
+        # convert mask to png in destination path
+        svg2png(svg_path, mask_png_path, 75)
 
         # create a web preview card, cutted out with a drop shadow
-        png_add_mask_and_drop_shadow(back_png_path, mask_png_path, preview_png_path)
+        png_add_mask_and_drop_shadow(back_png_path, mask_png_path, preview_png_path, SHADOW_OFFSET)
 
         ####################################
         # FRONT IMAGES
@@ -212,7 +221,7 @@ if __name__ == '__main__':
             svg2svg(front_layers_path, svg_path, layers)
 
             # convert to png
-            svg2png(svg_path, os.path.join(_dirname, filename + '.png'), PNG_DPI)
+            svg2png(svg_path, os.path.join(_dirname, filename + '.png'), DPI)
 
             card_number += 1
 
@@ -226,14 +235,14 @@ if __name__ == '__main__':
         svg2svg(back_layers_path, svg_path, layers)
 
         # convert to png
-        svg2png(svg_path, os.path.join(_dirname, filename + '.png'), PNG_DPI)
+        svg2png(svg_path, os.path.join(_dirname, filename + '.png'), DPI)
 
         ######################################
         # create a web preview card of a marker card, cutted out with a drop shadow
         front_png_path = os.path.join(_dirname, "front_53.png")
         preview_png_path = os.path.join(destination_path, "marker_{level}.png".format(level=level))
 
-        png_add_mask_and_drop_shadow(front_png_path, mask_png_path, preview_png_path)
+        png_add_mask_and_drop_shadow(front_png_path, mask_png_path, preview_png_path, SHADOW_OFFSET)
 
         #####################################
         # create notice card
@@ -245,14 +254,14 @@ if __name__ == '__main__':
         svg2svg(front_layers_path, svg_path, layers)
 
         # convert to png
-        svg2png(svg_path, os.path.join(_dirname, filename + '.png'), PNG_DPI)
+        svg2png(svg_path, os.path.join(_dirname, filename + '.png'), DPI)
 
         ######################################
         # create a web preview card of a front card, cutted out with a drop shadow
         front_png_path = os.path.join(_dirname, "front_1.png")
         preview_png_path = os.path.join(destination_path, "front_{level}.png".format(level=level))
 
-        png_add_mask_and_drop_shadow(front_png_path, mask_png_path, preview_png_path)
+        png_add_mask_and_drop_shadow(front_png_path, mask_png_path, preview_png_path, SHADOW_OFFSET)
 
         #####################################
         # ZIP SET
