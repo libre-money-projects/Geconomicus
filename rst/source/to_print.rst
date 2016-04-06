@@ -41,10 +41,17 @@ Le style "modern" utilise des ronds de couleurs pour signaler les correspondance
     :align: center
     :width: 50%
 
-* `Cliquer ici pour télécharger le billet vert <./_static/money/green_banknote_modern.png>`_
-* `Cliquer ici pour télécharger le billet bleu <./_static/money/blue_banknote_modern.png>`_
 * `Cliquer ici pour télécharger le billet rouge <./_static/money/red_banknote_modern.png>`_
 * `Cliquer ici pour télécharger le billet jaune <./_static/money/yellow_banknote_modern.png>`_
+* `Cliquer ici pour télécharger le billet vert <./_static/money/green_banknote_modern.png>`_
+* `Cliquer ici pour télécharger le billet bleu <./_static/money/blue_banknote_modern.png>`_
+
+Planches à billet pour une impression recto seulement sur feuille blanche :
+
+* `Cliquer ici pour télécharger la planche des billets rouges <./_static/money/red_banknote_modern_sheet.png>`_
+* `Cliquer ici pour télécharger la planche des billets jaunes <./_static/money/yellow_banknote_modern_sheet.png>`_
+* `Cliquer ici pour télécharger la planche des billets verts <./_static/money/green_banknote_modern_sheet.png>`_
+* `Cliquer ici pour télécharger la planche des billets bleus <./_static/money/blue_banknote_modern_sheet.png>`_
 
 Les cartes valeur
 -----------------
