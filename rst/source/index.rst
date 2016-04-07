@@ -10,24 +10,30 @@
 Présentation
 ------------
 
-Ğeconomicus est un jeu de simulation économique permettant de découvrir l'influence de la création monétaire sur les échanges.
-Les joueurs y achètent et vendent des valeurs économiques dans le but d'en créer de nouvelles.
-Le temps est un facteur important du jeu, à plusieurs niveaux, notamment par le cycle de vie des humains et des valeurs.
+Ğeconomicus est un jeu de simulation économique permettant de découvrir l'influence de la création monétaire sur les échanges. Les joueurs y achètent et vendent des valeurs économiques dans le but d'en créer de nouvelles. Le temps est un facteur important du jeu, à plusieurs niveaux, notamment par le cycle de vie des humains et des valeurs.
 
 L'intérêt du jeu est surtout de comparer différents types de monnaies, dont le concept de monnaie libre,
 tel que démontré dans `La Théorie Relative de la Monnaie <http://trm.creationmonetaire.info>`_.
 
-Liens utiles :
+Le jeu se présente comme un site web comprenant les règles, les modèles de cartes et de billets à imprimer, des fichers tableurs permettant la réalisation de comptes rendus finaux ainsi que des liens vers des exemples de réalisations complètes (vidéos, sites internet...).
 
-* `Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`_
+Développement :
+
+* `Dernière version <https://github.com/galuel/Geconomicus/releases/latest>`_
 * `Dépôt GitHub <https://github.com/galuel/Geconomicus>`_
-* `Vidéos de compte-rendu sur YouTube <https://www.youtube.com/watch?v=KUVTQWmZWuY&list=PLpnzpufBlv-mdpm3VMf0vSkrGoijNkbXb>`_
+* `Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`_
 
 Hébergement :
 
 * http://geconomicus.glibre.org
-* http://galuel.github.io/Geconomicus
+* http://geconomicus.ucoin.fr
 * http://vtexier.github.io/Geconomicus
+* http://galuel.github.io/Geconomicus
+
+Réalisations :
+
+* `Vidéos de compte-rendu sur YouTube <https://youtu.be/R4SIO2VuC2A?list=PL0UDqLtXevvHY5rAyFtql5931VqYyRaoK>`_
+* `Festival de la monnaie à Bordeaux <http://www.festivaldelamonnaie.org/index.php/jeu-geconomicus/>`_
 
 *Jeu sous license libre* `GPL v3 <http://www.gnu.org/licenses/gpl-3.0.fr.html>`_
 
