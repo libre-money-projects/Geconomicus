@@ -59,13 +59,13 @@ Create and activate a virtual environment for python:
 Install Sphinx 1.3:
 
 ```bash
-    $ pip install sphinx==1.3
+    (venv) $ pip install sphinx==1.3
 ```
 
 #### build HTML
 
 ```bash
-    $ ./build.sh
+    (venv) $ ./build.sh
 ```
 
 The Ğeconomicus HTML web pages are generated in the `rst/build/html` folder.
@@ -73,7 +73,8 @@ The Ğeconomicus HTML web pages are generated in the `rst/build/html` folder.
 #### After build, to deactivate the environment in your shell:
 
 ```bash
-    $ deactivate
+    (venv) $ deactivate
+    $
 ```
 
 # ICC profile
