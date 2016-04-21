@@ -70,11 +70,11 @@ Install Sphinx 1.3:
 
 The Ğeconomicus HTML web pages are generated in the `rst/build/html` folder.
 
-#### After build, to deactivate the environment in your shell:
+#### After build, to deactivate and remove the virtual environment in your shell:
 
 ```bash
     (venv) $ deactivate
-    $
+    $ virtualenv --clear venv
 ```
 
 # ICC profile
