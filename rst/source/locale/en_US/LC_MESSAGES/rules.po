@@ -1,0 +1,549 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, vit
+# This file is distributed under the same license as the Geconomicus
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Geconomicus 2.01\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-09 18:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.2.0\n"
+
+#: ../../source/rules.rst:3
+msgid "Règles du jeu"
+msgstr ""
+
+#: ../../source/rules.rst:5
+msgid ""
+"Les règles données ici sont pour dix joueurs. Pour plus de joueurs, il "
+"faut plus de matériel (voir les chapitres concernés)."
+msgstr ""
+
+#: ../../source/rules.rst:9
+msgid "Nombre de joueurs"
+msgstr ""
+
+#: ../../source/rules.rst:11
+msgid "10 joueurs ou plus."
+msgstr ""
+
+#: ../../source/rules.rst:20
+msgid "Durée"
+msgstr ""
+
+#: ../../source/rules.rst:22
+msgid "1h30"
+msgstr ""
+
+#: ../../source/rules.rst:30
+msgid "Matériel"
+msgstr ""
+
+#: ../../source/rules.rst:32
+msgid ""
+"4 paquets de 54 cartes (52 cartes valeurs + 1 carte marqueur + 1 carte "
+"notice)"
+msgstr ""
+
+#: ../../source/rules.rst:34
+msgid "20 billets rouges"
+msgstr ""
+
+#: ../../source/rules.rst:35
+msgid "20 billets verts"
+msgstr ""
+
+#: ../../source/rules.rst:36
+msgid "20 billets bleus"
+msgstr ""
+
+#: ../../source/rules.rst:37
+msgid "20 billets jaunes"
+msgstr ""
+
+#: ../../source/rules.rst:38
+msgid "4 billets marqueurs"
+msgstr ""
+
+#: ../../source/rules.rst:40
+msgid "Feuille d'aide pour le cycle des valeurs"
+msgstr ""
+
+#: ../../source/rules.rst:41
+msgid "Feuille d'aide pour le cycle des billets"
+msgstr ""
+
+#: ../../source/rules.rst:42
+msgid "1 chronomètre"
+msgstr ""
+
+#: ../../source/rules.rst:57
+msgid "Cartes valeurs"
+msgstr ""
+
+#: ../../source/rules.rst:59
+msgid "Les cartes valeur représentent les valeurs économiques échangeables."
+msgstr ""
+
+#: ../../source/rules.rst:61
+msgid "Elle sont constituées de 4 paquets de cartes à dos différents."
+msgstr ""
+
+#: ../../source/rules.rst:63
+msgid "Chaque paquet contient 13 séries de 4 cartes identiques, soit 52 cartes."
+msgstr ""
+
+#: ../../source/rules.rst:66
+msgid "Style \"révolution\""
+msgstr ""
+
+#: ../../source/rules.rst:68
+msgid "Le style \"révolution\" évoque la révolution industrielle du 19ème siècle."
+msgstr ""
+
+#: ../../source/rules.rst:70
+msgid "Les quatre niveaux de valeurs sont des gravures évoquant dans l'ordre :"
+msgstr ""
+
+#: ../../source/rules.rst:72
+msgid ""
+"L'alimentation : représente les valeurs qui concernent les ressources "
+"alimentaires."
+msgstr ""
+
+#: ../../source/rules.rst:73
+msgid "La culture : représente les valeurs culturelles."
+msgstr ""
+
+#: ../../source/rules.rst:74
+msgid ""
+"L'énergie : représente les valeurs qui concernent les ressources "
+"énergétiques."
+msgstr ""
+
+#: ../../source/rules.rst:75
+msgid "La technologie : représente les valeurs technologiques."
+msgstr ""
+
+#: ../../source/rules.rst:80
+msgid "*Dos des cartes avec les quatre niveaux*"
+msgstr ""
+
+#: ../../source/rules.rst:82
+msgid ""
+"Les valeurs sont représentées par des lettres de **A** à **M**. Cela "
+"permet de faciliter les échanges."
+msgstr ""
+
+#: ../../source/rules.rst:87
+msgid "*13 lettres valeurs par niveau*"
+msgstr ""
+
+#: ../../source/rules.rst:91
+msgid "Billets de la monnaie"
+msgstr ""
+
+#: ../../source/rules.rst:93
+msgid ""
+"Il faut 4 couleurs de 20 billets chacune. La monnaie en jeu est "
+"constituée de 60 billets colorés. Et il y a une couleur contituée de 20 "
+"billets en attente."
+msgstr ""
+
+#: ../../source/rules.rst:100
+msgid "*Billet rouge*"
+msgstr ""
+
+#: ../../source/rules.rst:106
+msgid "*Billet jaune*"
+msgstr ""
+
+#: ../../source/rules.rst:112
+msgid "*Billet vert*"
+msgstr ""
+
+#: ../../source/rules.rst:118
+msgid "*Billet bleu*"
+msgstr ""
+
+#: ../../source/rules.rst:121
+msgid "Feuilles d'aide"
+msgstr ""
+
+#: ../../source/rules.rst:123
+msgid ""
+"Ces feuilles représentent trois cases alignées au-dessus d'une case "
+"centrale. Il faut avoir deux feuilles d'aide."
+msgstr ""
+
+#: ../../source/rules.rst:125
+msgid ""
+"Sur la première feuille, on disposera les 4 marqueurs de valeurs dans les"
+" cases."
+msgstr ""
+
+#: ../../source/rules.rst:127
+msgid ""
+"Sur la seconde feuille, on dispose les 4 marqueurs de billets dans les "
+"cases."
+msgstr ""
+
+#: ../../source/rules.rst:133
+msgid "*Feuille d'aide à imprimer*"
+msgstr ""
+
+#: ../../source/rules.rst:137
+msgid "Marqueurs de valeurs"
+msgstr ""
+
+#: ../../source/rules.rst:139
+msgid ""
+"Les marqueurs de valeurs permettent aux joueurs de savoir, à chaque tour,"
+" quelle est la valeur la plus haute et l'ordre des valeurs."
+msgstr ""
+
+#: ../../source/rules.rst:142
+msgid "La valeur en jeu la plus haute est dans la case de droite."
+msgstr ""
+
+#: ../../source/rules.rst:144
+msgid ""
+"Dès qu'un joueur a constitué un carré de la plus haute valeur (case de "
+"droite), on décale les valeurs d'une case vers la gauche, en suivant le "
+"sens des flèches."
+msgstr ""
+
+#: ../../source/rules.rst:147
+msgid ""
+"Le marqueur de la case du bas (\"en attente\") est déplacé dans la case "
+"de droite, et le marqueur de la case de gauche rejoint la case du bas."
+msgstr ""
+
+#: ../../source/rules.rst:150
+msgid ""
+"Toutes les cartes valeurs \"en attente\" sont défaussées par les joueurs "
+"et remise dans la pioche correspondante, sans compensation !"
+msgstr ""
+
+#: ../../source/rules.rst:157
+msgid "*Marqueurs de valeurs*"
+msgstr ""
+
+#: ../../source/rules.rst:160
+msgid "Marqueurs de billets"
+msgstr ""
+
+#: ../../source/rules.rst:162
+msgid ""
+"Les marqueurs de billets permettent aux joueurs de savoir, à chaque tour,"
+" quel est le billet le plus haut et l'ordre des billets."
+msgstr ""
+
+#: ../../source/rules.rst:165
+msgid ""
+"Avant chaque tour, on décale les marqueurs d'une case vers la gauche, en "
+"suivant le sens des flêches."
+msgstr ""
+
+#: ../../source/rules.rst:167
+msgid ""
+"Le marqueur de la case du bas (\"en attente\") est déplacé dans la case "
+"de droite, et le marqueur de la case de gauvche rejoint la case du bas."
+msgstr ""
+
+#: ../../source/rules.rst:170
+msgid ""
+"Pour imprimer les marqueurs de billets, il faut imprimer une planche "
+"supplémentaire de billets ou utiliser les billets du chapitre `Billets de"
+" la monnaie`_."
+msgstr ""
+
+#: ../../source/rules.rst:175
+msgid "Mise en place"
+msgstr ""
+
+#: ../../source/rules.rst:177
+msgid ""
+"Sur une table accessible à tous, l'animateur dispose les deux feuilles "
+"d'aide et leurs marqueurs."
+msgstr ""
+
+#: ../../source/rules.rst:179
+msgid ""
+"Sur la première feuille, il dispose les 4 marqueurs de valeurs dans les "
+"cases."
+msgstr ""
+
+#: ../../source/rules.rst:181
+msgid "De gauche à droite : l'alimentation, la culture, l'énergie."
+msgstr ""
+
+#: ../../source/rules.rst:183
+msgid "Valeur \"en attente\" : la technologie."
+msgstr ""
+
+#: ../../source/rules.rst:189
+msgid "*Feuille d'aide des valeurs*"
+msgstr ""
+
+#: ../../source/rules.rst:191
+msgid ""
+"Sur la seconde feuille, il dispose les 4 marqueurs de billets dans les "
+"cases."
+msgstr ""
+
+#: ../../source/rules.rst:193
+msgid "De gauche à droite : le rouge, le jaune, le vert."
+msgstr ""
+
+#: ../../source/rules.rst:195
+msgid "Billet en attente : le bleu."
+msgstr ""
+
+#: ../../source/rules.rst:201
+msgid "*Feuille d'aide de la monnaie*"
+msgstr ""
+
+#: ../../source/rules.rst:204
+msgid ""
+"Il mélange le paquet des cartes de la valeur la plus basse (alimentation)"
+" et éparpille les cartes faces cachées sur la table."
+msgstr ""
+
+#: ../../source/rules.rst:207
+msgid ""
+"Il demande alors aux joueurs de piocher chacun 4 cartes au hasard. Ces "
+"cartes représentent les valeurs économiques de départ que possèdent les "
+"joueurs."
+msgstr ""
+
+#: ../../source/rules.rst:210
+msgid ""
+"Il prépare aussi deux pioches étalées sur la table avec les deux autres "
+"paquets de valeur en jeu (culture et énergie)."
+msgstr ""
+
+#: ../../source/rules.rst:214
+msgid "But du jeu"
+msgstr ""
+
+#: ../../source/rules.rst:216
+msgid "Le but du jeu est de créer le plus de valeurs économiques possibles."
+msgstr ""
+
+#: ../../source/rules.rst:218
+msgid ""
+"Pour cela, chaque joueur, doit acheter et vendre des cartes valeur du "
+"même paquet, afin de constituer un \"carré\" de quatre cartes identiques."
+msgstr ""
+
+#: ../../source/rules.rst:221
+msgid ""
+"À chaque \"carré\" obtenu, le joueur gagne une carte du paquet de la "
+"valeur supérieure (voir la feuille d'aide des valeurs)."
+msgstr ""
+
+#: ../../source/rules.rst:224
+msgid ""
+"Pour cela, il défausse son \"carré\" dans la pioche du paquet "
+"correspondant, et pioche quatre nouvelles cartes de ce même paquet."
+msgstr ""
+
+#: ../../source/rules.rst:227
+msgid ""
+"Ainsi, si sa main était de quatre cartes \"alimentation\", elle contient "
+"maintenant cinq cartes, quatre nouvelles \"alimentation\" et une "
+"\"culture\"."
+msgstr ""
+
+#: ../../source/rules.rst:232
+msgid "Règles monétaires"
+msgstr ""
+
+#: ../../source/rules.rst:234
+msgid ""
+"L'animateur doit maintenant expliquer aux joueurs les règles qui "
+"régissent la monnaie qui est jouée."
+msgstr ""
+
+#: ../../source/rules.rst:251
+msgid "Déroulement de la partie"
+msgstr ""
+
+#: ../../source/rules.rst:253
+msgid ""
+"La partie se déroule en 10 tours chronométrés de cinq minutes maximum. On"
+" peut réduire à trois minutes si on veut accélérer le jeu."
+msgstr ""
+
+#: ../../source/rules.rst:256
+msgid ""
+"Chaque tour représente 8 ans. À la fin d'une partie, chaque joueur aura "
+"donc vécu 80 ans, ce qui est l'espérance de vie moyenne en Europe."
+msgstr ""
+
+#: ../../source/rules.rst:259
+msgid "Mais attention, la mort rôde et les générations se succèdent…"
+msgstr ""
+
+#: ../../source/rules.rst:261
+msgid ""
+"L'animateur classe les joueurs en dix classes d'âges réparties sur les "
+"dix tours. À chaque tour, le (ou les) joueur de la classe d'âge "
+"correspondante meurt et revient en jeu en tant que nouveau-né."
+msgstr ""
+
+#: ../../source/rules.rst:266
+msgid "Exemples :"
+msgstr ""
+
+#: ../../source/rules.rst:264
+msgid "À 20 joueurs, 2 joueurs meurent par tour."
+msgstr ""
+
+#: ../../source/rules.rst:266
+msgid ""
+"À 15 joueurs, un ou deux joueurs meurent selon la répartition faîtes sur "
+"les dix tours."
+msgstr ""
+
+#: ../../source/rules.rst:268
+msgid ""
+"Seul l'animateur connaît à l'avance le nom du ou des défunts de chaque "
+"tour."
+msgstr ""
+
+#: ../../source/rules.rst:276
+msgid ""
+"À chaque tour, l'animateur annonce le début du tour et lance le "
+"chronomètre."
+msgstr ""
+
+#: ../../source/rules.rst:278
+msgid ""
+"Les joueurs vendent et achètent des cartes valeurs à l'aide des billets "
+"de la monnaie en cours."
+msgstr ""
+
+#: ../../source/rules.rst:280
+msgid ""
+"À la fin du tour, les échanges doivent cesser immédiatement. Néanmoins, "
+"les personnes ayant constitué un carré avant la fin du chronomètre "
+"peuvent l'échanger et gagner une carte de valeur supérieure."
+msgstr ""
+
+#: ../../source/rules.rst:285
+msgid "Fin du tour"
+msgstr ""
+
+#: ../../source/rules.rst:287
+msgid ""
+"À la fin de chaque tour, l'animateur appelle le ou les joueurs emportés "
+"par la mort."
+msgstr ""
+
+#: ../../source/rules.rst:289
+msgid ""
+"Celui-ci ou ceux-ci s'isolent avec l'animateur, afin que ce dernier "
+"comptabilise les valeurs et les billets en possession du joueur."
+msgstr ""
+
+#: ../../source/rules.rst:292
+msgid "Le score est enregistré dans la feuille du tableur prévue à cet effet."
+msgstr ""
+
+#: ../../source/rules.rst:294
+msgid "Le joueur est ensuite invité à reprendre le jeu comme un nouveau-né."
+msgstr ""
+
+#: ../../source/rules.rst:296
+msgid "Il pioche 4 cartes de la valeur la plus basse."
+msgstr ""
+
+#: ../../source/rules.rst:298
+msgid ""
+"Il reçoit le montant de billets prévu pour les nouveaux arrivants, selon "
+"le système monétaire en cours."
+msgstr ""
+
+#: ../../source/rules.rst:302
+msgid "Fin de la partie"
+msgstr ""
+
+#: ../../source/rules.rst:304
+msgid ""
+"À la fin du dernier tour, tous les joueurs sont appelés un par un devant "
+"l'animateur. Celui-ci comptabilise les valeurs et billets que possèdent "
+"les joueurs et les ajoute dans la feuille du tableur."
+msgstr ""
+
+#: ../../source/rules.rst:307
+msgid ""
+"Le tableur affiche alors un histogramme complet, permettant de faire le "
+"bilan économique du système monétaire qui vient d'être joué."
+msgstr ""
+
+#: ../../source/rules.rst:310
+msgid "Compte rendu"
+msgstr ""
+
+#: ../../source/rules.rst:312
+msgid ""
+"Un jeu Ğeconomicus n'est complet que si l'organisateur publie un compte "
+"rendu détaillé (billet de blog ou de réseau social, vidéo, diaporama, sur"
+" son propre site internet ou un autre lieu), notamment à l'aide des "
+"tableurs et graphiques générés que l'on peut remplir directement pendant "
+"le jeu par le banquier d'une part, et par celui qui fait la comptabilité "
+"des sortants / nouveaux entrants à chaque tour d'autre part."
+msgstr ""
+
+#: ../../source/rules.rst:317
+msgid ""
+"On devrait ainsi au minimum faire apparaître dans les graphiques pour "
+"chaque monnaie jouée :"
+msgstr ""
+
+#: ../../source/rules.rst:319
+msgid ""
+"Le nombre total de valeurs produites par joueur (banquier inclus pour la "
+"« monnaie dette »)."
+msgstr ""
+
+#: ../../source/rules.rst:320
+msgid "La moyenne globale des valeurs produites."
+msgstr ""
+
+#: ../../source/rules.rst:321
+#, python-format
+msgid "L'écart type de production des valeurs en % de la moyenne."
+msgstr ""
+
+#: ../../source/rules.rst:322
+msgid "La mise à l'échelle comparative des différents types de monnaies jouées."
+msgstr ""
+
+#: ../../source/rules.rst:324
+msgid "Utiliser pour cela les tableurs au format LibreOffice de Ğeconomicus :"
+msgstr ""
+
+#: ../../source/rules.rst:326
+msgid ""
+"`Cliquer ici pour télécharger le tableur LibreOffice du compte-rendu "
+"<./_static/spreadsheets/Ğeconomicus_Monnaies.ods>`_"
+msgstr ""
+
+#: ../../source/rules.rst:327
+msgid ""
+"`Cliquer ici pour télécharger le tableur LibreOffice du banquier "
+"<./_static/spreadsheets/Ğeconomicus_Suivi_Banquier.ods>`_"
+msgstr ""
+
