@@ -28,7 +28,6 @@ Hébergement :
 * http://geconomicus.glibre.org
 * http://geconomicus.duniter.fr
 * http://www.reglesdejeux.com/geconomicus/
-* http://duniter.github.io/Geconomicus/
 * http://vtexier.github.io/Geconomicus
 
 Comptes rendus déjà publiés :
