@@ -10,11 +10,11 @@ You will find, and you can contribute in:
 
 #### Ğeconomicus HTML
 
-Web pages including online rules (french) and zip ready-to-print cards and banknotes : http://geconomicus.glibre.org
+Website including online rules (french) and zip ready-to-print cards & banknotes + calc spreadsheets : http://geconomicus.glibre.org
 
 #### Ğeconomicus latest release
 
-Spread Ğeconomicus, download and install Ğeconomicus HTML web pages and ready-to-print cards and banknotes on your own server : https://github.com/galuel/Geconomicus/releases/latest
+Spread Ğeconomicus, download and install Ğeconomicus Website on your own server : https://github.com/galuel/Geconomicus/releases/latest
 
 #### XMPP Chat room
 
@@ -24,13 +24,13 @@ You can study and install [Jabber/XMPP free clients softwares](http://xmpp.org/s
 
 #### Contributions
 
-Ğeconomicus was inspired by several economic games like [La Corbeille](https://github.com/Valeureux/LaCorbeille-Trading-Floor) another free game under GPL v3, Monopoly™, La bonne paye™, online MMORPG that include also specific money that every time is created following specific rules.
+Ğeconomicus was inspired by several economic games like [La Corbeille](https://github.com/Valeureux/LaCorbeille-Trading-Floor) another free game under GPL v3, Monopoly™, La bonne paye™, online MMORPG that include also economy simulation and specific money code that is created following specific rules.
 
-Ğeconomicus adds another dimension to any economic game based on its principles : limited lifetime of the players, rotation of the money and rotation of the values, in order to be able to simulate at least a life expectancy game time (near 80 years in Europe in 2016), where players can die and be born again, and where money and economical values can follow this entire cycle.
+Ğeconomicus adds another dimension to any economic game based on its principles : limited lifetime of the players, rotation of the money and rotation of the values, in order to be able to simulate at least a life expectancy game time (near 80 years in Europe in 2016), where players can die and be born again and where money and economical values can follow this entire cycle.
 
 It includes free money system like it is demonstrated in Relative Theory of Money (GPL v3) = a money system based on a Universal Dividend (see http://en.trm.creationmonetaire.info or http://trm.creationmonetaire.info), money debt, and other money systems in order to compare their impact in the final result.
 
-Ğeconomicus uses the Ğ caracter as it's defined in http://www.glibre.org
+Ğeconomicus uses the Ğ caracter as it is defined in http://www.glibre.org
 
 # Generate HTML with travis
 
