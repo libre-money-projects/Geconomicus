@@ -17,7 +17,7 @@ Il distribue alors 2 billets de la valeur supérieure (qui est la couleur qui é
 
 Il y a donc ainsi toujours 3 couleurs de billets en jeu valant respectivement 1/2 DU, 1 DU, et 2 DU, qui « glissent » (ou « tournent ») à chaque tour, la couleur médiane étant alors celle des billets valant 1 DU de référence, unité en en vigueur lors d'un tour.
 
-Les valeurs monétaires des cartes se fondent sur le DU de référence en vigueur et les cartes de valeur la plus basse valent chacune 3 DU. Les valeurs moyennes valent alors 6 DU et les valeurs hautes 9 DU.
+Les valeurs monétaires des cartes se fondent sur le DU de référence en vigueur et les cartes de valeur la plus basse valent chacune 3 DU. Les valeurs moyennes valent alors 6 DU et les valeurs hautes 12 DU.
 
 .. note :: On aura donc toujours une moyenne de monnaie par joueur de 2 * (1/2 DU +1 DU + 2 DU) = 7 DU et donc un « pouvoir d'achat » moyen distribué de (2 cartes valeurs + 1 DU) / joueur.
 
