@@ -7,12 +7,13 @@ Les règles données ici sont pour dix joueurs. Pour plus de joueurs, il faut pl
 Nombre de joueurs
 -----------------
 
-10 joueurs ou plus.
+.. list-table::
+   :widths: 20 80
+   :header-rows: 1
 
-::
-
-    +1 animateur
-    +1 banquier (pour la monnaie dette)
+- 10 joueurs ou plus.
+- +1 animateur
+- +1 banquier (pour la monnaie dette)
 
 
 Durée
@@ -20,42 +21,56 @@ Durée
 
 1h30
 
-::
-
-   Temps approximatif pour une partie complète de 10 tours avec un seul type de monnaie
+.. note:: Temps approximatif pour une partie complète de 10 tours avec un seul type de monnaie. Comme il convient de jouer au moins deux types de monnaie (ici monnaie dette et monnaie libre sont détaillées) pour les comparer, compter donc au moins 3h00 pour une partie complète + le temps nécessaire à l'exposé du résultat donné par le tableur. L'expérience montre qu'il vaut mieux réaliser le jeu sur une journée, avec une monnaie le matin, l'autre monnaie l'après-midi suivie de l'exposé des résultats.
 
 
 Matériel
 --------
 
-* 4 paquets de 54 cartes (52 cartes valeurs + 1 carte marqueur + 1 carte notice)
-* 1 paquet de valeurs basses (au début cartes rouges Ğeconomicus, ou bien tous les coeurs réunis des 4 paquets).
-* 1 paquet de valeurs moyennes (au début cartes jaunes Ğeconomicus, ou bien tous les trèfles réunis des 4 paquets).
-* 1 paquet de valeurs hautes (au début cartes vertes Ğeconomicus, ou bien tous les carreaux réunis des 4 paquets).
-* 1 paquet de valeurs en attente (au début cartes bleues Ğeconomicus, ou bien tous les piques réunis des 4 paquets).
+.. list-table::
+   :widths: 20 80
+   :header-rows: 1
 
-* 4 paquets de 20 billets
-* 20 billets rouges
-* 20 billets jaunes
-* 20 billets verts
-* 20 billets bleus
+- 4 paquets de 54 cartes (52 cartes valeurs + 1 carte marqueur + 1 carte notice)
+- 1 paquet de valeurs basses.
+- 1 paquet de valeurs moyennes.
+- 1 paquet de valeurs hautes.
+- 1 paquet de valeurs en attente.
 
-* 4 billets marqueurs (qui permet de noter le billet de valeur basse en cours)
+.. list-table::
+   :widths: 20 80
+   :header-rows: 1
 
-* Feuille d'aide pour le cycle des valeurs
-* Feuille d'aide pour le cycle des billets
+- 4 paquets de 20 billets
+- 20 billets rouges
+- 20 billets jaunes
+- 20 billets verts
+- 20 billets bleus
 
-* 1 chronomètre
+.. list-table::
+   :widths: 20 80
+   :header-rows: 1
 
-::
+- 4 billets marqueurs (qui permettent de noter le billet de valeur basse en cours)
 
-   Pour N joueurs, prévoir au moins 5*N en cartes (= au moins 5/4*N carrés). Prévoir au moins 2*N pour chaque couleur de billet.
+.. list-table::
+   :widths: 20 80
+   :header-rows: 1
+
+- Feuille d'aide pour le cycle des valeurs
+- Feuille d'aide pour le cycle des billets
+- 1 chronomètre
+- 1 tableur LibreOffice permettant la saisie et le calcul rapide de la comptabilité.
+
+.. note:: Pour N joueurs, prévoir au moins 5*N en cartes (= au moins 5/4*N carrés). Prévoir au moins 2*N pour chaque couleur de billet.
 
 
 Cartes valeurs
 --------------
 
 Les cartes valeur représentent les valeurs économiques échangeables, elle sont constituées de 4 paquets de cartes différenciés et facilement discernables. Chaque paquet contient 13 séries de 4 cartes identiques, soit au moins 52 cartes formant ainsi 13 carrés.
+
+.. note:: Les calculs sont pour 10 joueurs. En effet, pour chaque niveau de cartes il faut avoir : 10 joueurs x 5 = au moins 50  cartes, ou bien 10 joueurs x 5/4 = au moins 12,5 carrés.
 
 Style "révolution"
 __________________
@@ -85,8 +100,7 @@ Les valeurs sont représentées par des lettres de **A** à **M**. Cela permet d
 Billets de la monnaie
 ---------------------
 
-Il faut 4 couleurs de 20 billets chacune. La monnaie en jeu est constituée de 60 billets colorés.
-Et il y a une couleur contituée de 20 billets en attente.
+Il faut 4 couleurs de 20 billets chacune. La monnaie en jeu est constituée de 60 billets colorés et il y a donc une couleur contituée de 20 billets en attente.
 
 .. figure:: _static/money/red_banknote_modern_preview.png
     :align: center
@@ -161,13 +175,7 @@ Pour imprimer les marqueurs de billets, il faut imprimer une planche supplément
 Mise en place
 -------------
 
-Sur une table accessible à tous, l'animateur dispose les deux feuilles d'aide et leurs marqueurs.
-
-Sur la première feuille, il dispose les 4 marqueurs de valeurs dans les cases.
-
-De gauche à droite : l'alimentation, la culture, l'énergie.
-
-Valeur "en attente" : la technologie.
+Sur une table accessible à tous, l'animateur dispose les deux feuilles d'aide et leurs marqueurs. Sur la première feuille, il dispose les 4 marqueurs de valeurs dans les cases et de gauche à droite : l'alimentation, la culture, l'énergie et la valeur "en attente" : la technologie.
 
 .. figure:: _static/help_sheets/help_sheet_markers.png
     :align: center
@@ -175,11 +183,7 @@ Valeur "en attente" : la technologie.
 
     *Feuille d'aide des valeurs*
 
-Sur la seconde feuille, il dispose les 4 marqueurs de billets dans les cases.
-
-De gauche à droite : le rouge, le jaune, le vert.
-
-Billet en attente : le bleu.
+Sur la seconde feuille, il dispose les 4 marqueurs de billets dans les cases. De gauche à droite : le rouge, le jaune, le vert et le billet "en attente" : le bleu.
 
 .. figure:: _static/help_sheets/help_sheet_banknotes.png
     :align: center
@@ -188,11 +192,7 @@ Billet en attente : le bleu.
     *Feuille d'aide de la monnaie*
 
 
-Il mélange le paquet des cartes de la valeur la plus basse (alimentation) et éparpille les cartes faces cachées sur la table.
-
-Il demande alors aux joueurs de piocher chacun 4 cartes au hasard. Ces cartes représentent les valeurs économiques de départ que possèdent les joueurs.
-
-Il prépare aussi deux pioches étalées sur la table avec les deux autres paquets de valeur en jeu (culture et énergie).
+Il mélange le paquet des cartes de la valeur la plus basse (alimentation) et éparpille les cartes faces cachées sur la table. Il demande alors aux joueurs de piocher chacun 4 cartes au hasard. Ces cartes représentent les valeurs économiques de départ que possèdent les joueurs. Il prépare aussi deux pioches étalées sur la table avec les deux autres paquets de valeur en jeu (culture et énergie).
 
 But du jeu
 ----------
@@ -201,7 +201,7 @@ Le but du jeu est de créer le plus de valeurs économiques possibles. Pour cela
 
 Il se défausse de son carré dans la pioche du paquet correspondant, et pioche aussi quatre nouvelles cartes de ce même paquet. Ainsi, si sa main était de quatre cartes "alimentation", elle contient maintenant cinq cartes : quatre nouvelles "alimentation" + une "culture".
 
-Avec le roulement des valeurs, les valeurs moyennes valent 2 basses, et les valeurs hautes valent 2 moyennes. Mais lorsqu'un joueur arrive à obtenir un carré de 4 valeurs hautes il crée une "rupture" technologique, la valeur en attente entre en jeu à ce moment là, et les valeurs basses sont retirées du jeu, c'est la valeur moyenne qui devient la nouvelle valeur basse, et on passe ainsi au niveau technologique (ou économique) supérieur.
+Avec le roulement des valeurs, les valeurs moyennes valent 2 basses, et les valeurs hautes valent 2 moyennes. Mais lorsqu'un joueur arrive à obtenir un carré de 4 valeurs hautes il crée une "rupture" technologique, la valeur en attente entre en jeu à ce moment là, et les valeurs basses sont retirées du jeu, c'est la valeur moyenne qui devient la nouvelle valeur basse et on passe ainsi au niveau technologique (ou économique) supérieur.
 
 Règles monétaires
 -----------------
@@ -215,50 +215,29 @@ L'animateur doit maintenant expliquer aux joueurs les règles qui régissent la 
     libre_money.rst
     other_money.rst
 
-::
-
-    Il est possible de jouer le troc, sans monnaie, en échangeant une carte contre une carte, mais par expérience, ce système bloque rapidement et ne tient pas 80 ans... Toutefois c'est à vous de le tester et de le comparer avec les autres types de monnaies !
-
+.. note:: Il est possible de jouer le troc, sans monnaie, en échangeant une carte contre une carte, mais l'expérience montre que ce système bloque rapidement et ne tient pas 80 ans... Toutefois c'est à vous de le tester et de le comparer avec les autres types de monnaies !
 
 Déroulement de la partie
 ------------------------
 
-La partie se déroule en 10 tours chronométrés de cinq minutes maximum. On peut réduire à trois minutes si on veut accélérer le jeu.
-
-Chaque tour représente 8 ans. À la fin d'une partie, chaque joueur aura donc vécu 80 ans de jeu, ce qui est l'espérance de vie moyenne en Europe.
+La partie se déroule en 10 tours chronométrés de cinq minutes maximum. On peut réduire à trois minutes si on veut accélérer le jeu. Chaque tour représente 8 ans. À la fin d'une partie, chaque joueur aura donc vécu 80 ans de jeu, ce qui est l'espérance de vie moyenne en Europe.
 
 Mais attention, la mort rôde et les générations se succèdent...
 
 L'animateur classe les joueurs en dix classes d'âges réparties sur les dix tours. À chaque tour, le (ou les) joueur de la classe d'âge correspondante meurt et revient en jeu en tant que nouveau-né.
 
-Exemples :
-
- À 20 joueurs, 2 joueurs meurent par tour.
-
- À 15 joueurs, un ou deux joueurs meurent selon la répartition faîtes sur les dix tours.
-
-Seul l'animateur connaît à l'avance le nom du ou des défunts de chaque tour.
-
-::
-
-    L'ordre des décès est déterminé au début du jeu dans le tableur et doit être gardé secret par l'animateur.
+.. note:: À 20 joueurs, 2 joueurs meurent par tour. À 15 joueurs, un ou deux joueurs meurent selon la répartition faîtes sur les dix tours. Seul l'animateur connaît à l'avance le nom du ou des défunts de chaque tour. L'ordre des décès est ainsi déterminé au début du jeu dans le tableur et doit être gardé secret par l'animateur.
 
 À chaque tour, l'animateur annonce le début du tour et lance le chronomètre. Les joueurs vendent et achètent des cartes valeurs à l'aide des billets de la monnaie en cours. À la fin du tour, les échanges doivent cesser immédiatement. Néanmoins, les personnes ayant constitué un carré avant la fin du chronomètre peuvent l'échanger et gagner ainsi une carte de valeur supérieure.
 
 Fin du tour
 -----------
 
-À la fin de chaque tour, l'animateur appelle le ou les joueurs emportés par la mort.
+À la fin de chaque tour, l'animateur appelle le ou les joueurs emportés par la mort. Celui-ci ou ceux-ci s'isolent avec l'animateur, afin que ce dernier comptabilise les valeurs et les billets en possession du joueur.
 
-Celui-ci ou ceux-ci s'isolent avec l'animateur, afin que ce dernier comptabilise les valeurs et les billets en possession du joueur.
+Le score est enregistré dans la feuille du tableur prévue à cet effet. Dans ce tableur on tient compte à chaque tour de la colonne "TECH" qui permet de savoir à quel niveau de valeur "basse" on se trouve et qui tient lieu de multiplicateur (selon le niveau de valeur atteint, il vaut ainsi 1, 2, 4, 8 ...).
 
-Le score est enregistré dans la feuille du tableur prévue à cet effet. Dans ce tableur on tient compte à chaque tour de la colonne "TECH" qui permet de savoir à quel niveau de valeur "basse" on se trouve.
-
-Le joueur est ensuite invité à reprendre le jeu comme un nouveau-né.
-
-Il pioche 4 cartes de la valeur la plus basse.
-
-Il reçoit le montant de billets prévu pour les nouveaux arrivants, selon le système monétaire en cours.
+Le joueur est ensuite invité à reprendre le jeu comme un nouveau-né. Il remet toutes ses valeurs et billets dans la pioche puis il pioche 4 nouvelles cartes de la valeur la plus basse et reçoit les billets prévu pour les nouveaux arrivants, selon le système monétaire en cours.
 
 Fin de la partie
 ----------------

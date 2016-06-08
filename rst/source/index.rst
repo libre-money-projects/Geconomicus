@@ -23,7 +23,7 @@ Développement :
 * `Dépôt GitHub <https://github.com/duniter/Geconomicus>`_
 * `Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`_
 
-Hébergement :
+Hébergement connus :
 
 * http://geconomicus.glibre.org
 * http://geconomicus.duniter.fr
