@@ -70,7 +70,21 @@ Cartes valeurs
 
 Les cartes valeur représentent les valeurs économiques échangeables, elle sont constituées de 4 paquets de cartes différenciés et facilement discernables. Chaque paquet contient 13 séries de 4 cartes identiques, soit au moins 52 cartes formant ainsi 13 carrés.
 
-.. note:: Les calculs sont pour 10 joueurs. En effet, pour chaque niveau de cartes il faut avoir : 10 joueurs x 5 = au moins 50  cartes, ou bien 10 joueurs x 5/4 = au moins 12,5 carrés.
+.. note 1:: Les calculs sont pour 10 joueurs. En effet, pour chaque niveau de cartes il faut avoir : 10 joueurs x 5 = au moins 50  cartes, ou bien 10 joueurs x 5/4 = au moins 12,5 carrés.
+
+.. note 2:: Ğeconomicus propose des paquets de cartes adaptés, mais les paquets classiques peuvent être utilisés.
+
+Style "classique"
+__________________
+
+Les quatre niveaux de valeurs sont les regroupements des couleurs standards de chacun des 4 paquets de cartes.
+
+1. Les coeurs.
+2. Les piques.
+3. les carreaux.
+4. les trèfles.
+
+On réalise ainsi des carrés avec 4 cartes identiques de même couleur comme 4 cinq de coeur ou 4 valets de coeur.
 
 Style "révolution"
 __________________
