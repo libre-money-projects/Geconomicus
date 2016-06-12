@@ -7,13 +7,9 @@ Les règles données ici sont pour dix joueurs. Pour plus de joueurs, il faut pl
 Nombre de joueurs
 -----------------
 
-.. list-table::
-   :widths: 20 80
-   :header-rows: 1
-
-- 10 joueurs ou plus.
-- +1 animateur
-- +1 banquier (pour la monnaie dette)
+* 10 joueurs ou plus.
+* +1 animateur
+* +1 banquier (pour la monnaie dette)
 
 
 Durée
@@ -27,40 +23,32 @@ Durée
 Matériel
 --------
 
-.. list-table::
-   :widths: 20 80
-   :header-rows: 1
+* 4 paquets de 54 cartes (52 cartes valeurs + 1 carte marqueur + 1 carte notice)
 
-- 4 paquets de 54 cartes (52 cartes valeurs + 1 carte marqueur + 1 carte notice)
-- 1 paquet de valeurs basses.
-- 1 paquet de valeurs moyennes.
-- 1 paquet de valeurs hautes.
-- 1 paquet de valeurs en attente.
+    * 1 paquet de valeurs basses.
+    * 1 paquet de valeurs moyennes.
+    * 1 paquet de valeurs hautes.
+    * 1 paquet de valeurs en attente.
 
-.. list-table::
-   :widths: 20 80
-   :header-rows: 1
+|
 
-- 4 paquets de 20 billets
-- 20 billets rouges
-- 20 billets jaunes
-- 20 billets verts
-- 20 billets bleus
+* 4 paquets de 20 billets
 
-.. list-table::
-   :widths: 20 80
-   :header-rows: 1
+    * 20 billets rouges
+    * 20 billets jaunes
+    * 20 billets verts
+    * 20 billets bleus
 
-- 4 billets marqueurs (qui permettent de noter le billet de valeur basse en cours)
+|
 
-.. list-table::
-   :widths: 20 80
-   :header-rows: 1
+* 4 billets marqueurs (qui permettent de noter le billet de valeur basse en cours)
 
-- Feuille d'aide pour le cycle des valeurs
-- Feuille d'aide pour le cycle des billets
-- 1 chronomètre
-- 1 tableur LibreOffice permettant la saisie et le calcul rapide de la comptabilité.
+|
+
+* Feuille d'aide pour le cycle des valeurs
+* Feuille d'aide pour le cycle des billets
+* 1 chronomètre
+* 1 tableur LibreOffice permettant la saisie et le calcul rapide de la comptabilité.
 
 .. note:: Pour N joueurs, prévoir au moins 5*N en cartes (= au moins 5/4*N carrés). Prévoir au moins 2*N pour chaque couleur de billet.
 
