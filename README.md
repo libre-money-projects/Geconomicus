@@ -60,6 +60,7 @@ Install Sphinx 1.3:
 
 ```bash
     (venv) $ pip install sphinx==1.3
+    (venv) $ pip install sphinx-intl
 ```
 
 #### build HTML
@@ -91,3 +92,29 @@ Locate or create the folder `.local/share/color/icc` and put the profile in it.
 Open `Inkscape > Document Properties > Color Management` and link the profile.
 
 Choose colors in the CMS tab with the `PSOcoated_v3` icc profile selected.
+
+## Translation
+
+### Build in english (US)
+
+```bash
+    (venv) $ ./build_en_US.sh
+```
+
+To do after the standard french build. Does not generate cards/banknotes.
+
+### When rst files are modified...
+
+Re-generate pot files in `build/locale`
+
+```bash
+    (venv) $ cd rst
+    (venv) $ make gettext
+```
+
+Re-generate po files from pot files in `source/locale`
+
+```bash
+    (venv) $ cd rst
+    (venv) $ sphinx-intl update -p build/locale -d source/locale/ -l en_US
+```
