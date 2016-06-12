@@ -19,23 +19,22 @@ Le jeu se présente comme un site web comprenant les règles, les modèles de ca
 
 Développement :
 
-* `Dernière version <https://github.com/galuel/Geconomicus/releases/latest>`_
-* `Dépôt GitHub <https://github.com/galuel/Geconomicus>`_
+* `Dernière version <https://github.com/duniter/Geconomicus/releases>`_
+* `Dépôt GitHub <https://github.com/duniter/Geconomicus>`_
 * `Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`_
 
-Hébergement :
+Hébergement connus :
 
 * http://geconomicus.glibre.org
-* http://geconomicus.ucoin.fr
+* http://geconomicus.duniter.fr
+* http://www.reglesdejeux.com/geconomicus/
 * http://vtexier.github.io/Geconomicus
-* http://galuel.github.io/Geconomicus
 
-Réalisations :
+Comptes rendus déjà publiés :
 
 * `Vidéos de compte-rendu sur YouTube <https://youtu.be/R4SIO2VuC2A?list=PL0UDqLtXevvHY5rAyFtql5931VqYyRaoK>`_
 * `Festival de la monnaie à Bordeaux <http://www.festivaldelamonnaie.org/index.php/jeu-geconomicus/>`_
-
-*Jeu sous license libre* `GPL v3 <http://www.gnu.org/licenses/gpl-3.0.fr.html>`_
+* Jeu sous license libre* `GPL v3 <http://www.gnu.org/licenses/gpl-3.0.fr.html>`_
 
 
 Table des matières
