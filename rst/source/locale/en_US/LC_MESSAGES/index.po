@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016, vit
+# Copyright (C) 2016, vit, Ğaluel
 # This file is distributed under the same license as the Geconomicus
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Geconomicus 2.01\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-09 18:05+0200\n"
+"POT-Creation-Date: 2016-06-12 10:36+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,13 +55,11 @@ msgid "Développement :"
 msgstr ""
 
 #: ../../source/index.rst:22
-msgid ""
-"`Dernière version "
-"<https://github.com/galuel/Geconomicus/releases/latest>`_"
+msgid "`Dernière version <https://github.com/duniter/Geconomicus/releases>`_"
 msgstr ""
 
 #: ../../source/index.rst:23
-msgid "`Dépôt GitHub <https://github.com/galuel/Geconomicus>`_"
+msgid "`Dépôt GitHub <https://github.com/duniter/Geconomicus>`_"
 msgstr ""
 
 #: ../../source/index.rst:24
@@ -69,7 +67,7 @@ msgid "`Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`
 msgstr ""
 
 #: ../../source/index.rst:26
-msgid "Hébergement :"
+msgid "Hébergement connus :"
 msgstr ""
 
 #: ../../source/index.rst:28
@@ -77,19 +75,19 @@ msgid "http://geconomicus.glibre.org"
 msgstr ""
 
 #: ../../source/index.rst:29
-msgid "http://geconomicus.ucoin.fr"
+msgid "http://geconomicus.duniter.fr"
 msgstr ""
 
 #: ../../source/index.rst:30
-msgid "http://vtexier.github.io/Geconomicus"
+msgid "http://www.reglesdejeux.com/geconomicus/"
 msgstr ""
 
 #: ../../source/index.rst:31
-msgid "http://galuel.github.io/Geconomicus"
+msgid "http://vtexier.github.io/Geconomicus"
 msgstr ""
 
 #: ../../source/index.rst:33
-msgid "Réalisations :"
+msgid "Comptes rendus déjà publiés :"
 msgstr ""
 
 #: ../../source/index.rst:35
@@ -104,13 +102,38 @@ msgid ""
 "<http://www.festivaldelamonnaie.org/index.php/jeu-geconomicus/>`_"
 msgstr ""
 
-#: ../../source/index.rst:38
+#: ../../source/index.rst:37
 msgid ""
-"*Jeu sous license libre* `GPL v3 "
+"Jeu sous license libre* `GPL v3 "
 "<http://www.gnu.org/licenses/gpl-3.0.fr.html>`_"
 msgstr ""
 
-#: ../../source/index.rst:42
+#: ../../source/index.rst:41
 msgid "Table des matières"
 msgstr ""
+
+#~ msgid ""
+#~ "`Dernière version "
+#~ "<https://github.com/galuel/Geconomicus/releases/latest>`_"
+#~ msgstr ""
+
+#~ msgid "`Dépôt GitHub <https://github.com/galuel/Geconomicus>`_"
+#~ msgstr ""
+
+#~ msgid "Hébergement :"
+#~ msgstr ""
+
+#~ msgid "http://geconomicus.ucoin.fr"
+#~ msgstr ""
+
+#~ msgid "http://galuel.github.io/Geconomicus"
+#~ msgstr ""
+
+#~ msgid "Réalisations :"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*Jeu sous license libre* `GPL v3 "
+#~ "<http://www.gnu.org/licenses/gpl-3.0.fr.html>`_"
+#~ msgstr ""
 

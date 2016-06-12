@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016, vit
+# Copyright (C) 2016, vit, Ğaluel
 # This file is distributed under the same license as the Geconomicus
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Geconomicus 2.01\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-09 18:05+0200\n"
+"POT-Creation-Date: 2016-06-12 10:36+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,19 +23,36 @@ msgid "Autres monnaies"
 msgstr ""
 
 #: ../../source/other_money.rst:4
-msgid "Ğeconomicus est ouvert à d'autres systèmes de création monétaire."
+msgid ""
+"Ğeconomicus vous invite à modéliser avec les cartes et les billets du jeu"
+" le système de création monétaire que vous désirez. Testez le, analysez "
+"le, confrontez les résultats obtenus avec les autres types de monnaies."
 msgstr ""
 
 #: ../../source/other_money.rst:6
 msgid ""
-"On peut simuler le crédit mutuel, par exemple, utilisé dans les Systèmes "
-"d'Echange Locaux."
+"On peut simuler le troc (absence de monnaie), le crédit mutuel fixe "
+"utilisé dans certains SEL (Systèmes d'Echange Locaux), on peut simuler un"
+" système monétaire fixe associé à une taxe sur les joueurs et "
+"redistribuer selon des modalités choisies, ou encore simuler de la "
+"création monétaire \"démocratiquement décidée\" etc."
 msgstr ""
 
-#: ../../source/other_money.rst:8
-msgid ""
-"Nous vous invitons à modéliser, avec les cartes et les billets du jeu, le"
-" système de création monétaire que vous désirez. Testez le, analysez le "
-"et confrontez les résultats obtenus avec d'autres types de monnaies."
-msgstr ""
+#~ msgid "Ğeconomicus est ouvert à d'autres systèmes de création monétaire."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "On peut simuler le crédit mutuel, "
+#~ "par exemple, utilisé dans les Systèmes"
+#~ " d'Echange Locaux."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Nous vous invitons à modéliser, avec "
+#~ "les cartes et les billets du jeu,"
+#~ " le système de création monétaire que"
+#~ " vous désirez. Testez le, analysez le"
+#~ " et confrontez les résultats obtenus "
+#~ "avec d'autres types de monnaies."
+#~ msgstr ""
 
