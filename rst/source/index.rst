@@ -15,15 +15,15 @@ Présentation
 L'intérêt du jeu est surtout de comparer différents types de monnaies, dont le concept de monnaie libre,
 tel que démontré dans `La Théorie Relative de la Monnaie <http://trm.creationmonetaire.info>`_.
 
-Le jeu se présente comme un site web comprenant les règles, les modèles de cartes et de billets à imprimer, des fichers tableurs permettant la réalisation de comptes rendus finaux ainsi que des liens vers des exemples de réalisations complètes (vidéos, sites internet...).
+Le jeu se présente comme un site web libre (à télécharger et installer sur son propre site) comprenant les règles, des modèles de cartes et de billets spécifiques à imprimer, des fichers tableurs permettant la réalisation de comptes rendus finaux ainsi que des liens vers des exemples de réalisations complètes (vidéos, sites internet...).
 
 Développement :
 
-* `Dernière version <https://github.com/duniter/Geconomicus/releases>`_
-* `Dépôt GitHub <https://github.com/duniter/Geconomicus>`_
+* `Dernière version <https://github.com/libre-money-projects/Geconomicus/releases>`_
+* `Dépôt GitHub <https://github.com/libre-money-projects/Geconomicus>`_
 * `Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`_
 
-Hébergement connus :
+Hébergements connus :
 
 * http://geconomicus.glibre.org
 * http://geconomicus.duniter.fr
@@ -34,7 +34,7 @@ Comptes rendus déjà publiés :
 
 * `Vidéos de compte-rendu sur YouTube <https://youtu.be/R4SIO2VuC2A?list=PL0UDqLtXevvHY5rAyFtql5931VqYyRaoK>`_
 * `Festival de la monnaie à Bordeaux <http://www.festivaldelamonnaie.org/index.php/jeu-geconomicus/>`_
-* Jeu sous license libre* `GPL v3 <http://www.gnu.org/licenses/gpl-3.0.fr.html>`_
+* Jeu sous license libre `GPL v3 <http://www.gnu.org/licenses/gpl-3.0.fr.html>`_
 
 
 Table des matières
