@@ -23,7 +23,7 @@ Durée
 Matériel
 --------
 
-* 4 paquets de 54 cartes (52 cartes valeurs + 1 carte marqueur + 1 carte notice)
+* 4 paquets de 54 cartes (52 cartes valeurs + 1 carte marqueur + 1 carte notice) pour 4 niveaux :
 
     * 1 paquet de valeurs basses.
     * 1 paquet de valeurs moyennes.
@@ -50,17 +50,17 @@ Matériel
 * 1 chronomètre
 * 1 tableur LibreOffice permettant la saisie et le calcul rapide de la comptabilité.
 
-.. note:: Pour N joueurs, prévoir au moins 5*N en cartes (= au moins 5/4*N carrés). Prévoir au moins 2*N pour chaque couleur de billet.
+.. note:: Pour N joueurs, prévoir au moins 5*N en cartes (= au moins 5/4*N carrés) par niveau. Prévoir au moins 2*N pour chaque couleur de billet.
 
 
 Cartes valeurs
 --------------
 
-Les cartes valeur représentent les valeurs économiques échangeables, elle sont constituées de 4 paquets de cartes différenciés et facilement discernables. Chaque paquet contient 13 séries de 4 cartes identiques, soit au moins 52 cartes formant ainsi 13 carrés.
+Les cartes valeur représentent les valeurs économiques échangeables, elle sont constituées de 4 paquets de cartes différenciés et facilement discernables, représentant chacun un niveau. Chaque paquet contient 13 séries de 4 cartes identiques, soit au moins 52 cartes formant ainsi 13 carrés.
 
 .. note 1:: Les calculs sont pour 10 joueurs. En effet, pour chaque niveau de cartes il faut avoir : 10 joueurs x 5 = au moins 50  cartes, ou bien 10 joueurs x 5/4 = au moins 12,5 carrés.
 
-.. note 2:: Ğeconomicus propose des paquets de cartes adaptés, mais les paquets classiques peuvent être utilisés.
+.. note 2:: Ğeconomicus propose des paquets de cartes adaptés, mais les cartes "classiques" peuvent être utilisés, en regroupant les couleurs de chacun des 4 paquets. On aura dans ce cas 1 paquet des coeurs, 1 des piques, 1 des carreaux et 1 des trèfles.
 
 Style "classique"
 __________________
@@ -98,7 +98,6 @@ Les valeurs sont représentées par des lettres de **A** à **M**. Cela permet d
 
     *13 lettres valeurs par niveau*
 
-
 Billets de la monnaie
 ---------------------
 
@@ -131,18 +130,13 @@ Il faut 4 couleurs de 20 billets chacune. La monnaie en jeu est constituée de 6
 Feuilles d'aide
 ---------------
 
-Ces feuilles représentent trois cases alignées au-dessus d'une case centrale. Il faut avoir deux feuilles d'aide.
-
-Sur la première feuille, on disposera les 4 marqueurs de valeurs dans les cases.
-
-Sur la seconde feuille, on dispose les 4 marqueurs de billets dans les cases.
+Ces feuilles représentent trois cases alignées au-dessus d'une case centrale. Il faut avoir deux feuilles d'aide. Sur la première feuille, on disposera les 4 marqueurs de valeurs dans les cases, sur la seconde feuille on dispose les 4 marqueurs de billets dans les cases.
 
 .. figure:: _static/help_sheets/help_sheet.svg
     :align: center
     :scale: 100%
 
     *Feuille d'aide à imprimer*
-
 
 Marqueurs de valeurs
 --------------------
@@ -151,11 +145,7 @@ Les marqueurs de valeurs permettent aux joueurs de savoir, à chaque tour, quell
 
 La valeur en jeu la plus haute est dans la case de droite.
 
-Dès qu'un joueur a constitué un carré de la plus haute valeur (case de droite), on décale les valeurs d'une case vers la gauche, en suivant le sens des flèches.
-
-Le marqueur de la case du bas ("en attente") est déplacé dans la case de droite, et le marqueur de la case de gauche rejoint la case du bas.
-
-Toutes les cartes valeurs "en attente" sont défaussées par les joueurs et remise dans la pioche correspondante, sans compensation !
+Dès qu'un joueur a constitué un carré de la plus haute valeur (case de droite), il réalise la couleur "en attente". On décale alors les valeurs d'une case vers la gauche, en suivant le sens des flèches. Le marqueur de la case du bas ("en attente") est déplacé dans la case de droite, et le marqueur de la case de gauche rejoint la case "en attente". Toutes les cartes de valeur basse passent "en attente" et sont donc défaussées par les joueurs, remises dans la pioche correspondante et remplacées une pour une par la nouvelle valeur basse (il faut toujours s'assurer qu'il y a bien en jeu en moyenne exactement 4 cartes de valeur basse par joueur, qui constituent la base des échanges).
 
 .. figure:: _static/cards/revolution/markers.png
     :align: center
@@ -166,11 +156,7 @@ Toutes les cartes valeurs "en attente" sont défaussées par les joueurs et remi
 Marqueurs de billets
 --------------------
 
-Les marqueurs de billets permettent aux joueurs de savoir, à chaque tour, quel est le billet le plus haut et l'ordre des billets.
-
-Avant chaque tour, on décale les marqueurs d'une case vers la gauche, en suivant le sens des flêches.
-
-Le marqueur de la case du bas ("en attente") est déplacé dans la case de droite, et le marqueur de la case de gauvche rejoint la case du bas.
+Les marqueurs de billets permettent aux joueurs de savoir, à chaque tour, quel est le billet le plus haut et l'ordre des billets. Avant chaque tour, on décale les marqueurs d'une case vers la gauche, en suivant le sens des flêches. Le marqueur de la case du bas ("en attente") est déplacé dans la case de droite, et le marqueur de la case de gauvche rejoint la case du bas.
 
 Pour imprimer les marqueurs de billets, il faut imprimer une planche supplémentaire de billets ou utiliser les billets du chapitre `Billets de la monnaie`_.
 
@@ -201,9 +187,11 @@ But du jeu
 
 Le but du jeu est de créer le plus de valeurs économiques possibles. Pour cela, chaque joueur, doit acheter et vendre des cartes valeur du même paquet, afin de constituer un "carré" de quatre cartes identiques. À chaque "carré" obtenu, le joueur gagne une carte du paquet de la valeur supérieure (voir la feuille d'aide des valeurs).
 
-Il se défausse de son carré dans la pioche du paquet correspondant, et pioche aussi quatre nouvelles cartes de ce même paquet. Ainsi, si sa main était de quatre cartes "alimentation", elle contient maintenant cinq cartes : quatre nouvelles "alimentation" + une "culture".
+Il pioche une carte de valeur supérieure, se défausse de son carré dans la pioche du paquet correspondant et pioche quatre nouvelles cartes de ce même paquet. Ainsi, si sa main était un carré de quatre cartes "alimentation", elle contient maintenant cinq cartes : quatre nouvelles "alimentation" + une "culture".
 
-Avec le roulement des valeurs, les valeurs moyennes valent 2 basses, et les valeurs hautes valent 2 moyennes. Mais lorsqu'un joueur arrive à obtenir un carré de 4 valeurs hautes il crée une "rupture" technologique, la valeur en attente entre en jeu à ce moment là, et les valeurs basses sont retirées du jeu, c'est la valeur moyenne qui devient la nouvelle valeur basse et on passe ainsi au niveau technologique (ou économique) supérieur.
+Avec le roulement des valeurs, les valeurs moyennes valent 2 basses, et les valeurs hautes valent 2 moyennes. Lorsqu'un joueur arrive à obtenir un carré de 4 valeurs hautes il crée une "rupture technologique" (ou économique), la valeur en attente entre en jeu à ce moment là. C'est l'ancienne valeur moyenne qui devient la nouvelle valeur basse et on passe ainsi au niveau technologique (ou économique) supérieur. Les anciennes valeurs basses vont être retirées du jeu et deviennent la nouvelle valeur "en attente". On procède ainsi : chaque joueur remplace une carte de l'ancienne valeur basse par une carte de la nouvelle valeur basse.
+
+.. note:: L'interprétation que l'on peut faire des valeurs (qui ne sont que symboliques dans Ğeconomicus) n'est pas forcément matérielle, cela peut tout aussi bien représenter les capacités des joueurs. Par exemple dans l'économie Européenne de 1976 il était important de savoir écrire avec un stylo, dans celle de 2016 il est devenu important de savoir écrire avec le clavier d'un ordinateur connecté à l'internet.
 
 Règles monétaires
 -----------------
@@ -226,7 +214,7 @@ La partie se déroule en 10 tours chronométrés de cinq minutes maximum. On peu
 
 Mais attention, la mort rôde et les générations se succèdent...
 
-L'animateur classe les joueurs en dix classes d'âges réparties sur les dix tours. À chaque tour, le (ou les) joueur de la classe d'âge correspondante meurt et revient en jeu en tant que nouveau-né.
+L'animateur classe les joueurs en dix classes d'âges réparties sur les dix tours. À chaque tour le (ou les) joueur de la classe d'âge correspondante meurt et revient en jeu en tant que nouveau-né.
 
 .. note:: À 20 joueurs, 2 joueurs meurent par tour. À 15 joueurs, un ou deux joueurs meurent selon la répartition faîtes sur les dix tours. Seul l'animateur connaît à l'avance le nom du ou des défunts de chaque tour. L'ordre des décès est ainsi déterminé au début du jeu dans le tableur et doit être gardé secret par l'animateur.
 
@@ -241,12 +229,14 @@ Le score est enregistré dans la feuille du tableur prévue à cet effet. Dans c
 
 Le joueur est ensuite invité à reprendre le jeu comme un nouveau-né. Il remet toutes ses valeurs et billets dans la pioche puis il pioche 4 nouvelles cartes de la valeur la plus basse et reçoit les billets prévu pour les nouveaux arrivants, selon le système monétaire en cours.
 
+.. note:: Ğeconomicus s'intéresse à la production cumulée de chaque joueur en fonction du système monétaire. Complexifier les règles ne remplira donc pas forcément bien le but de ce jeu, qui n'est pas d'étudier une simulation économique sans but, mais de comparer précisément comment le code de la monnaie utilisée impacte un résultat. De nouvelles règles ajoutées ne feront donc que brouiller la causalité étudiée.
+
 Fin de la partie
 ----------------
 
 À la fin du dernier tour, tous les joueurs sont appelés un par un devant l'animateur. Celui-ci comptabilise les valeurs et billets que possèdent les joueurs et les ajoute dans la feuille du tableur.
 
-Le tableur affiche alors un histogramme complet, permettant de faire le bilan économique du système monétaire qui vient d'être joué.
+Le tableur affiche alors un histogramme complet, permettant de faire le bilan économique du système monétaire qui vient d'être joué. La comparaison des histogrammes de plusieurs systèmes monétaires joués permettra d'éveiller les joueurs au lien causal étudié.
 
 Compte rendu
 ------------
@@ -259,6 +249,8 @@ On devrait ainsi au minimum faire apparaître dans les graphiques pour chaque mo
 * La moyenne globale des valeurs produites.
 * L'écart type de production des valeurs en % de la moyenne.
 * La mise à l'échelle comparative des différents types de monnaies jouées.
+
+.. note:: Le banquier dans la "monnaie dette" est bien un joueur supplémentaire (généralement joué par l'animateur lui-même, mais pas forcément). S'il est intéressant de montrer aux joueurs un histogramme "sans le banquier" puis "avec le banquier", ce n'est toutefois qu'un procédé d'éveil anecdotique (quoique intéressant) et la comparaison inter-monnaie doit, elle, inclure tous les joueurs sinon elle sera incorrecte.
 
 Pour cela vous pouvez utiliser (ou améliorer) les tableurs au format LibreOffice de Ğeconomicus :
 
