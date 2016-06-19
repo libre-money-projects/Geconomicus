@@ -95,6 +95,14 @@ Choose colors in the CMS tab with the `PSOcoated_v3` icc profile selected.
 
 ## Translation
 
+### Update translation files
+
+Every time you modify RST files, you must update translation files
+
+```bash
+    (venv) $ ./update_translation.sh
+```
+
 ### Build in english (US)
 
 ```bash
@@ -103,18 +111,4 @@ Choose colors in the CMS tab with the `PSOcoated_v3` icc profile selected.
 
 To do after the standard french build. Does not generate cards/banknotes.
 
-### When rst files are modified...
 
-Re-generate pot files in `build/locale`
-
-```bash
-    (venv) $ cd rst
-    (venv) $ make gettext
-```
-
-Re-generate po files from pot files in `source/locale`
-
-```bash
-    (venv) $ cd rst
-    (venv) $ sphinx-intl update -p build/locale -d source/locale/ -l en_US
-```

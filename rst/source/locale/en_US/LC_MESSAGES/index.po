@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Geconomicus 2.01\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-06-12 10:36+0200\n"
+"POT-Creation-Date: 2016-06-19 11:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,8 +44,9 @@ msgstr ""
 
 #: ../../source/index.rst:18
 msgid ""
-"Le jeu se présente comme un site web comprenant les règles, les modèles "
-"de cartes et de billets à imprimer, des fichers tableurs permettant la "
+"Le jeu se présente comme un site web libre (à télécharger et installer "
+"sur son propre site) comprenant les règles, des modèles de cartes et de "
+"billets spécifiques à imprimer, des fichers tableurs permettant la "
 "réalisation de comptes rendus finaux ainsi que des liens vers des "
 "exemples de réalisations complètes (vidéos, sites internet...)."
 msgstr ""
@@ -55,11 +56,13 @@ msgid "Développement :"
 msgstr ""
 
 #: ../../source/index.rst:22
-msgid "`Dernière version <https://github.com/duniter/Geconomicus/releases>`_"
+msgid ""
+"`Dernière version <https://github.com/libre-money-"
+"projects/Geconomicus/releases>`_"
 msgstr ""
 
 #: ../../source/index.rst:23
-msgid "`Dépôt GitHub <https://github.com/duniter/Geconomicus>`_"
+msgid "`Dépôt GitHub <https://github.com/libre-money-projects/Geconomicus>`_"
 msgstr ""
 
 #: ../../source/index.rst:24
@@ -67,7 +70,7 @@ msgid "`Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`
 msgstr ""
 
 #: ../../source/index.rst:26
-msgid "Hébergement connus :"
+msgid "Hébergements connus :"
 msgstr ""
 
 #: ../../source/index.rst:28
@@ -104,7 +107,7 @@ msgstr ""
 
 #: ../../source/index.rst:37
 msgid ""
-"Jeu sous license libre* `GPL v3 "
+"Jeu sous license libre `GPL v3 "
 "<http://www.gnu.org/licenses/gpl-3.0.fr.html>`_"
 msgstr ""
 
@@ -113,8 +116,6 @@ msgid "Table des matières"
 msgstr ""
 
 #~ msgid ""
-#~ "`Dernière version "
-#~ "<https://github.com/galuel/Geconomicus/releases/latest>`_"
 #~ msgstr ""
 
 #~ msgid "`Dépôt GitHub <https://github.com/galuel/Geconomicus>`_"
@@ -133,7 +134,27 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "*Jeu sous license libre* `GPL v3 "
+#~ "Le jeu se présente comme un site"
+#~ " web comprenant les règles, les "
+#~ "modèles de cartes et de billets à"
+#~ " imprimer, des fichers tableurs permettant"
+#~ " la réalisation de comptes rendus "
+#~ "finaux ainsi que des liens vers "
+#~ "des exemples de réalisations complètes "
+#~ "(vidéos, sites internet...)."
+#~ msgstr ""
+
+#~ msgid "`Dernière version <https://github.com/duniter/Geconomicus/releases>`_"
+#~ msgstr ""
+
+#~ msgid "`Dépôt GitHub <https://github.com/duniter/Geconomicus>`_"
+#~ msgstr ""
+
+#~ msgid "Hébergement connus :"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Jeu sous license libre* `GPL v3 "
 #~ "<http://www.gnu.org/licenses/gpl-3.0.fr.html>`_"
 #~ msgstr ""
 
