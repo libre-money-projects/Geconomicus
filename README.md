@@ -18,7 +18,7 @@ Spread Ğeconomicus, download and install Ğeconomicus Website on your own serve
 
 #### XMPP Chat room
 
-XMPP chatroom to join Ğeconomicus developers online: ğeconomicus@muc.jappix.com
+XMPP chatroom to join Ğeconomicus developers online: geconomicus@muc.duniter.org
 
 You can study and install [Jabber/XMPP free clients softwares](http://xmpp.org/software/clients.html).
 

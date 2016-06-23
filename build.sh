@@ -18,4 +18,7 @@ mkdir -p ./build/html/_static/cards
 # generate help sheets from cards and money
 ./build_help_sheets.sh
 
+# generate logo and favicon
+./build_logo.sh
+
 cd ${current_dir};
