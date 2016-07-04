@@ -7,6 +7,12 @@
 Ğeconomicus
 ===========
 
+.. |html_last_version| raw:: html
+
+   <a href="https://github.com/libre-money-projects/Geconomicus/releases"><span id="Geconomicus_releases"></span></a>
+
+.. note:: Dernière version disponible : |html_last_version|
+
 Présentation
 ------------
 

@@ -1,6 +1,7 @@
 {% extends "!layout.html" %}
 {%- block extrahead %}
 <script type="text/javascript">
+getRelease("libre-money-projects","Geconomicus","Geconomicus_releases");
 function getRelease(user, repo, Id) {
    var xmlhttp = new XMLHttpRequest();
    xmlhttp.onreadystatechange = function() {

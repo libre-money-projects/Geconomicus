@@ -4,7 +4,7 @@ current_dir=$(pwd)
 cd rst/build;
 
 # zip the build html folder for release
-zip -r html_fr_FR.zip html
+zip -r geconomicus_fr_FR.zip html
 
 # english translation
 cd ${current_dir};
@@ -14,6 +14,6 @@ cd ${current_dir};
 cd rst/build;
 
 # zip the build html folder for release
-zip -r html_en_US.zip html
+zip -r geconomicus_en_US.zip html
 
 cd ${current_dir};
