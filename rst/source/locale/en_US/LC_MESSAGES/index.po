@@ -1,6 +1,6 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2016, vit, Ğaluel
-# This file is distributed under the same license as the Geconomicus
+# This file is distributed under the same license as the Ğeconomicus
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Geconomicus 2.01\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-06-19 11:31+0200\n"
+"POT-Creation-Date: 2016-07-05 10:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,11 +22,15 @@ msgstr ""
 msgid "Ğeconomicus"
 msgstr ""
 
-#: ../../source/index.rst:11
+#: ../../source/index.rst:14
+msgid "Dernière version disponible : |html_last_version|"
+msgstr ""
+
+#: ../../source/index.rst:17
 msgid "Présentation"
 msgstr "Overview"
 
-#: ../../source/index.rst:13
+#: ../../source/index.rst:19
 msgid ""
 "Ğeconomicus est un jeu de simulation économique permettant de découvrir "
 "l'influence de la création monétaire sur les échanges. Les joueurs y "
@@ -35,14 +39,14 @@ msgid ""
 " notamment par le cycle de vie des humains et des valeurs."
 msgstr ""
 
-#: ../../source/index.rst:15
+#: ../../source/index.rst:21
 msgid ""
 "L'intérêt du jeu est surtout de comparer différents types de monnaies, "
 "dont le concept de monnaie libre, tel que démontré dans `La Théorie "
 "Relative de la Monnaie <http://trm.creationmonetaire.info>`_."
 msgstr ""
 
-#: ../../source/index.rst:18
+#: ../../source/index.rst:24
 msgid ""
 "Le jeu se présente comme un site web libre (à télécharger et installer "
 "sur son propre site) comprenant les règles, des modèles de cartes et de "
@@ -51,67 +55,67 @@ msgid ""
 "exemples de réalisations complètes (vidéos, sites internet...)."
 msgstr ""
 
-#: ../../source/index.rst:20
+#: ../../source/index.rst:26
 msgid "Développement :"
 msgstr ""
 
-#: ../../source/index.rst:22
+#: ../../source/index.rst:28
 msgid ""
 "`Dernière version <https://github.com/libre-money-"
 "projects/Geconomicus/releases>`_"
 msgstr ""
 
-#: ../../source/index.rst:23
+#: ../../source/index.rst:29
 msgid "`Dépôt GitHub <https://github.com/libre-money-projects/Geconomicus>`_"
 msgstr ""
 
-#: ../../source/index.rst:24
+#: ../../source/index.rst:30
 msgid "`Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`_"
 msgstr ""
 
-#: ../../source/index.rst:26
+#: ../../source/index.rst:32
 msgid "Hébergements connus :"
 msgstr ""
 
-#: ../../source/index.rst:28
+#: ../../source/index.rst:34
 msgid "http://geconomicus.glibre.org"
 msgstr ""
 
-#: ../../source/index.rst:29
+#: ../../source/index.rst:35
 msgid "http://geconomicus.duniter.fr"
 msgstr ""
 
-#: ../../source/index.rst:30
+#: ../../source/index.rst:36
 msgid "http://www.reglesdejeux.com/geconomicus/"
 msgstr ""
 
-#: ../../source/index.rst:31
+#: ../../source/index.rst:37
 msgid "http://vtexier.github.io/Geconomicus"
 msgstr ""
 
-#: ../../source/index.rst:33
+#: ../../source/index.rst:39
 msgid "Comptes rendus déjà publiés :"
 msgstr ""
 
-#: ../../source/index.rst:35
+#: ../../source/index.rst:41
 msgid ""
 "`Vidéos de compte-rendu sur YouTube "
 "<https://youtu.be/R4SIO2VuC2A?list=PL0UDqLtXevvHY5rAyFtql5931VqYyRaoK>`_"
 msgstr ""
 
-#: ../../source/index.rst:36
+#: ../../source/index.rst:42
 msgid ""
 "`Festival de la monnaie à Bordeaux "
 "<http://www.festivaldelamonnaie.org/index.php/jeu-geconomicus/>`_"
 msgstr ""
 
-#: ../../source/index.rst:37
+#: ../../source/index.rst:43
 msgid ""
 "Jeu sous license libre `GPL v3 "
 "<http://www.gnu.org/licenses/gpl-3.0.fr.html>`_"
 msgstr ""
 
-#: ../../source/index.rst:41
+#: ../../source/index.rst:47
 msgid "Table des matières"
 msgstr ""
 
@@ -133,17 +137,6 @@ msgstr ""
 #~ msgid "Réalisations :"
 #~ msgstr ""
 
-#~ msgid ""
-#~ "Le jeu se présente comme un site"
-#~ " web comprenant les règles, les "
-#~ "modèles de cartes et de billets à"
-#~ " imprimer, des fichers tableurs permettant"
-#~ " la réalisation de comptes rendus "
-#~ "finaux ainsi que des liens vers "
-#~ "des exemples de réalisations complètes "
-#~ "(vidéos, sites internet...)."
-#~ msgstr ""
-
 #~ msgid "`Dernière version <https://github.com/duniter/Geconomicus/releases>`_"
 #~ msgstr ""
 
@@ -151,10 +144,5 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Hébergement connus :"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Jeu sous license libre* `GPL v3 "
-#~ "<http://www.gnu.org/licenses/gpl-3.0.fr.html>`_"
 #~ msgstr ""
 
