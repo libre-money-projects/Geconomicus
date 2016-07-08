@@ -44,7 +44,7 @@ Il faut par contre procéder à une comptabilité nette pour le banquier car, lo
 
 .. note:: Par exemple le banquier a crédité un joueur de 3 unités, dont l'intérêt au bout d'un tour sera de 1 unité. A la fin du tour, le joueur peut payer 4 unités, dont 3 de principal, et 1 d'intérêt. Le banquier remet donc à zéro le crédit alloué au joueur qui n'est plus endetté et bénéficie de +1 unité sur son propre compte, il ne garde donc qu'un seul billet pour lui. Autre solution : le joueur ne paye qu'une unité lors du tour, que le banquier garde, et reste crédité du principal, il devra donc payer encore l'intérêt au tour suivant et ceci pour tout le temps où il n'aura pas remboursé le principal.
 
-Concernant les remboursements en nature une valeur économique vaudra moins que l'équivalent des unités monétaires qu'elle représente (ce qui correspond aux frais.
+Concernant les remboursements en nature une valeur économique vaudra moins que l'équivalent des unités monétaires qu'elle représente (ce qui correspond aux frais).
 
 .. note:: Rappel : Une carte de valeur supérieure vaut 2 fois la valeur d'une carte de niveau inférieur. Si donc un joueur ne peut payer en monnaie son crédit de 3 unités + 1 unité d'intérêt à la fin du tour, le banquier pourra prendre au moins 2 cartes de valeur moyenne (qui valent donc 2 x 2 = 4 unités), plus des frais comme par exemple 1 ou 2 cartes de valeur basse. Il n'y a pas de règles précises ici, car les frais peuvent être très variables et c'est le banquier qui décide.
 

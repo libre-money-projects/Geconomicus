@@ -156,7 +156,7 @@ Dès qu'un joueur a constitué un carré de la plus haute valeur (case de droite
 Marqueurs de billets
 --------------------
 
-Les marqueurs de billets permettent aux joueurs de savoir, à chaque tour, quel est le billet le plus haut et l'ordre des billets. Avant chaque tour, on décale les marqueurs d'une case vers la gauche, en suivant le sens des flêches. Le marqueur de la case du bas ("en attente") est déplacé dans la case de droite, et le marqueur de la case de gauvche rejoint la case du bas.
+Les marqueurs de billets permettent aux joueurs de savoir, à chaque tour, quel est le billet le plus haut et l'ordre des billets. Avant chaque tour, on décale les marqueurs d'une case vers la gauche, en suivant le sens des flêches. Le marqueur de la case du bas ("en attente") est déplacé dans la case de droite, et le marqueur de la case de gauche rejoint la case du bas.
 
 Pour imprimer les marqueurs de billets, il faut imprimer une planche supplémentaire de billets ou utiliser les billets du chapitre `Billets de la monnaie`_.
 
