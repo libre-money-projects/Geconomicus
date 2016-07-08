@@ -4,23 +4,26 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Geconomicus 2.01\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-06-12 10:36+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-07-08 10:11+0000\n"
+"Last-Translator: Vincent Texier <vit@free.fr>\n"
+"Language-Team: English (United States) "
+"<https://weblate.duniter.org/projects/geconomicus/other_money/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 "Generated-By: Babel 2.2.0\n"
 
 #: ../../source/other_money.rst:2
 msgid "Autres monnaies"
-msgstr ""
+msgstr "Other moneys"
 
 #: ../../source/other_money.rst:4
 msgid ""
@@ -28,6 +31,9 @@ msgid ""
 " le système de création monétaire que vous désirez. Testez le, analysez "
 "le, confrontez les résultats obtenus avec les autres types de monnaies."
 msgstr ""
+"Ğeconomicus invite you to design the monetary issuance system you want with "
+"the cards and banknotes of the game. Test it, analyze it, compare results "
+"with the other kind of money."
 
 #: ../../source/other_money.rst:6
 msgid ""
@@ -37,6 +43,10 @@ msgid ""
 "redistribuer selon des modalités choisies, ou encore simuler de la "
 "création monétaire \"démocratiquement décidée\" etc."
 msgstr ""
+"We can simulate the barter economy (no money), the \"mutual credit\" used in "
+"some LETS (Local Exchange Trading Systems), or a fixed monetary system "
+"associated with a tax on players, or simulate a \"democratically decided\" "
+"money issuance system, etc."
 
 #~ msgid "Ğeconomicus est ouvert à d'autres systèmes de création monétaire."
 #~ msgstr ""
@@ -55,4 +65,3 @@ msgstr ""
 #~ " et confrontez les résultats obtenus "
 #~ "avec d'autres types de monnaies."
 #~ msgstr ""
-

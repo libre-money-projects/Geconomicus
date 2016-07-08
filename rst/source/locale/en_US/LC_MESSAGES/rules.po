@@ -4,53 +4,58 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Geconomicus 2.01\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-08 12:44+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2016-06-19 11:31+0200\n"
+"PO-Revision-Date: 2016-07-06 17:57+0000\n"
+"Last-Translator: Vincent Texier <vit@free.fr>\n"
+"Language-Team: English (United States) "
+"<https://weblate.duniter.org/projects/geconomicus/rules/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 "Generated-By: Babel 2.2.0\n"
 
 #: ../../source/rules.rst:3
 msgid "Règles du jeu"
-msgstr ""
+msgstr "Rules of the game"
 
 #: ../../source/rules.rst:5
 msgid ""
 "Les règles données ici sont pour dix joueurs. Pour plus de joueurs, il "
 "faut plus de matériel (voir les chapitres concernés)."
 msgstr ""
+"Rules given here are for ten players. For more players, more material is "
+"needed (see involved chapters)."
 
 #: ../../source/rules.rst:8
 msgid "Nombre de joueurs"
-msgstr ""
+msgstr "Number of players"
 
 #: ../../source/rules.rst:10
 msgid "10 joueurs ou plus."
-msgstr ""
+msgstr "10 players or more."
 
 #: ../../source/rules.rst:11
 msgid "+1 animateur"
-msgstr ""
+msgstr "+1 organizer"
 
 #: ../../source/rules.rst:12
 msgid "+1 banquier (pour la monnaie dette)"
-msgstr ""
+msgstr "+1 banker (for debt money)"
 
 #: ../../source/rules.rst:16
 msgid "Durée"
-msgstr ""
+msgstr "Duration"
 
 #: ../../source/rules.rst:18
 msgid "1h30"
-msgstr ""
+msgstr "1h30"
 
 #: ../../source/rules.rst:20
 msgid ""
@@ -62,86 +67,96 @@ msgid ""
 "vaut mieux réaliser le jeu sur une journée, avec une monnaie le matin, "
 "l'autre monnaie l'après-midi suivie de l'exposé des résultats."
 msgstr ""
+"Approximated time for a complete game of 10 turns with one kind of money. As "
+"it is recommended to play at least two kind of money (here debt money and "
+"libre money are described) to compare each, reserve at least 3h00 for a "
+"complete game + necessary time to expose reports given by the spreadsheet "
+"files. By experience, it is better to play all in one day, with one money "
+"the morning and the other in the afternoon, ending with the reports."
 
 #: ../../source/rules.rst:24
 msgid "Matériel"
-msgstr ""
+msgstr "Material"
 
 #: ../../source/rules.rst:26
 msgid ""
 "4 paquets de 54 cartes (52 cartes valeurs + 1 carte marqueur + 1 carte "
 "notice) pour 4 niveaux :"
 msgstr ""
+"4 deck of 54 cards (52 value cards + 1 marker card + 1 notice card) for 4 "
+"levels:"
 
 #: ../../source/rules.rst:28
 msgid "1 paquet de valeurs basses."
-msgstr ""
+msgstr "1 deck of low values."
 
 #: ../../source/rules.rst:29
 msgid "1 paquet de valeurs moyennes."
-msgstr ""
+msgstr "1 deck of medium values."
 
 #: ../../source/rules.rst:30
 msgid "1 paquet de valeurs hautes."
-msgstr ""
+msgstr "1 deck of high values."
 
 #: ../../source/rules.rst:31
 msgid "1 paquet de valeurs en attente."
-msgstr ""
+msgstr "1 deck of pending values."
 
 #: ../../source/rules.rst:35
 msgid "4 paquets de 20 billets"
-msgstr ""
+msgstr "4 deck of 20 banknotes"
 
 #: ../../source/rules.rst:37
 msgid "20 billets rouges"
-msgstr ""
+msgstr "20 red banknotes"
 
 #: ../../source/rules.rst:38
 msgid "20 billets jaunes"
-msgstr ""
+msgstr "20 yellow banknotes"
 
 #: ../../source/rules.rst:39
 msgid "20 billets verts"
-msgstr ""
+msgstr "20 green banknotes"
 
 #: ../../source/rules.rst:40
 msgid "20 billets bleus"
-msgstr ""
+msgstr "20 blue banknotes"
 
 #: ../../source/rules.rst:44
 msgid ""
 "4 billets marqueurs (qui permettent de noter le billet de valeur basse en"
 " cours)"
-msgstr ""
+msgstr "4 marker banknotes (to display the lowest color in play)"
 
 #: ../../source/rules.rst:48
 msgid "Feuille d'aide pour le cycle des valeurs"
-msgstr ""
+msgstr "Help sheet for the values cycle"
 
 #: ../../source/rules.rst:49
 msgid "Feuille d'aide pour le cycle des billets"
-msgstr ""
+msgstr "Help sheet for the banknotes cycle"
 
 #: ../../source/rules.rst:50
 msgid "1 chronomètre"
-msgstr ""
+msgstr "1 timer"
 
 #: ../../source/rules.rst:51
 msgid ""
 "1 tableur LibreOffice permettant la saisie et le calcul rapide de la "
 "comptabilité."
-msgstr ""
+msgstr "1 LibreOffice spreadsheet to record and calculate the reports."
 
 #: ../../source/rules.rst:53
 msgid ""
 "Pour N joueurs, prévoir au moins 5*N en cartes (= au moins 5/4*N carrés) "
 "par niveau. Prévoir au moins 2*N pour chaque couleur de billet."
 msgstr ""
+"For N players, plan at least 5*N in cards (= at least 5/4*N four cards combo)"
+" per level. Plan at least 2*N for each banknotes color."
 
 #: ../../source/rules.rst:57
 msgid "Cartes valeurs"
-msgstr ""
+msgstr "Value cards"
 
 #: ../../source/rules.rst:59
 msgid ""
@@ -151,88 +166,99 @@ msgid ""
 "séries de 4 cartes identiques, soit au moins 52 cartes formant ainsi 13 "
 "carrés."
 msgstr ""
+"Value cards simulate exchangeable economical values, they are made of 4 "
+"decks of different cards easily distinguishable, impersonating one level "
+"each. Each deck contains 13 series of four identical cards, so at least 52 "
+"cards with 13 \"four in a row\"."
 
 #: ../../source/rules.rst:66
 msgid "Style \"classique\""
-msgstr ""
+msgstr "\"Classic\" style"
 
 #: ../../source/rules.rst:68
 msgid ""
 "Les quatre niveaux de valeurs sont les regroupements des couleurs "
 "standards de chacun des 4 paquets de cartes."
 msgstr ""
+"The four value levels are the grouped standard signs of each of the card "
+"decks."
 
 #: ../../source/rules.rst:70
 msgid "Les coeurs."
-msgstr ""
+msgstr "The hearts."
 
 #: ../../source/rules.rst:71
 msgid "Les piques."
-msgstr ""
+msgstr "The spades."
 
 #: ../../source/rules.rst:72
 msgid "les carreaux."
-msgstr ""
+msgstr "The diamonds."
 
 #: ../../source/rules.rst:73
 msgid "les trèfles."
-msgstr ""
+msgstr "The clubs."
 
 #: ../../source/rules.rst:75
 msgid ""
 "On réalise ainsi des carrés avec 4 cartes identiques de même couleur "
 "comme 4 cinq de coeur ou 4 valets de coeur."
 msgstr ""
+"We achieve series of four identical cards of the same signs as 4 five of "
+"hearts or 4 jacks of hearts."
 
 #: ../../source/rules.rst:78
 msgid "Style \"révolution\""
-msgstr ""
+msgstr "\"Revolution\" style"
 
 #: ../../source/rules.rst:80
 msgid "Le style \"révolution\" évoque la révolution industrielle du 19ème siècle."
 msgstr ""
+"\"Revolution\" style reflect the industrial revolution in the 19th century."
 
 #: ../../source/rules.rst:82
 msgid "Les quatre niveaux de valeurs sont des gravures évoquant dans l'ordre :"
-msgstr ""
+msgstr "The four levels of values are drawings expressing in order:"
 
 #: ../../source/rules.rst:84
 msgid ""
 "L'alimentation : représente les valeurs qui concernent les ressources "
 "alimentaires."
-msgstr ""
+msgstr "Food: depict values about food resources."
 
 #: ../../source/rules.rst:85
 msgid "La culture : représente les valeurs culturelles."
-msgstr ""
+msgstr "Culture: depict cultural values."
 
 #: ../../source/rules.rst:86
 msgid ""
 "L'énergie : représente les valeurs qui concernent les ressources "
 "énergétiques."
-msgstr ""
+msgstr "Energy: depict values about energy resources."
 
 #: ../../source/rules.rst:87
 msgid "La technologie : représente les valeurs technologiques."
-msgstr ""
+msgstr "Technology: depict technological values."
 
 #: ../../source/rules.rst:92
 msgid "*Dos des cartes avec les quatre niveaux*"
-msgstr ""
+msgstr "*Back of cards with the four levels*"
 
 #: ../../source/rules.rst:94
 msgid ""
 "Les valeurs sont représentées par des lettres de **A** à **M**. Cela "
 "permet de faciliter les échanges."
 msgstr ""
+"Values are depicted by letters from **A** to **M**. This is to ease the "
+"exchanges."
 
 #: ../../source/rules.rst:99
 msgid "*13 lettres valeurs par niveau*"
-msgstr ""
+msgstr "*13 value letters by level*"
 
 #: ../../source/rules.rst:102
 msgid "Billets de la monnaie"
-msgstr ""
+msgstr "Banknotes of the money"
 
 #: ../../source/rules.rst:104
 msgid ""
@@ -240,26 +266,28 @@ msgid ""
 "constituée de 60 billets colorés et il y a donc une couleur contituée de "
 "20 billets en attente."
 msgstr ""
+"We need 4 colors of 20 banknotes each. Money in play is made of 60 colored "
+"banknotes and so there is one color of 20 banknotes pending."
 
 #: ../../source/rules.rst:110
 msgid "*Billet rouge*"
-msgstr ""
+msgstr "*Red banknote*"
 
 #: ../../source/rules.rst:116
 msgid "*Billet jaune*"
-msgstr ""
+msgstr "*Yellow banknote*"
 
 #: ../../source/rules.rst:122
 msgid "*Billet vert*"
-msgstr ""
+msgstr "*Green banknote*"
 
 #: ../../source/rules.rst:128
 msgid "*Billet bleu*"
-msgstr ""
+msgstr "*Blue banknote*"
 
 #: ../../source/rules.rst:131
 msgid "Feuilles d'aide"
-msgstr ""
+msgstr "Help sheets"
 
 #: ../../source/rules.rst:133
 msgid ""
@@ -268,24 +296,30 @@ msgid ""
 " disposera les 4 marqueurs de valeurs dans les cases, sur la seconde "
 "feuille on dispose les 4 marqueurs de billets dans les cases."
 msgstr ""
+"Those sheets show three squares aligned above a central square. We need two "
+"help sheets. On the first one, we will put the 4 value markers in the "
+"squares, on the second one we will put the 4 banknotes markers in the "
+"squares."
 
 #: ../../source/rules.rst:139
 msgid "*Feuille d'aide à imprimer*"
-msgstr ""
+msgstr "*Help sheet to print*"
 
 #: ../../source/rules.rst:142
 msgid "Marqueurs de valeurs"
-msgstr ""
+msgstr "Value markers"
 
 #: ../../source/rules.rst:144
 msgid ""
 "Les marqueurs de valeurs permettent aux joueurs de savoir, à chaque tour,"
 " quelle est la valeur la plus haute et l'ordre des valeurs."
 msgstr ""
+"Value markers allow players to know, each turn, which value is the highest "
+"and the order of values."
 
 #: ../../source/rules.rst:146
 msgid "La valeur en jeu la plus haute est dans la case de droite."
-msgstr ""
+msgstr "The highest value in play is in the square at the right."
 
 #: ../../source/rules.rst:148
 msgid ""
@@ -301,14 +335,23 @@ msgid ""
 " cartes de valeur basse par joueur, qui constituent la base des "
 "échanges)."
 msgstr ""
+"As soon as a player has achieve a suit of four identical letters of the "
+"highest value (square at the right), he receives the \"pending\" color. We "
+"shift the values one square left, following the arrows. The marker in the "
+"central square (\"pending\") is moved in the square at the right, and the "
+"marker in the square at the left is moved in the \"pending\" square. All the "
+"lowest cards in play goes \"pending\" and are discarded by the players, put "
+"in the corresponding pile and replaced one by one by the new lowest value ("
+"we must ensure that there is a leverage of 4 cards of lowest value by "
+"player, which is the minimum to exchange properly)."
 
 #: ../../source/rules.rst:154
 msgid "*Marqueurs de valeurs*"
-msgstr ""
+msgstr "*Value markers*"
 
 #: ../../source/rules.rst:157
 msgid "Marqueurs de billets"
-msgstr ""
+msgstr "Banknote markers"
 
 #: ../../source/rules.rst:159
 msgid ""
@@ -319,6 +362,11 @@ msgid ""
 "déplacé dans la case de droite, et le marqueur de la case de gauche "
 "rejoint la case du bas."
 msgstr ""
+"Banknote markers show players, each turn, which banknote is the highest and "
+"the order of banknotes. Before each turn, we shift markers one square to the "
+"left, following the arrows. Marker in the central square (\"pending\") is "
+"moved in the square at the right, and the marker in the left square goes in "
+"the central square."
 
 #: ../../source/rules.rst:161
 msgid ""
@@ -326,10 +374,12 @@ msgid ""
 "supplémentaire de billets ou utiliser les billets du chapitre `Billets de"
 " la monnaie`_."
 msgstr ""
+"To print banknote markers, you need to print an additional banknote sheet or "
+"use banknotes illustrating the chapter `Banknotes of the money`_."
 
 #: ../../source/rules.rst:164
 msgid "Mise en place"
-msgstr ""
+msgstr "Setup"
 
 #: ../../source/rules.rst:166
 msgid ""
@@ -339,10 +389,14 @@ msgid ""
 "l'alimentation, la culture, l'énergie et la valeur \"en attente\" : la "
 "technologie."
 msgstr ""
+"On a table accessible to all players, the organizer set the two help sheets "
+"and there markers. On the first sheet, he puts the value markers in the "
+"square and from left to right: food, culture, energy and the \"pending\" "
+"value: technology."
 
 #: ../../source/rules.rst:172
 msgid "*Feuille d'aide des valeurs*"
-msgstr ""
+msgstr "*Values help sheet*"
 
 #: ../../source/rules.rst:174
 msgid ""
@@ -350,10 +404,12 @@ msgid ""
 "cases. De gauche à droite : le rouge, le jaune, le vert et le billet \"en"
 " attente\" : le bleu."
 msgstr ""
+"On the second sheet, he puts the 4 banknote markers in the square. From left "
+"to right: red, yellow, green and the \"pending\" banknote: the blue."
 
 #: ../../source/rules.rst:180
 msgid "*Feuille d'aide de la monnaie*"
-msgstr ""
+msgstr "*Money help sheet*"
 
 #: ../../source/rules.rst:183
 msgid ""
@@ -364,10 +420,15 @@ msgid ""
 "aussi deux pioches étalées sur la table avec les deux autres paquets de "
 "valeur en jeu (culture et énergie)."
 msgstr ""
+"He shuffles the card deck of the lowest value (food) and spreads the cards "
+"face-down on the table. He asks players to take 4 cards each randomly. Those "
+"cards depict economical starting values possessed by players. He also "
+"prepares two piles spread on the table with the other two deck of values in "
+"play (culture and energy)."
 
 #: ../../source/rules.rst:186
 msgid "But du jeu"
-msgstr ""
+msgstr "Goal of the game"
 
 #: ../../source/rules.rst:188
 msgid ""
@@ -377,6 +438,10 @@ msgid ""
 "chaque \"carré\" obtenu, le joueur gagne une carte du paquet de la valeur"
 " supérieure (voir la feuille d'aide des valeurs)."
 msgstr ""
+"The goal of the game is to create as much economical values as possible. In "
+"order to do that, each player, must buy and sell cards of the same deck, to "
+"get a suit of four identical cards. For each suit achieved, the player get a "
+"card from the superior value (see the value help sheet)."
 
 #: ../../source/rules.rst:190
 msgid ""
@@ -386,6 +451,10 @@ msgid ""
 "\"alimentation\", elle contient maintenant cinq cartes : quatre nouvelles"
 " \"alimentation\" + une \"culture\"."
 msgstr ""
+"He take a card of the superior value, discard his suit of four in the pile "
+"of the corresponding deck and pick four new cards of the same deck. Doing "
+"so, if his hand was a four of \"food\" cards, it contains now five cards : "
+"four new \"food\" + one \"culture\"."
 
 #: ../../source/rules.rst:192
 msgid ""
@@ -400,6 +469,14 @@ msgid ""
 " une carte de l'ancienne valeur basse par une carte de la nouvelle valeur"
 " basse."
 msgstr ""
+"With the rolling cycle of the values, medium values equals to 2 low values "
+"and high values equals 2 medium ones. When a player achieves to get a four "
+"of high values he creates a \"technological breakdown\" (or economical), the "
+"pending value comes into play immediately at this time. It's the old medium "
+"value which become the new low value and we shift to the new technological ("
+"or economical) level. The old low values will be withdraw from the game and "
+"becomes the new \"pending\" value. We do like this: each player replace one "
+"old low card by a card of the new low value."
 
 #: ../../source/rules.rst:194
 msgid ""
@@ -410,16 +487,23 @@ msgid ""
 " stylo, dans celle de 2016 il est devenu important de savoir écrire avec "
 "le clavier d'un ordinateur connecté à l'internet."
 msgstr ""
+"The interpretation we can do on values (there are only symbolic in "
+"Ğeconomicus) is not essentially physical, it can be as well the capacities "
+"of each player. For example, in the Europe of 1976 it was important to know "
+"how to write with a pencil, but in the Europe of 2016 it is now important to "
+"know how to write with a keyboard on a computer connected to the Internet."
 
 #: ../../source/rules.rst:197
 msgid "Règles monétaires"
-msgstr ""
+msgstr "Monetary rules"
 
 #: ../../source/rules.rst:199
 msgid ""
 "L'animateur doit maintenant expliquer aux joueurs les règles qui "
 "régissent la monnaie qui est jouée."
 msgstr ""
+"The organizer must now explain to the players the rules of the money being "
+"played."
 
 #: ../../source/rules.rst:208
 msgid ""
@@ -428,10 +512,14 @@ msgid ""
 "rapidement et ne tient pas 80 ans... Toutefois c'est à vous de le tester "
 "et de le comparer avec les autres types de monnaies !"
 msgstr ""
+"It is possible to play barter economy, without money, exchanging a card "
+"against another, but experience shows that this system will be stuck quickly "
+"and does not hold 80 years... However it's up to you to test it and to "
+"compare with the other money systems !"
 
 #: ../../source/rules.rst:211
 msgid "Déroulement de la partie"
-msgstr ""
+msgstr "Progress of the game"
 
 #: ../../source/rules.rst:213
 msgid ""
@@ -440,10 +528,14 @@ msgid ""
 "représente 8 ans. À la fin d'une partie, chaque joueur aura donc vécu 80 "
 "ans de jeu, ce qui est l'espérance de vie moyenne en Europe."
 msgstr ""
+"The game is a sequence of 10 timed turns of five minutes each. We can reduce "
+"to three minutes if we need to accelerate the game. Each turn depicts 8 "
+"years. At the end of a game, each player has been living 80 years of play, "
+"which is the average lifespan in Europe."
 
 #: ../../source/rules.rst:215
 msgid "Mais attention, la mort rôde et les générations se succèdent..."
-msgstr ""
+msgstr "But beware, death is prowling and generations follows generations..."
 
 #: ../../source/rules.rst:217
 msgid ""
@@ -451,6 +543,9 @@ msgid ""
 "dix tours. À chaque tour le (ou les) joueur de la classe d'âge "
 "correspondante meurt et revient en jeu en tant que nouveau-né."
 msgstr ""
+"The organizer split players in ten classes of age spread among the ten "
+"turns. At each turn the one or more player of the age class die and come "
+"back in the game as a new born child."
 
 #: ../../source/rules.rst:219
 msgid ""
@@ -460,6 +555,11 @@ msgid ""
 "L'ordre des décès est ainsi déterminé au début du jeu dans le tableur et "
 "doit être gardé secret par l'animateur."
 msgstr ""
+"With 20 players, 2 players die each turn. With 15 players, one or two "
+"players die depending on the split done on the ten turns. Only the organizer "
+"knows in advance the name of the dead ones of each turn. The order of the "
+"death is determined at the beginning of the game in the spreadsheet software "
+"and is secret."
 
 #: ../../source/rules.rst:221
 msgid ""
@@ -470,10 +570,15 @@ msgid ""
 " carré avant la fin du chronomètre peuvent l'échanger et gagner ainsi une"
 " carte de valeur supérieure."
 msgstr ""
+"Each turn, the organizer announce the beginning of the turn and start the "
+"timer. Players can sell and buy value cards with banknotes of the current "
+"money system. At the end of the turn, exchanges must stop immediately. Yet, "
+"people with a suit of four before the end of the timer can exchange it and "
+"get a superior value card."
 
 #: ../../source/rules.rst:224
 msgid "Fin du tour"
-msgstr ""
+msgstr "End of the turn"
 
 #: ../../source/rules.rst:226
 msgid ""
@@ -481,6 +586,9 @@ msgid ""
 "par la mort. Celui-ci ou ceux-ci s'isolent avec l'animateur, afin que ce "
 "dernier comptabilise les valeurs et les billets en possession du joueur."
 msgstr ""
+"At the end of each turn, the organizer calls the players taken by the death. "
+"This one or those ones go to see the organizer in private, in order for him "
+"to record values and banknotes possessed by the player."
 
 #: ../../source/rules.rst:228
 msgid ""
@@ -490,6 +598,10 @@ msgid ""
 "tient lieu de multiplicateur (selon le niveau de valeur atteint, il vaut "
 "ainsi 1, 2, 4, 8 ...)."
 msgstr ""
+"The score is recorded in the spreadsheet software dedicated to it. In this "
+"spreadsheet, we keep track on each turn of the \"TECH\" column allowing to "
+"know which level of low value we are in and which is a multiplicative factor "
+"(depending on the level, it is evaluate to 1, 2, 4, 8 ...)."
 
 #: ../../source/rules.rst:230
 msgid ""
@@ -498,6 +610,10 @@ msgid ""
 "nouvelles cartes de la valeur la plus basse et reçoit les billets prévu "
 "pour les nouveaux arrivants, selon le système monétaire en cours."
 msgstr ""
+"Player is invited to get back in the game as a new born. He gives all the "
+"value cards in the piles, then takes 4 new cards of the low value and "
+"receives banknotes as it is defined for the new born in the current money "
+"system."
 
 #: ../../source/rules.rst:232
 msgid ""
@@ -508,10 +624,15 @@ msgid ""
 "code de la monnaie utilisée impacte un résultat. De nouvelles règles "
 "ajoutées ne feront donc que brouiller la causalité étudiée."
 msgstr ""
+"Ğeconomicus focus on the cumulated production of each player depending on "
+"the money system. Add complex rules to the game will not achieve the goal of "
+"this game, which is not to study a economical simulation without purpose, "
+"but to compare precisely how the code of the money used will influence the "
+"result. Some new rules added will only confuse the cause we are studying."
 
 #: ../../source/rules.rst:235
 msgid "Fin de la partie"
-msgstr ""
+msgstr "End of the game"
 
 #: ../../source/rules.rst:237
 msgid ""
@@ -519,6 +640,9 @@ msgid ""
 "l'animateur. Celui-ci comptabilise les valeurs et billets que possèdent "
 "les joueurs et les ajoute dans la feuille du tableur."
 msgstr ""
+"At the end of the last turn, all players are called one by one by the "
+"organizer. He records the values and banknotes possessed by players and add "
+"it in the spreadsheet software."
 
 #: ../../source/rules.rst:239
 msgid ""
@@ -527,10 +651,14 @@ msgid ""
 "comparaison des histogrammes de plusieurs systèmes monétaires joués "
 "permettra d'éveiller les joueurs au lien causal étudié."
 msgstr ""
+"The spreadsheet display then a complete histogram, allowing to make an "
+"assessment on the monetary system just been played. The comparison of "
+"histograms among the few monetary systems played will awake players to the "
+"causality we are studying."
 
 #: ../../source/rules.rst:242
 msgid "Compte rendu"
-msgstr ""
+msgstr "Report"
 
 #: ../../source/rules.rst:244
 msgid ""
@@ -541,31 +669,38 @@ msgid ""
 "le jeu par le banquier d'une part, et par celui qui fait la comptabilité "
 "des sortants / nouveaux entrants à chaque tour d'autre part."
 msgstr ""
+"A game of Ğeconomicus is complete only if the organizer publish a detailed "
+"report (post on a blog or social network, video, slide-show, on his own "
+"website or another place), with the help of the spreadsheet software and "
+"generated graphics fed directly during the game by the banker on one side, "
+"and by the organizer on the other side."
 
 #: ../../source/rules.rst:246
 msgid ""
 "On devrait ainsi au minimum faire apparaître dans les graphiques pour "
 "chaque monnaie jouée :"
-msgstr ""
+msgstr "One should display at least in graphics for each money played:"
 
 #: ../../source/rules.rst:248
 msgid ""
 "Le nombre total de valeurs produites par joueur (banquier inclus pour la "
 "« monnaie dette »)."
 msgstr ""
+"The total number of values created by the players (banker included in \"debt "
+"money\")."
 
 #: ../../source/rules.rst:249
 msgid "La moyenne globale des valeurs produites."
-msgstr ""
+msgstr "The global average of the produced values."
 
 #: ../../source/rules.rst:250
 #, python-format
 msgid "L'écart type de production des valeurs en % de la moyenne."
-msgstr ""
+msgstr "Standard deviation of value production in % of the average."
 
 #: ../../source/rules.rst:251
 msgid "La mise à l'échelle comparative des différents types de monnaies jouées."
-msgstr ""
+msgstr "Comparative uniform scale of all the money played."
 
 #: ../../source/rules.rst:253
 msgid ""
@@ -576,24 +711,35 @@ msgid ""
 "d'éveil anecdotique (quoique intéressant) et la comparaison inter-monnaie"
 " doit, elle, inclure tous les joueurs sinon elle sera incorrecte."
 msgstr ""
+"The banker in the \"debt money\" is really another player (played by an "
+"organizer, but not always). It can be interesting to show a histogram \""
+"without the banker\" then \"with the banker\", it is just a way to awake "
+"people (rather interesting) but comparison among moneys must include all "
+"players or it will not be correct."
 
 #: ../../source/rules.rst:255
 msgid ""
 "Pour cela vous pouvez utiliser (ou améliorer) les tableurs au format "
 "LibreOffice de Ğeconomicus :"
 msgstr ""
+"For this you can use (or improve) the LibreOffice spreadsheet files of "
+"Ğeconomicus:"
 
 #: ../../source/rules.rst:257
 msgid ""
 "`Cliquer ici pour télécharger le tableur LibreOffice du compte-rendu "
 "<./_static/spreadsheets/geconomicus_money.ods>`_"
 msgstr ""
+"`Click here to download the LibreOffice spreadsheet file of the report "
+"<./_static/spreadsheets/geconomicus_money.ods>`_"
 
 #: ../../source/rules.rst:258
 msgid ""
 "`Cliquer ici pour télécharger le tableur LibreOffice du banquier "
 "<./_static/spreadsheets/geconomicus_bank.ods>`_"
 msgstr ""
+"`Click here to download the LibreOffice spreadsheet file of the banker "
+"<./_static/spreadsheets/geconomicus_bank.ods>`_"
 
 #~ msgid "4 billets marqueurs"
 #~ msgstr ""
@@ -605,6 +751,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
+#~ "_: \n"
+#~ ""
 #~ msgstr ""
 
 #~ msgid "De gauche à droite : l'alimentation, la culture, l'énergie."
@@ -657,4 +805,3 @@ msgstr ""
 #~ "la case de gauvche rejoint la case"
 #~ " du bas."
 #~ msgstr ""
-

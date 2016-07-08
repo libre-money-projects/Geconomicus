@@ -4,15 +4,15 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Geconomicus 2.01\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-08 12:44+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2016-07-08 13:11+0200\n"
+"PO-Revision-Date: 2016-07-07 09:40+0000\n"
+"Last-Translator: Vincent Texier <vit@free.fr>\n"
+"Language-Team: English (United States) "
+"<https://weblate.duniter.org/projects/geconomicus/debt_money/en_US/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/debt_money.rst:2
 msgid "Monnaie dette"
-msgstr ""
+msgstr "Debt money"
 
 #: ../../source/debt_money.rst:4
 msgid ""
@@ -28,6 +28,9 @@ msgid ""
 "adopté partout dans le monde. Dans ce système, la monnaie est créée par "
 "les banques commerciales lorsqu'elles émettent un crédit."
 msgstr ""
+"Debt money, or \"fractional reserve system\", is the system used "
+"everywhere in the world. In this system, money is created by commercial "
+"banks when they issue a credit."
 
 #: ../../source/debt_money.rst:6
 msgid ""
@@ -36,24 +39,33 @@ msgid ""
 "une comptabilité précise afin qu'il puisse être finalement intégré dans "
 "les comptes rendus chiffrés."
 msgstr ""
+"When debt money is used in the game, a player take the role of the "
+"banker. This player is part of the game, so a precise accounting needs to"
+" be done to include him in the final reports."
 
 #: ../../source/debt_money.rst:8
 msgid ""
 "On utilise les billets de couleurs, qui expriment alors des unités. On "
 "dispose les marqueurs de billets sur la feuille d'aide."
 msgstr ""
+"We use the colored banknotes, they represent units. We place banknote "
+"markers on the help sheet."
 
 #: ../../source/debt_money.rst:10
 msgid ""
 "La couleur de billet la plus haute vaut 2 unités, la suivante 1 unité et "
 "la dernière 1/2 unité."
 msgstr ""
+"The banknote of the highest color equals 2 units, medium is 1 unit and "
+"the lower is 1/2 unit."
 
 #: ../../source/debt_money.rst:12
 msgid ""
 "Une carte de valeur basse vaut 1 unité monétaire au départ, la valeur "
 "moyenne 2 unités, la valeur haute 4 unités."
 msgstr ""
+"A low value card equals 1 money unit at start, medium value is 2 units, "
+"highest value is 4 units."
 
 #: ../../source/debt_money.rst:14
 msgid ""
@@ -64,6 +76,11 @@ msgid ""
 "supérieur ou pas dans l'économie. Les prix des cartes s'adapteront alors "
 "à la nouvelle unité supérieure ainsi injectée."
 msgstr ""
+"Money is always working on a rolling cycle in time, which permits, if the"
+" banker wants it, to shift the colors if he sees fits. But it is not "
+"mandatory, the banker must decide himself if he needs to add credits of "
+"higher level or not in the economy. Price of the cards will then adapt to"
+" the new injected money."
 
 #: ../../source/debt_money.rst:16
 msgid ""
@@ -71,16 +88,20 @@ msgid ""
 "l'injection d'une couleur \"haute\", le banquier pourra dévaluer la "
 "monnaie précédemment émise."
 msgstr ""
+"Then, by \"rolling the money\" if he wants, by injecting a \"high\" "
+"color, the banker might devalued the money already created."
 
 #: ../../source/debt_money.rst:18
 msgid "Ici donc c'est le banquier seul qui va créditer l'économie."
-msgstr ""
+msgstr "Here it's the banker alone who credits the economy."
 
 #: ../../source/debt_money.rst:20
 msgid ""
 "Pour commencer il peut distribuer quelques billets aléatoirement à sa "
 "discrétion, très peu, à quelques joueurs."
 msgstr ""
+"To start, he can distribute a few banknotes randomly at his will, very "
+"few, to some players."
 
 #: ../../source/debt_money.rst:22
 msgid ""
@@ -90,12 +111,18 @@ msgid ""
 "raison que le premier tour de jeu est censé représenter un tour de mesure"
 " comme un autre d'une économie déjà monétisée depuis longtemps."
 msgstr ""
+"However this is not the best method to play, it is better to start "
+"directly by granting credits, on the first turn, and even before the "
+"first turn, always for the reason that the first turn should depict a "
+"normal turn in an already monetized economy."
 
 #: ../../source/debt_money.rst:24
 msgid ""
 "A tout moment pendant le tour de jeu, les joueurs peuvent s'adresser au "
 "banquier pour obtenir un crédit."
 msgstr ""
+"At any time during the turn, players can talk to the banker to get a "
+"credit."
 
 #: ../../source/debt_money.rst:28
 msgid ""
@@ -106,6 +133,11 @@ msgid ""
 "car une banque qui ne se fait pas rembourser est censée faire faillite "
 "dans ce modèle monétaire."
 msgstr ""
+"Warranties: a good rule for the banker that he should not forget is to "
+"not give credit to someone without any economic assets to \"assure the "
+"credit\". This is to ensure the repay in money or in values, and not to "
+"\"go bankrupt\", because a bank which can not be repaid should go "
+"bankrupt in this money system."
 
 #: ../../source/debt_money.rst:30
 msgid ""
@@ -113,6 +145,9 @@ msgid ""
 "crédits (intérêts inclus) ou seulement les intérêts pour les crédits en "
 "cours."
 msgstr ""
+"At the end of the turn, the banker claim for the repay of the complete "
+"credit (interests included) or only the interests for the current "
+"credits."
 
 #: ../../source/debt_money.rst:32
 msgid ""
@@ -120,6 +155,8 @@ msgid ""
 "banquier est en droit de lui prendre autant de cartes valeurs qu'il juge "
 "nécessaire pour se rembourser largement."
 msgstr ""
+"If the player can not repay in money units, then the banker is allowed to"
+" take him as much value cards he sees fits to be widely repaid."
 
 #: ../../source/debt_money.rst:34
 msgid ""
@@ -129,6 +166,10 @@ msgid ""
 "directement en prison » pour 1 tour, avant de reprendre le jeu avec 4 "
 "nouvelles cartes de valeur basse."
 msgstr ""
+"Sometimes, in case of a total incapacity of repayment (which came from an"
+" inattention of the banker when he gave the credit, see the note on "
+"garanties_), player can be sent \"directly in jail\" for 1 turn, before "
+"replay with 4 new cards of low value."
 
 #: ../../source/debt_money.rst:36
 msgid ""
@@ -139,14 +180,19 @@ msgid ""
 "précisément son rôle on peut faire une séance de jeu complète sans "
 "prison."
 msgstr ""
+"To be in jail should not be a \"fun\" moment for the player. He should be"
+" isolated from the game during 1 turn without communication nor food. It "
+"should not be a pleasant \"pause\", but an isolation to force him to "
+"\"think about\". However, if the banker plays well we can play an entire "
+"game without prison."
 
 #: ../../source/debt_money.rst:39
 msgid "Comptabilité du banquier"
-msgstr ""
+msgstr "Banker accounting"
 
 #: ../../source/debt_money.rst:41
 msgid "La comptabilité des joueurs ne change pas par rapport au principe général."
-msgstr ""
+msgstr "Players accounting does not change from the main rules."
 
 #: ../../source/debt_money.rst:43
 msgid ""
@@ -156,6 +202,10 @@ msgid ""
 "comptabilisé comme étant : (somme des remboursements effectués) – (somme "
 "des crédits alloués)."
 msgstr ""
+"On the other side, we must do a net accounting for the banker because, "
+"during the repay, he does not keep the primary credit but only the "
+"interests. Banker profit is accounted as this: (repayments sum) – "
+"(credits sum)."
 
 #: ../../source/debt_money.rst:45
 msgid ""
@@ -169,13 +219,25 @@ msgid ""
 "encore l'intérêt au tour suivant et ceci pour tout le temps où il n'aura "
 "pas remboursé le principal."
 msgstr ""
+"For example the banker has given a 3 units credit, with a one turn "
+"interest of 1 unit. At the end of the turn, the player can repay 4 units,"
+" including 3 as the primary credit and 1 as interests. The banker resets "
+"the credit for the player who have no more debt and get a profit of +1 "
+"unit on his own account, he keeps only one banknote for himself. Another "
+"solution: the player repays only one unit for the turn, which is kept by "
+"the banker, and stay credited by the primary credit, so he will have to "
+"repay again the interest for the next turn and this as long as the "
+"primary credit is not repaid."
 
 #: ../../source/debt_money.rst:47
+#, fuzzy
 msgid ""
 "Concernant les remboursements en nature une valeur économique vaudra "
 "moins que l'équivalent des unités monétaires qu'elle représente (ce qui "
 "correspond aux frais)."
 msgstr ""
+"For the repayments in values, economical values will not be equals to the"
+" money they represent (it is the banker fees)."
 
 #: ../../source/debt_money.rst:49
 msgid ""
@@ -187,6 +249,12 @@ msgid ""
 "basse. Il n'y a pas de règles précises ici, car les frais peuvent être "
 "très variables et c'est le banquier qui décide."
 msgstr ""
+"Reminder: a card of superior value costs 2 times the inferior value card."
+" So if a player can not pay with money his credit of 3 units + 1 unit of "
+"interests at the end of the turn, the banker could take at least 2 medium"
+" cards (which equals to 2 x 2 = 4 units), plus fees as for example 1 or 2"
+" low value cards. There is no precise rules here, because fees can be "
+"very floating and it is the banker who decides."
 
 #: ../../source/debt_money.rst:51
 msgid ""
@@ -194,6 +262,8 @@ msgid ""
 " obtenir des données correctes utilisables lors du compte rendu "
 "économique final du jeu."
 msgstr ""
+"The player playing the bank should have a reliable accounting to obtain "
+"correct data to use in the final economical report of the game."
 
 #: ../../source/debt_money.rst:53
 msgid ""
@@ -202,6 +272,9 @@ msgid ""
 " du principe préalablement. Le tout se faisant assez facilement avec une "
 "simple feuille de papier A4 où il a marqué la liste des joueurs."
 msgstr ""
+"Practice shows that this accounting is easy if the player knows the "
+"banker behavior very well. It should be done simply on a A4 paper sheet "
+"where the list of the players is written."
 
 #~ msgid ""
 #~ msgstr ""
@@ -210,13 +283,5 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Le bénéfice du banquier est comptabilisé comme étant"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Concernant les remboursements en nature "
-#~ "une valeur économique vaudra moins que"
-#~ " l'équivalent des unités monétaires qu'elle"
-#~ " représente (ce qui correspond aux "
-#~ "frais."
 #~ msgstr ""
 
