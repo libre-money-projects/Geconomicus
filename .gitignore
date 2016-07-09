@@ -4,3 +4,4 @@
 !/rst/build/.gitkeep
 venv
 /*.log
+*.mo
