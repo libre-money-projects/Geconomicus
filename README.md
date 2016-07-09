@@ -32,9 +32,7 @@ It includes free money system like it is demonstrated in Relative Theory of Mone
 
 Ğeconomicus uses the Ğ caracter as it is defined in http://www.glibre.org
 
-# Generate HTML with travis
-
-[![Build Status](https://travis-ci.org/vtexier/Geconomicus.svg?branch=dev)](https://travis-ci.org/vtexier/Geconomicus)
+# Generate HTML
 
 #### Install Sphinx 1.3
 
@@ -63,13 +61,22 @@ Install Sphinx 1.3:
     (venv) $ pip install sphinx-intl
 ```
 
-#### build HTML
+#### Build HTML
 
 ```bash
     (venv) $ ./build.sh
 ```
 
 The Ğeconomicus HTML web pages are generated in the `rst/build/html` folder.
+
+#### Build release
+
+```bash
+    (venv) $ ./build.sh
+    (venv) $ ./build_release.sh
+```
+
+The Ğeconomicus zip releases are generated in the `rst/build` folder.
 
 #### After build, to  only deactivate the virtual environment in your shell:
 
@@ -103,7 +110,7 @@ Every time you modify RST files, you must update translation files
     (venv) $ ./update_translation.sh
 ```
 
-### Build in english (US)
+### Build HTML in english (US)
 
 ```bash
     (venv) $ ./build_en_US.sh
