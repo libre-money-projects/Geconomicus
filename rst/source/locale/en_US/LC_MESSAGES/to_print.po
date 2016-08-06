@@ -1,0 +1,280 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, vit
+# This file is distributed under the same license as the Geconomicus
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Geconomicus 2.01\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-09 18:05+0200\n"
+"PO-Revision-Date: 2016-07-08 10:34+0000\n"
+"Last-Translator: Vincent Texier <vit@free.fr>\n"
+"Language-Team: English (United States) "
+"<https://weblate.duniter.org/projects/geconomicus/to_print/en_US/>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
+"Generated-By: Babel 2.2.0\n"
+
+#: ../../source/to_print.rst:3
+msgid "À imprimer"
+msgstr "To print"
+
+#: ../../source/to_print.rst:5
+msgid ""
+"Nous vous proposons ici des fichiers destinés à être imprimés, pour "
+"obtenir les cartes et les billets dédiés au jeu."
+msgstr ""
+"We propose here some files to print, to get cards and banknotes dedicated to "
+"the game."
+
+#: ../../source/to_print.rst:8
+msgid "La feuille d'aide"
+msgstr "Help sheet"
+
+#: ../../source/to_print.rst:10
+msgid "À imprimer en deux exemplaires."
+msgstr "To print twice."
+
+#: ../../source/to_print.rst:16
+msgid ""
+"`Cliquer ici pour télécharger la feuille d'aide à imprimer "
+"<./_static/help_sheets/help_sheet.png>`_"
+msgstr ""
+"`Click here to download the help sheet to print "
+"<./_static/help_sheets/help_sheet.png>`_"
+
+#: ../../source/to_print.rst:20
+msgid "La monnaie"
+msgstr "The money"
+
+#: ../../source/to_print.rst:22
+msgid ""
+"Les billets sont sous la forme de fichiers au format PNG de la taille "
+"d'une carte de visite standard (88 × 58 mm)."
+msgstr ""
+"Banknotes are made of PNG files sized as a standard business card (88 × 58 "
+"mm)."
+
+#: ../../source/to_print.rst:36
+msgid "Style \"modern\""
+msgstr "\"Modern\" style"
+
+#: ../../source/to_print.rst:38
+msgid ""
+"Le style \"modern\" utilise des ronds de couleurs pour signaler les "
+"correspondances entre les billets."
+msgstr ""
+"The \"modern\" style use color circles to display banknote colors order."
+
+#: ../../source/to_print.rst:44
+msgid ""
+"`Cliquer ici pour télécharger le billet rouge "
+"<./_static/money/red_banknote_modern.png>`_"
+msgstr ""
+"`Click here to download the red banknote "
+"<./_static/money/red_banknote_modern.png>`_"
+
+#: ../../source/to_print.rst:45
+msgid ""
+"`Cliquer ici pour télécharger le billet jaune "
+"<./_static/money/yellow_banknote_modern.png>`_"
+msgstr ""
+"`Click here to download the yellow banknote "
+"<./_static/money/yellow_banknote_modern.png>`_"
+
+#: ../../source/to_print.rst:46
+msgid ""
+"`Cliquer ici pour télécharger le billet vert "
+"<./_static/money/green_banknote_modern.png>`_"
+msgstr ""
+"`Click here to download the green banknote "
+"<./_static/money/green_banknote_modern.png>`_"
+
+#: ../../source/to_print.rst:47
+msgid ""
+"`Cliquer ici pour télécharger le billet bleu "
+"<./_static/money/blue_banknote_modern.png>`_"
+msgstr ""
+"`Click here to download the blue banknote "
+"<./_static/money/blue_banknote_modern.png>`_"
+
+#: ../../source/to_print.rst:49
+msgid ""
+"Planches à billet pour une impression recto seulement sur feuille blanche"
+" :"
+msgstr "Banknotes sheet to print recto only on a regular printer:"
+
+#: ../../source/to_print.rst:51
+msgid ""
+"`Cliquer ici pour télécharger la planche des billets rouges "
+"<./_static/money/red_banknote_modern_sheet.png>`_"
+msgstr ""
+"`Click here to download the red banknotes sheet "
+"<./_static/money/red_banknote_modern_sheet.png>`_"
+
+#: ../../source/to_print.rst:52
+msgid ""
+"`Cliquer ici pour télécharger la planche des billets jaunes "
+"<./_static/money/yellow_banknote_modern_sheet.png>`_"
+msgstr ""
+"`Click here to download the yellow banknotes sheet "
+"<./_static/money/yellow_banknote_modern_sheet.png>`_"
+
+#: ../../source/to_print.rst:53
+msgid ""
+"`Cliquer ici pour télécharger la planche des billets verts "
+"<./_static/money/green_banknote_modern_sheet.png>`_"
+msgstr ""
+"`Click here to download the green banknotes sheet "
+"<./_static/money/green_banknote_modern_sheet.png>`_"
+
+#: ../../source/to_print.rst:54
+msgid ""
+"`Cliquer ici pour télécharger la planche des billets bleus "
+"<./_static/money/blue_banknote_modern_sheet.png>`_"
+msgstr ""
+"`Click here to download the blue banknotes sheet "
+"<./_static/money/blue_banknote_modern_sheet.png>`_"
+
+#: ../../source/to_print.rst:57
+msgid "Les cartes valeur"
+msgstr "The value cards"
+
+#: ../../source/to_print.rst:59
+msgid ""
+"La taille des cartes est celle des cartes de poker classiques (63mm x "
+"88mm, 2.5\" x 3.5\")."
+msgstr "Size of cards is classic poker size (63mm x 88mm, 2.5\" x 3.5\")."
+
+#: ../../source/to_print.rst:61
+msgid ""
+"Chaque archive ZIP contient les 16 images PNG nécessaires à imprimer un "
+"paquet de 54 cartes."
+msgstr "Each ZIP archive contains 16 PNG images to print a deck of 54 cards."
+
+#: ../../source/to_print.rst:63
+msgid "Le dos des cartes"
+msgstr "Back of cards"
+
+#: ../../source/to_print.rst:64
+msgid "Les 13 valeurs à imprimer en 4 exemplaires (52 cartes)"
+msgstr "The 13 values to print in 4 copies (52 cards)"
+
+#: ../../source/to_print.rst:65
+msgid "Le marqueur de valeur pour la feuille d'aide (53ème carte)"
+msgstr "The value marker for the help sheet (53th card)"
+
+#: ../../source/to_print.rst:66
+msgid "La notice avec la license et le lien vers les règles (54ème carte)"
+msgstr "Notice with license and a hyper-link to the rules (54th card)"
+
+#: ../../source/to_print.rst:70
+msgid "Style \"révolution\""
+msgstr "\"Revolution\" style"
+
+#: ../../source/to_print.rst:72
+msgid "Le style \"révolution\" évoque la révolution industrielle du 19ème siècle."
+msgstr ""
+"\"Revolution\" style reflect the industrial revolution in the 19th century."
+
+#: ../../source/to_print.rst:77
+msgid "Liens de téléchargements :"
+msgstr "Download links:"
+
+#: ../../source/to_print.rst:79
+msgid ""
+"`Cliquer ici pour télécharger les cartes niveau 1 "
+"<./_static/cards/revolution/level_1.zip>`_"
+msgstr ""
+"`Click here to download level 1 cards "
+"<./_static/cards/revolution/level_1.zip>`_"
+
+#: ../../source/to_print.rst:80
+msgid ""
+"`Cliquer ici pour télécharger les cartes niveau 2 "
+"<./_static/cards/revolution/level_2.zip>`_"
+msgstr ""
+"`Click here to download level 2 cards "
+"<./_static/cards/revolution/level_2.zip>`_"
+
+#: ../../source/to_print.rst:81
+msgid ""
+"`Cliquer ici pour télécharger les cartes niveau 3 "
+"<./_static/cards/revolution/level_3.zip>`_"
+msgstr ""
+"`Click here to download level 3 cards "
+"<./_static/cards/revolution/level_3.zip>`_"
+
+#: ../../source/to_print.rst:82
+msgid ""
+"`Cliquer ici pour télécharger les cartes niveau 4 "
+"<./_static/cards/revolution/level_4.zip>`_"
+msgstr ""
+"`Click here to download level 4 cards "
+"<./_static/cards/revolution/level_4.zip>`_"
+
+#: ../../source/to_print.rst:84
+msgid ""
+"`Cliquer ici pour télécharger le modèle du dos des cartes "
+"<./_static/cards/revolution/back_layers.svg>`_"
+msgstr ""
+"`Click here to download the back layers of cards "
+"<./_static/cards/revolution/back_layers.svg>`_"
+
+#: ../../source/to_print.rst:85
+msgid ""
+"`Cliquer ici pour télécharger le modèle du dessus des cartes "
+"<./_static/cards/revolution/front_layers.svg>`_"
+msgstr ""
+"`Click here to download the front layers of cards "
+"<./_static/cards/revolution/front_layers.svg>`_"
+
+#: ../../source/to_print.rst:88
+msgid "Profil couleur ICC"
+msgstr "ICC color profile"
+
+#: ../../source/to_print.rst:90
+msgid ""
+"Les couleurs utilisées dans les fichiers SVG respectent le profil couleur"
+" d'impression PSOcoated_v3.icc."
+msgstr ""
+"Colors used in SVG files respect the print color profile PSOcoated_v3.icc."
+
+#: ../../source/to_print.rst:92
+msgid ""
+"`Télécharger le profil ICC PSOcoated_v3.icc "
+"<./_static/icc/PSOcoated_v3.icc>`_"
+msgstr ""
+"`Download ICC profile PSOcoated_v3.icc <./_static/icc/PSOcoated_v3.icc>`_"
+
+#: ../../source/to_print.rst:94
+msgid "Réglez votre moniteur LCD sur le profil **sRGB**."
+msgstr "Configure your LCD monitor on the **sRGB** profile."
+
+#: ../../source/to_print.rst:95
+msgid ""
+"Dans les **Préférences** de Inkscape, sélectionnez le profil d'écran "
+"**sRGB**."
+msgstr "In Inkscape \"Preferences\", select the **sRGB** screen profile."
+
+#: ../../source/to_print.rst:96
+msgid ""
+"Dans les **Propriétés du Document** de Inkscape, sélectionnez le profil "
+"**PSOcoated_v3**."
+msgstr ""
+"In Inkscape \"Document Properties\" menu, select the **PSOcoated_v3** "
+"profile."
+
+#: ../../source/to_print.rst:97
+msgid ""
+"Utiliser les couleurs de l'onglet **CMS**, avec le profil "
+"**PSOcoated_v3** sélectionné (couleurs en CMJN)."
+msgstr ""
+"Use the colors of the **CMS** tab, with the **PSOcoated_v3** profile "
+"selected (CMYK colors)."

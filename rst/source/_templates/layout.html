@@ -1,0 +1,52 @@
+{% extends "!layout.html" %}
+{%- block extrahead %}
+<script type="text/javascript">
+getRelease("libre-money-projects","Geconomicus","Geconomicus_releases");
+function getRelease(user, repo, Id) {
+   var xmlhttp = new XMLHttpRequest();
+   xmlhttp.onreadystatechange = function() {
+       if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+          var myArr = JSON.parse(xmlhttp.responseText);
+          release = populateRelease(myArr,Id);
+       }
+   }
+   xmlhttp.open("GET", "https://api.github.com/repos/" + user + "/" + repo + "/releases", true);
+   xmlhttp.send();
+}
+function populateRelease(arr,Id) {
+   var release = arr[0].tag_name;
+   document.getElementById(Id).innerHTML = release;
+}
+</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+  jQuery.ajaxSetup({ cache: true });
+  
+  jQuery.getScript("https://static.jappix.com/server/get.php?l=fr&t=js&g=mini.xml", function() {
+     JappixMini.launch({
+        connection: {
+           domain: "anonymous.jappix.com",
+        },
+
+        application: {
+           network: {
+              autoconnect: false,
+           },
+
+           interface: {
+              showpane: true,
+              animate: true,
+           },
+
+           user: {
+              random_nickname: false,
+           },
+
+           groupchat: {
+              open: ["geconomicus@muc.duniter.org"],
+           },
+        },
+     });
+  });
+</script>
+{% endblock %}

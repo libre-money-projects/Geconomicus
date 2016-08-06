@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, vit, Ğaluel
+# This file is distributed under the same license as the Ğeconomicus
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Geconomicus 2.01\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-05 10:37+0200\n"
+"PO-Revision-Date: 2016-07-05 09:07+0000\n"
+"Last-Translator: Vincent Texier <vit@free.fr>\n"
+"Language-Team: English (United States) "
+"<https://weblate.duniter.org/projects/geconomicus/index/en_US/>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
+"Generated-By: Babel 2.2.0\n"
+
+#: ../../source/index.rst:8
+msgid "Ğeconomicus"
+msgstr "Ğeconomicus"
+
+#: ../../source/index.rst:14
+msgid "Dernière version disponible : |html_last_version|"
+msgstr "Last available version: |html_last_version|"
+
+#: ../../source/index.rst:17
+msgid "Présentation"
+msgstr "Overview"
+
+#: ../../source/index.rst:19
+msgid ""
+"Ğeconomicus est un jeu de simulation économique permettant de découvrir "
+"l'influence de la création monétaire sur les échanges. Les joueurs y "
+"achètent et vendent des valeurs économiques dans le but d'en créer de "
+"nouvelles. Le temps est un facteur important du jeu, à plusieurs niveaux,"
+" notamment par le cycle de vie des humains et des valeurs."
+msgstr ""
+"Ğeconomicus is an economic simulation game allowing to discover the "
+"influence of money issuance on the exchanges. Players buy and sell "
+"economical values in order to create new ones. Time is an important part of "
+"the game, on many levels, particularly on the humans and values life cycle."
+
+#: ../../source/index.rst:21
+msgid ""
+"L'intérêt du jeu est surtout de comparer différents types de monnaies, "
+"dont le concept de monnaie libre, tel que démontré dans `La Théorie "
+"Relative de la Monnaie <http://trm.creationmonetaire.info>`_."
+msgstr ""
+"The purpose of the game is mainly to compare different kinds of money, "
+"specially the libre money, as demonstrated in the `Relative Theory of Money "
+"<http://en.trm.creationmonetaire.info>`_."
+
+#: ../../source/index.rst:24
+msgid ""
+"Le jeu se présente comme un site web libre (à télécharger et installer "
+"sur son propre site) comprenant les règles, des modèles de cartes et de "
+"billets spécifiques à imprimer, des fichers tableurs permettant la "
+"réalisation de comptes rendus finaux ainsi que des liens vers des "
+"exemples de réalisations complètes (vidéos, sites internet...)."
+msgstr ""
+"The game presents itself as a free website (to download and install on your "
+"own server) featuring the rules, cards and banknotes to print, spreadsheet "
+"files to allow the making of final reports, and links to game examples ("
+"videos, websites...)."
+
+#: ../../source/index.rst:26
+msgid "Développement :"
+msgstr "Development:"
+
+#: ../../source/index.rst:28
+msgid ""
+"`Dernière version <https://github.com/libre-money-"
+"projects/Geconomicus/releases>`_"
+msgstr ""
+"`Last version <https://github.com/libre-money-"
+"projects/Geconomicus/releases>`_"
+
+#: ../../source/index.rst:29
+msgid "`Dépôt GitHub <https://github.com/libre-money-projects/Geconomicus>`_"
+msgstr ""
+"`GitHub repository <https://github.com/libre-money-projects/Geconomicus>`_"
+
+#: ../../source/index.rst:30
+msgid "`Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`_"
+msgstr "`Dedicated Chat room (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`_"
+
+#: ../../source/index.rst:32
+msgid "Hébergements connus :"
+msgstr "Known hosted websites:"
+
+#: ../../source/index.rst:34
+msgid "http://geconomicus.glibre.org"
+msgstr "http://geconomicus.glibre.org"
+
+#: ../../source/index.rst:35
+msgid "http://geconomicus.duniter.fr"
+msgstr "http://geconomicus.duniter.fr"
+
+#: ../../source/index.rst:36
+msgid "http://www.reglesdejeux.com/geconomicus/"
+msgstr "http://www.reglesdejeux.com/geconomicus/"
+
+#: ../../source/index.rst:37
+msgid "http://vtexier.github.io/Geconomicus"
+msgstr "http://vtexier.github.io/Geconomicus"
+
+#: ../../source/index.rst:39
+msgid "Comptes rendus déjà publiés :"
+msgstr "Game reports already published:"
+
+#: ../../source/index.rst:41
+msgid ""
+"`Vidéos de compte-rendu sur YouTube "
+"<https://youtu.be/R4SIO2VuC2A?list=PL0UDqLtXevvHY5rAyFtql5931VqYyRaoK>`_"
+msgstr ""
+"`Game reports videos on YouTube "
+"<https://youtu.be/R4SIO2VuC2A?list=PL0UDqLtXevvHY5rAyFtql5931VqYyRaoK>`_"
+
+#: ../../source/index.rst:42
+msgid ""
+"`Festival de la monnaie à Bordeaux "
+"<http://www.festivaldelamonnaie.org/index.php/jeu-geconomicus/>`_"
+msgstr ""
+"`Money Festival in Bordeaux <http://www.festivaldelamonnaie.org/index.php"
+"/jeu-geconomicus/>`_"
+
+#: ../../source/index.rst:43
+msgid ""
+"Jeu sous license libre `GPL v3 "
+"<http://www.gnu.org/licenses/gpl-3.0.fr.html>`_"
+msgstr ""
+"Game under free software license `GPL v3 "
+"<http://www.gnu.org/licenses/gpl-3.0.fr.html>`_"
+
+#: ../../source/index.rst:47
+msgid "Table des matières"
+msgstr "Table of content"
+
+#~ msgid ""
+#~ "_: \n"
+#~ ""
+#~ msgstr ""
+
+#~ msgid "`Dépôt GitHub <https://github.com/galuel/Geconomicus>`_"
+#~ msgstr ""
+
+#~ msgid "Hébergement :"
+#~ msgstr ""
+
+#~ msgid "http://geconomicus.ucoin.fr"
+#~ msgstr ""
+
+#~ msgid "http://galuel.github.io/Geconomicus"
+#~ msgstr ""
+
+#~ msgid "Réalisations :"
+#~ msgstr ""
+
+#~ msgid "`Dernière version <https://github.com/duniter/Geconomicus/releases>`_"
+#~ msgstr ""
+
+#~ msgid "`Dépôt GitHub <https://github.com/duniter/Geconomicus>`_"
+#~ msgstr ""
+
+#~ msgid "Hébergement connus :"
+#~ msgstr ""

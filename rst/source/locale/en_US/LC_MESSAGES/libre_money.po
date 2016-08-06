@@ -1,0 +1,195 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, vit, Ğaluel
+# This file is distributed under the same license as the Ğeconomicus
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Geconomicus 2.01\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-08 15:53+0200\n"
+"PO-Revision-Date: 2016-07-08 09:55+0000\n"
+"Last-Translator: Vincent Texier <vit@free.fr>\n"
+"Language-Team: English (United States) "
+"<https://weblate.duniter.org/projects/geconomicus/libre_money/en_US/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.2.0\n"
+
+#: ../../source/libre_money.rst:2
+msgid "Monnaie libre"
+msgstr "Libre money"
+
+#: ../../source/libre_money.rst:4
+msgid ""
+"La monnaie libre est une monnaie dont tous les utilisateurs sont co-"
+"créateurs, à parts égales. La monnaie est créée sous la forme d'un "
+"Dividende Universel (DU) régulier. Celui-ci peut être journalier, "
+"hebdomadaire ou mensuel, mais doit respecter un accroissement de la masse"
+" monétaire de 10 % par an."
+msgstr ""
+"Libre money is a money where all users are co-creators, equally. Money is"
+" created as a constant Universal Dividend (UD). It can be daily, weekly "
+"or monthly, but it have to respect a growth of 10% per year of the "
+"monetary mass."
+
+#: ../../source/libre_money.rst:6
+msgid ""
+"Mais compter les prix en unités dans une monnaie en accroissement "
+"constant est peu pratique, on préférera donc compter en DU. On appelle "
+"cela \"compter en relatif\". En relatif la masse monétaire moyenne par "
+"individu reste constante, la monnaie est alors un flux constant ne "
+"connaissant pas de pénurie."
+msgstr ""
+"But to set prices in units in this always growing money is not practical,"
+" we prefer to count in UD. We call it \"to count in relative\". In "
+"ralative the average monetary mass per person remain constant, the money "
+"is then a constant flux without any shortage."
+
+#: ../../source/libre_money.rst:8
+msgid ""
+"L'utilisation d'une monnaie libre se fait grâce au roulement des couleurs"
+" des billets définis plus haut."
+msgstr ""
+"The use of a libre money is made with the rolling of the colored "
+"banknotes defined earlier in the rules."
+
+#: ../../source/libre_money.rst:10
+msgid ""
+"Au premier tour de jeu il est conseillé de démarrer directement la partie"
+" en distribuant les trois couleurs à chaque joueur (2 billets de chacune "
+"des couleurs) afin d'entrer directement en jeu à partir d'une économie "
+"déjà monétisée."
+msgstr ""
+"At the first turn it is suggested to start directly the game by "
+"distributing the three colors to each player (2 banknotes of each color) "
+"in order to enter the game in a already monetized economy."
+
+#: ../../source/libre_money.rst:12
+msgid ""
+"A chaque nouveau tour l'animateur fait tourner les marqueurs de billets "
+"sur la feuille d'aide. La couleur en attente devient la couleur "
+"supérieure."
+msgstr ""
+"At each new turn the organizer shift the markers on the help sheet. The "
+"pending color becomes the highest color."
+
+#: ../../source/libre_money.rst:14
+#, fuzzy
+msgid ""
+"Il distribue alors 2 billets de la valeur supérieure (qui est la couleur "
+"qui était en attente) à chaque joueur qui lui doit rendre 1 unité (en "
+"billets bas, pour éliminer ainsi les billets de cette couleur, "
+"l'animateur fait donc les échanges nécessaires pour cela, rendre 2 "
+"couleurs sortantes pour une couleur basse). On récupère de cette façon "
+"tous les billets de la valeur la plus faible qui devient à son tour la "
+"valeur en attente jusqu'au tour suivant."
+msgstr ""
+"He then distributes 2 banknotes of the highest value (the color that was "
+"pending) to each player who must gives him back 1 unit (in lower "
+"banknotes, to exit the banknotes of this color, the organizer do all the "
+"exchanges to do that). We exit all the banknotes of the old lower value "
+"which becomes the new pending value until the next turn."
+
+#: ../../source/libre_money.rst:16
+msgid ""
+"On rend ainsi 1 unité pour récupérer 2 billets de la couleur en attente "
+"qui valent 8 fois cette unité, c'est donc équivalent à injecter 7 unités "
+"nouvelles dans l'économie. Comme il y a déjà 7 unités présentes, on "
+"double ainsi la masse monétaire à chaque tour. Comme on décale les "
+"couleurs vers la gauche, on divise par deux la valeur de chaque billet et"
+" donc on revient bien sur la même masse monétaire. En relatif la masse "
+"monétaire ne bouge donc pas du tout malgré les apparences quantitatives."
+msgstr ""
+"We give back 1 unit to get 2 banknotes of the pending color which worth 8"
+" times this unit, it is equivalent to inject 7 new units in the economy. "
+"As there is already 7 units in play, we double the monetary mass at each "
+"turn. As we shift colors to the left, we divide by two the value of each "
+"banknotes and so we get back to the same monetary mass. In relative the "
+"monetary mass does not move at all despite the apparent movement in "
+"quantitative counting."
+
+#: ../../source/libre_money.rst:18
+#, fuzzy
+msgid ""
+"Il y a donc ainsi toujours 3 couleurs de billets en jeu valant "
+"respectivement 1/2 DU, 1 DU, et 2 DU, qui « glissent » (ou « tournent ») "
+"à chaque tour, la couleur médiane étant alors celle des billets valant 1 "
+"DU de référence, unité en vigueur lors d'un tour."
+msgstr ""
+"So there is indeed always 3 colors of banknotes in play evaluated to "
+"respectively 1/2 UD, 1 UD and 2 UD, which are \"shifting\" (or "
+"\"rolling\") at each turn, the medium color is then the reference "
+"banknote of 1 UD, official unit during a turn."
+
+#: ../../source/libre_money.rst:20
+msgid ""
+"Les valeurs monétaires des cartes se fondent sur le DU de référence en "
+"vigueur et les cartes de valeur la plus basse valent chacune 3 DU. Les "
+"valeurs moyennes valent alors 6 DU et les valeurs hautes 12 DU."
+msgstr ""
+"Monetary values of cards are based on the reference UD in play and lower "
+"value cards equals 3 UD each. Medium value cards equals 6 UD and higher "
+"cards equals 12 UD."
+
+#: ../../source/libre_money.rst:22
+msgid ""
+"On aura donc toujours une moyenne de monnaie par joueur de 2 * (1/2 DU +1"
+" DU + 2 DU) = 7 DU et donc un « pouvoir d'achat » moyen distribué de (2 "
+"cartes valeurs + 1 DU) / joueur."
+msgstr ""
+"So we will always have a average of money per player of 2 x (1/2 UD +1 UD"
+" + 2 UD) = 7 UD and so an average \"buying power\" of (2 value cards + 1 "
+"UD) / player."
+
+#: ../../source/libre_money.rst:24
+msgid ""
+"Il est possible de démarrer en distribuant une seule couleur, mais cela "
+"n'a pas d'intérêt si ce n'est retarder la monétisation complète de 2 "
+"tours. Le tour initial ne correspond pas en effet à l'arrivée progressive"
+" de nouveaux entrants remplaçant des sortants, mais au premier tour de "
+"mesure d'une économie supposée tourner déjà depuis longtemps."
+msgstr ""
+"It is possible to start by distributing only one color, but it is not "
+"interesting except to slow down the complete monetizing by 2 turns. The "
+"initial turn does not depict the progressive arrival of newcomers "
+"replacing the leavers, but the first turn measuring an already long "
+"running economy."
+
+#: ../../source/libre_money.rst:26
+#, python-format
+msgid ""
+"Que quel que soit le nombre « n + 1 » de couleurs que l'on pourrait "
+"choisir (au lieu de 4 couleurs ici, on peut jouer avec 10, 20, 100 "
+"couleurs ou autant qu'on voudra), avec 1 couleur en attente et « n » "
+"couleurs en jeu, on aura un nombre x de DU (compté par exemple sur la "
+"valeur la plus basse) égal à : x DU = 1 + 2 + 4 + … + 2n. Ce nombre reste"
+" stable entre deux tours avec cette règle de roulement, puisque le 1 "
+"sortira du jeu, les éléments de la série seront décalées à gauche, et la "
+"couleur en attente entre en remplaçant la couleur la plus haute \"2n\". "
+"Cela revient ainsi à multiplier la valeur quantitative de la monnaie par "
+"2. Etant donné que 2 ≈ (1 + 10 %)⁸ on simule ainsi 8 ans à chaque tour, "
+"pour un taux de renouvellement monétaire équivalent de 10 % / an. Donc en"
+" 10 tours x 8 ans = 80 ans, soit une espérance de vie, 100 % de la "
+"population sera renouvelée."
+msgstr ""
+"Whatever the number of \"n + 1\" colors we can choose (instead of 4 here,"
+" we can play with 10, 20, 100 colors or many more), with 1 pending color "
+"and \"n\" colors in play, we will have a number x of UD (counting by "
+"starting at the lower value) equals to: x UD = 1 + 2 + 4 + ... + 2n. This"
+" number will be stable between two turns with this rule of rolling, since"
+" the 1 will leave the game, the elements of this suit will be shifted to "
+"the left, and the pending color comes in play replacing the highest "
+"\"2n\" color. It is equivalent to multiply the quantitative value of the "
+"money by 2. Given that 2 ≈ (1 + 10 %)⁸ then we simulate 8 years at each "
+"turn, for a rate of monetary replacement of 10% / year. So with 10 turns "
+"x 8 years = 80 years, a human lifespan, 100 % of the people are renewed."
+
+#~ msgid ""
+#~ msgstr ""
+
+#~ msgid "Info technique"
+#~ msgstr ""
+
