@@ -14,9 +14,9 @@ build:
 
   script:
     - ./build.sh
-    - mv ./rst/build public
+    - mv ./rst/build/html public
     - ./build_en_US.sh
-    - mv ./rst/build public/en
+    - mv ./rst/build/html public/en
   artifacts:
     paths:
       - public
