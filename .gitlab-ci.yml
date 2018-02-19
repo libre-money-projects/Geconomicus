@@ -11,18 +11,16 @@ build:
     - apk add make
     - apk add inkscape
     - apk add imagemagick
-    - pip install virtualenv
-
-  script:
-    - virtualenv -p /usr/local/bin/python3.4 venv
-    - source venv/bin/activate
     - pip install sphinx==1.3
     - pip install sphinx-intl
+
+  script:
     #- ./update_translation.sh
     - ./build.sh
     - mv ./rst/build/html public
     - ./build_en_US.sh
     - mv ./rst/build/html public/en
+    - cat /tmp/sphinx-err-*.log
   artifacts:
     paths:
       - public
