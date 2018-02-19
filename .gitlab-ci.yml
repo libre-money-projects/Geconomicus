@@ -7,6 +7,7 @@ build:
   image: python:3.4-alpine
   before_script:
     - apk update
+    - apk add bash
     - apk add make
     - apk add inkscape
     - apk add imagemagick

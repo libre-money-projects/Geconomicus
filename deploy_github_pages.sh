@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 #Before launch, initialise ${GH_TOKEN} and ${GH_REF}
 #Tokens are github passwords you generate. It is needed to update repositery, see : https://github.com/settings/tokens
 #$ export GH_REF="github.com/$user/Geconomicus.git"
