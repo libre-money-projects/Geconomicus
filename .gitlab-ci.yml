@@ -12,6 +12,8 @@ build:
     - apk add inkscape
     - apk add imagemagick
     - pip install virtualenv
+    - whereis python
+    - whereis python3.4
 
   script:
     - virtualenv -p /usr/bin/python3.4 venv
