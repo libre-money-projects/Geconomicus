@@ -7,6 +7,7 @@ build-and-clean:
   image: python:3.4-alpine
   before_script:
     - apk update
+    - apk add make
     - apk add inkscape
     - apk add imagemagick
     - pip install sphinx==1.3
