@@ -8,7 +8,7 @@ build:
   before_script:
     - apk update
     - apk add bash
-    - apk add whereis
+    - apk add util-linux
     - apk add make
     - apk add inkscape
     - apk add imagemagick
