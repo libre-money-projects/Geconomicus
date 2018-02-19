@@ -2,7 +2,7 @@ stages:
   - build
   - publish
 
-build-and-clean:
+build:
   stage: build
   image: python:3.4-alpine
   before_script:
@@ -14,8 +14,9 @@ build-and-clean:
 
   script:
     - ./build.sh
-    - ./build_release.sh
     - mv ./rst/build public
+    - ./build_en_US.sh
+    - mv ./rst/build public/en
   artifacts:
     paths:
       - public
