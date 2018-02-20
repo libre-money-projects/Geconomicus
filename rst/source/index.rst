@@ -34,6 +34,7 @@ Hébergements connus :
 
 * http://geconomicus.glibre.org
 * https://geconomicus.1000i100.fr/
+* https://1000i100.frama.io/geconomicus/
 * http://communication.pages.duniter.org/geconomicus/
 * http://communication.pages.duniter.org/geconomicus/en/ (english version)
 * https://www.reglesdejeux.com/geconomicus/
