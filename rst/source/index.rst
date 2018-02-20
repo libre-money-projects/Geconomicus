@@ -11,7 +11,7 @@
 
    <a href="https://github.com/libre-money-projects/Geconomicus/releases"><span id="Geconomicus_releases"></span></a>
 
-.. note:: Dernière version disponible : |html_last_version|
+.. note:: Dernière version officielle disponible : |html_last_version|
 
 Présentation
 ------------
@@ -25,15 +25,18 @@ Le jeu se présente comme un site web libre (à télécharger et installer sur s
 
 Développement :
 
-* `Dernière version <https://github.com/libre-money-projects/Geconomicus/releases>`_
+* `Dernière version officielle <https://github.com/libre-money-projects/Geconomicus/releases>`_
 * `Dépôt GitHub <https://github.com/libre-money-projects/Geconomicus>`_
+* `Dépôt GitLab <https://git.duniter.org/communication/geconomicus>`_
 * `Salon de discussion dédié (XMPP) <xmpp://ğeconomicus@muc.jappix.com>`_
 
 Hébergements connus :
 
 * http://geconomicus.glibre.org
-* http://geconomicus.duniter.fr
-* http://www.reglesdejeux.com/geconomicus/
+* https://geconomicus.1000i100.fr/
+* http://communication.pages.duniter.org/geconomicus/
+* http://communication.pages.duniter.org/geconomicus/en/ (english version)
+* https://www.reglesdejeux.com/geconomicus/
 * http://vtexier.github.io/Geconomicus
 
 Comptes rendus déjà publiés :
