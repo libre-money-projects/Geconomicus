@@ -21,7 +21,8 @@ build:
     - mv ./rst/build/html public
     - ./build_en_US.sh
     - mv ./rst/build/html public/en
-    - cat /tmp/sphinx-err-*.log
+  after_script:
+    - cat /tmp/sphinx-err-*.log || true
   artifacts:
     paths:
       - public
