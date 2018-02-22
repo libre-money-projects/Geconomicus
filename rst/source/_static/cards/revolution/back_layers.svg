@@ -25,7 +25,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><color-profile
        name="PSO-Coated-v3"
-       xlink:href="/home/vit/.local/share/color/icc/PSOcoated_v3.icc"
+       xlink:href="../../icc/PSOcoated_v3.icc"
        id="color-profile6099" /></defs><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"

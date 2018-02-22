@@ -32,7 +32,7 @@
      id="defs3210">
     <color-profile
        name="PSO-Coated-v3"
-       xlink:href="/home/vit/.local/share/color/icc/PSOcoated_v3.icc"
+       xlink:href="../icc/PSOcoated_v3.icc"
        id="color-profile5107" />
     <linearGradient
        id="linearGradient7553"
