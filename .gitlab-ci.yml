@@ -8,6 +8,7 @@ build:
   before_script:
     - apk update
     - apk add make
+    - apk add zip
     - apk add inkscape
     - apk add imagemagick
     - apk add fontconfig
