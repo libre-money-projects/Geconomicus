@@ -82,7 +82,7 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.21266747px;line-height:5.16119862px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:4.1289587px;word-spacing:0px;text-anchor:middle;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.21266747px;line-height:5.16119862px;font-family:Verdana;text-align:center;letter-spacing:4.1289587px;word-spacing:0px;text-anchor:middle;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="79.864471"
        y="25.627523"
        id="text5017"
@@ -91,7 +91,7 @@
          id="tspan5015"
          x="81.928955"
          y="25.627523"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.21266747px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:4.1289587px;text-anchor:middle;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Ğeconomicus</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.21266747px;font-family:Verdana;text-align:center;letter-spacing:4.1289587px;text-anchor:middle;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Ğeconomicus</tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4264-6-3"
@@ -143,7 +143,7 @@
        y="67" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:'Daniel Black';-inkscape-font-specification:'Daniel Black, Heavy';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:'Daniel Black', Heavy';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="205.10129"
        y="8.8665524"
        id="text4258"><tspan
@@ -151,7 +151,7 @@
          id="tspan4256"
          x="205.10129"
          y="8.8665524"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.23333311px;font-family:'Daniel Black';-inkscape-font-specification:'Daniel Black, Heavy';text-align:end;text-anchor:end;stroke-width:0.26458332px">Nom</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.23333311px;font-family:'Daniel Black', Heavy';text-align:end;text-anchor:end;stroke-width:0.26458332px">Nom</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 5,22 H 205"
@@ -195,7 +195,7 @@
        y="247" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-44.675701"
        y="11.30638"
        id="text4346"
@@ -204,10 +204,10 @@
          id="tspan4344"
          x="-44.675701"
          y="11.30638"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Début de partie</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Début de partie</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-89.559944"
        y="11.571997"
        id="text4346-0"
@@ -216,7 +216,7 @@
          id="tspan4344-9"
          x="-89.559944"
          y="11.571997"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 1</tspan></text>
     <g
        id="g4660"
        inkscape:tile-cx="59.999999"
@@ -229,9 +229,9 @@
          id="text4368"
          y="71.940056"
          x="29.904915"
-         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="71.940056"
            x="29.904915"
            id="tspan4366"
@@ -240,9 +240,9 @@
          id="text4372"
          y="92"
          x="42.666397"
-         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="92"
            x="42.666397"
            id="tspan4370"
@@ -287,10 +287,10 @@
          id="text4368-3"
          y="72"
          x="60"
-         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
            id="tspan4414"
-           style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="72"
            x="60"
            sodipodi:role="line">Dettes</tspan></text>
@@ -298,9 +298,9 @@
          id="text4368-0"
          y="82"
          x="90"
-         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="82"
            x="90"
            id="tspan4366-62"
@@ -350,10 +350,10 @@
          id="text4368-3-6"
          y="73.102776"
          x="81.232544"
-         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
            id="tspan4414-1"
-           style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="73.102776"
            x="81.232544"
            sodipodi:role="line">Age :</tspan></text>
@@ -366,9 +366,9 @@
          id="text4466"
          y="76"
          x="81"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458302px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458302px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="76"
            x="81"
            id="tspan4464"
@@ -377,9 +377,9 @@
          id="text4466-8"
          y="86"
          x="20"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="86"
            x="20"
            id="tspan4464-7"
@@ -388,9 +388,9 @@
          id="text4488"
          y="86"
          x="30"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458302px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458302px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="86"
            x="30"
            id="tspan4486"
@@ -399,9 +399,9 @@
          id="text4492"
          y="86"
          x="40.008266"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458302px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458302px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="86"
            x="40.008266"
            id="tspan4490"
@@ -410,9 +410,9 @@
          id="text4466-8-9"
          y="96"
          x="80"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="96"
            x="80"
            id="tspan4464-7-2"
@@ -421,9 +421,9 @@
          id="text4488-0"
          y="96"
          x="90"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="96"
            x="90"
            id="tspan4486-2"
@@ -432,9 +432,9 @@
          id="text4492-3"
          y="96"
          x="100.00827"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="96"
            x="100.00827"
            id="tspan4490-7"
@@ -443,9 +443,9 @@
          id="text4466-8-5"
          y="111"
          x="80"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="111"
            x="80"
            id="tspan4464-7-9"
@@ -454,9 +454,9 @@
          id="text4488-2"
          y="111"
          x="90"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="111"
            x="90"
            id="tspan4486-28"
@@ -465,9 +465,9 @@
          id="text4492-9"
          y="111"
          x="100.00827"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="111"
            x="100.00827"
            id="tspan4490-73"
@@ -483,15 +483,15 @@
            x="25.043924"
            id="tspan4464-7-9-1"
            sodipodi:role="line"><tspan
-   style="-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   style="font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
    id="tspan5025">V</tspan>-</tspan></text>
       <text
          id="text4488-2-2"
          y="111"
          x="45"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="111"
            x="45"
            id="tspan4486-28-9"
@@ -500,9 +500,9 @@
          id="text4492-9-3"
          y="111"
          x="65.103867"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="111"
            x="65.103867"
            id="tspan4490-73-1"
@@ -511,9 +511,9 @@
          id="text4466-8-94"
          y="86"
          x="50"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="86"
            x="50"
            id="tspan4464-7-7"
@@ -522,9 +522,9 @@
          id="text4488-8"
          y="86"
          x="60"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="86"
            x="60"
            id="tspan4486-4"
@@ -533,9 +533,9 @@
          id="text4492-5"
          y="86"
          x="70.00827"
-         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;-inkscape-font-specification:Verdana;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-size:2.11666656px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="86"
            x="70.00827"
            id="tspan4490-0"
@@ -621,7 +621,7 @@
        height="100%" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-134.7894"
        y="11.571997"
        id="text4346-0-1"
@@ -630,10 +630,10 @@
          id="tspan4344-9-5"
          x="-134.7894"
          y="11.571997"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 2</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-179.88136"
        y="11.571997"
        id="text4346-0-5"
@@ -642,10 +642,10 @@
          id="tspan4344-9-4"
          x="-179.88136"
          y="11.571997"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 3</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-225.07568"
        y="11.571997"
        id="text4346-0-7"
@@ -654,10 +654,10 @@
          id="tspan4344-9-6"
          x="-225.07568"
          y="11.571997"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 4</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 4</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-270.1532"
        y="11.571997"
        id="text4346-0-56"
@@ -666,10 +666,10 @@
          id="tspan4344-9-9"
          x="-270.1532"
          y="11.571997"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 5</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 5</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-44.655029"
        y="111.572"
        id="text4346-0-3"
@@ -678,10 +678,10 @@
          id="tspan4344-9-7"
          x="-44.655029"
          y="111.572"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 6</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 6</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-89.625053"
        y="111.572"
        id="text4346-0-4"
@@ -690,10 +690,10 @@
          id="tspan4344-9-52"
          x="-89.625053"
          y="111.572"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 7</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 7</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-134.7925"
        y="111.572"
        id="text4346-0-54"
@@ -702,10 +702,10 @@
          id="tspan4344-9-74"
          x="-134.7925"
          y="111.572"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 8</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 8</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-179.88861"
        y="111.572"
        id="text4346-0-43"
@@ -714,10 +714,10 @@
          id="tspan4344-9-0"
          x="-179.88861"
          y="111.572"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 9</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 9</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-225.04364"
        y="111.572"
        id="text4346-0-78"
@@ -726,10 +726,10 @@
          id="tspan4344-9-68"
          x="-225.04364"
          y="111.572"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 10</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Bilan tour 10</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-269.53409"
        y="111.572"
        id="text4346-0-8"
@@ -738,7 +738,7 @@
          id="tspan4344-9-43"
          x="-269.53409"
          y="111.572"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Commentaires</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Verdana;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Commentaires</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 115,247 v 44.99998"
@@ -754,7 +754,7 @@
        height="100%" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:8.46666622px;line-height:6.61458302px;font-family:'Daniel Black';-inkscape-font-specification:'Daniel Black, Heavy';text-align:end;letter-spacing:0.5291667px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:8.46666622px;line-height:6.61458302px;font-family:'Daniel Black', Heavy';text-align:end;letter-spacing:0.5291667px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="92.107597"
        y="12.535156"
        id="text5021"><tspan
@@ -762,7 +762,7 @@
          id="tspan5019"
          x="92.636757"
          y="12.535156"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:8.46666622px;font-family:'Daniel Black';-inkscape-font-specification:'Daniel Black, Heavy';text-align:end;letter-spacing:0.5291667px;text-anchor:end;stroke-width:0.26458332px;fill:#666666;fill-opacity:1;">Fiche joueur</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:8.46666622px;font-family:'Daniel Black', Heavy';text-align:end;letter-spacing:0.5291667px;text-anchor:end;stroke-width:0.26458332px;fill:#666666;fill-opacity:1;">Fiche joueur</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.06642247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 186.89868,6.8068439 c 0.0487,-0.2462905 0.75349,-0.949445 2.25942,-1.0041823 0.48306,-0.017558 -0.85492,0.31109 -1.25523,1.0041823 2.5711,0.5678861 5.02637,-0.048824 5.02091,0.2510456 -0.005,0.2998692 -2.64875,0.7496552 -5.17392,0.2273232 -0.25105,0.5020911 1.68974,0.5993429 1.15719,0.7768589 -1.50627,0.5020912 -2.09585,-0.8121596 -2.00837,-1.2552277 z"
