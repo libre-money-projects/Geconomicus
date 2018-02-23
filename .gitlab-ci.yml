@@ -4,22 +4,14 @@ stages:
 
 build:
   stage: build
-  image: python:3.4-alpine
+  image: python:3.4
   before_script:
-    - apk update
-    - apk add make zip
-    - apk add fontconfig
-    - apk add freetype
-    - apk add ghostscript
-    - apk add inkscape imagemagick
-    - apk add findutils
-    - apk add perl
+    - apt-get update
+    - apt-get install inkscape imagemagick
     - pip install sphinx==1.3
     - pip install sphinx-intl
     - pip install docutils==0.12
-    - wget http://www.imagemagick.org/Usage/scripts/imagick_type_gen
-    - updatedb
-    - locate type.xml
+
     - perl imagick_type_gen > /etc/ImageMagick-6/type.xml
     - identify -list font || true
   script:
