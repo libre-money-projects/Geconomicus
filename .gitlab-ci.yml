@@ -10,7 +10,7 @@ build:
     - apk add make zip
     - apk add fontconfig
     - apk add freetype
-    - apk add gs
+    - apk add ghostscript
     - apk add inkscape imagemagick
     - apk add findutils
     - apk add perl
