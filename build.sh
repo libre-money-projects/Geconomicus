@@ -28,7 +28,7 @@ echo "___________________"
 # create folder for cards sets
 mkdir -p ./build/html/_static/cards
 # really building cards now
-# ./build_cards.py ./source/_static/cards/revolution ./build/html/_static/cards
+./build_cards.py ./source/_static/cards/revolution ./build/html/_static/cards
 
 echo " "
 echo "-------------------"
