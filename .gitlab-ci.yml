@@ -7,11 +7,10 @@ build:
   image: python:3.4
   before_script:
     - apt-get update
-    - apt-get install inkscape imagemagick
+    - apt-get install -y inkscape imagemagick
     - pip install sphinx==1.3
     - pip install sphinx-intl
     - pip install docutils==0.12
-
     - perl imagick_type_gen > /etc/ImageMagick-6/type.xml
     - identify -list font || true
   script:
