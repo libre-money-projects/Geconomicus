@@ -10,6 +10,7 @@ build:
     - apk add make zip
     - apk add fontconfig
     - apk add freetype
+    - apk add gs
     - apk add inkscape imagemagick
     - apk add findutils
     - apk add perl
@@ -20,7 +21,7 @@ build:
     - updatedb
     - locate type.xml
     - perl imagick_type_gen > /etc/ImageMagick-6/type.xml
-    - identify -list font
+    - identify -list font || true
   script:
     #- ./update_translation.sh
     - ./build.sh
