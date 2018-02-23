@@ -7,23 +7,20 @@ build:
   image: python:3.4-alpine
   before_script:
     - apk update
-    - apk add make
-    - apk add zip
+    - apk add make zip
     - apk add fontconfig
     - apk add freetype
-    - apk add inkscape
-    - apk add imagemagick
+    - apk add inkscape imagemagick
     - apk add findutils
     - apk add perl
     - pip install sphinx==1.3
     - pip install sphinx-intl
     - pip install docutils==0.12
-    - updatedb
     - wget http://www.imagemagick.org/Usage/scripts/imagick_type_gen
-    - perl imagick_type_gen > types.xml
+    - updatedb
     - locate type.xml
+    - perl imagick_type_gen > /etc/ImageMagick-6/type.xml
     - identify -list font
-
   script:
     #- ./update_translation.sh
     - ./build.sh
