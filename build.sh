@@ -23,13 +23,11 @@ echo "___________________"
 
 echo " "
 echo "-------------------"
-echo "create folder for cards sets"
-echo "___________________"
-mkdir -p ./build/html/_static/cards
-echo " "
-echo "-------------------"
 echo "generate \"revolution\" cards set from inkscape layers"
 echo "___________________"
+# create folder for cards sets
+mkdir -p ./build/html/_static/cards
+# really building cards now
 # ./build_cards.py ./source/_static/cards/revolution ./build/html/_static/cards
 
 echo " "
