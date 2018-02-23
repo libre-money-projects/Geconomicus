@@ -1,14 +1,15 @@
 stages:
   - build
-  - env-build
+  - alt-build
   - publish
 
 variables:
   DOCKER_REGISTRY: registery.duniter.org
-  IMAGE_NAME: GeconomicusCI
+  IMAGE_NAME: geconomicus_ci
 
 build:
   stage: build
+  allow_failure: true
   image: $DOCKER_REGISTRY/$IMAGE_NAME
   script:
     #- ./update_translation.sh
@@ -25,8 +26,8 @@ build:
   only:
     - master
 
-alt-build:
-  stage: env-build
+failsafe-build:
+  stage: alt-build
   when: on_failure
   image: python:3.4
   before_script:
@@ -51,9 +52,10 @@ alt-build:
   only:
     - master
 
-docker-build:
-  stage: env-build
+docker-for-build:
+  stage: alt-build
   when: on_failure
+  allow_failure: true
   image: docker:latest
   services:
     - docker:dind
