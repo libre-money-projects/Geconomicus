@@ -9,7 +9,6 @@ variables:
 
 build:
   stage: build
-  when: on_failure
   image: $DOCKER_REGISTRY/$IMAGE_NAME
   script:
     #- ./update_translation.sh
