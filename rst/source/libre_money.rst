@@ -15,11 +15,11 @@ Il distribue alors 1 billet de la valeur supérieure (qui est la couleur qui ét
 
 .. note:: On rend ainsi 1 unité de couleur basse pour récupérer 1 billet de la couleur en attente qui vaut 8, c'est donc équivalent à injecter 7 unités nouvelles dans l'économie. Comme il y a déjà 7 unités présentes, on double ainsi la masse monétaire à chaque tour. Comme on décale les couleurs vers la gauche, on divise par deux la valeur de chaque billet et donc on revient bien sur la même masse monétaire. En relatif la masse monétaire ne bouge donc pas du tout malgré les apparences quantitatives.
 
-Il y a donc ainsi toujours 3 couleurs de billets en jeu valant respectivement 1, 2 et 4 qui «&nbsp;glissent&nbsp;» (ou «&nbsp;tournent&nbsp;») à chaque tour.
+Il y a donc ainsi toujours 3 couleurs de billets en jeu valant respectivement 1, 2 et 4 qui « glissent » (ou « tournent ») à chaque tour.
 
 Les valeurs monétaires des cartes se fondent sur le DU de référence en vigueur et les cartes de valeur la plus basse valent chacune 3, les valeurs moyennes 6 et les valeurs hautes 12.
 
-.. note:: On aura donc toujours une moyenne de monnaie par joueur de 7 DU et donc un «&nbsp;pouvoir d'achat&nbsp;» moyen distribué de (2 cartes valeurs + 1 DU) / joueur.
+.. note:: On aura donc toujours une moyenne de monnaie par joueur de 7 DU et donc un « pouvoir d'achat » moyen distribué de (2 cartes valeurs + 1 DU) / joueur.
 
 Il est possible de démarrer en distribuant une seule couleur, mais cela n'a pas d'intérêt si ce n'est retarder la monétisation complète de 2 tours. Le tour initial ne correspond pas en effet à l'arrivée progressive de nouveaux entrants remplaçant des sortants, mais au premier tour de mesure d'une économie supposée tourner déjà depuis longtemps.
 

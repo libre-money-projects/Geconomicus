@@ -7,7 +7,7 @@ variables:
   DOCKER_REGISTRY: registery.duniter.org
   IMAGE_NAME: geconomicus_ci
 
-build:
+fast-build:
   stage: build
   image: $DOCKER_REGISTRY/$IMAGE_NAME
   script:
@@ -25,7 +25,7 @@ build:
   only:
     - master
 
-failsafe-build:
+failsafe-long-build:
   stage: alt-build
   when: on_failure
   image: python:3.4
@@ -51,24 +51,26 @@ failsafe-build:
   only:
     - master
 
-docker-for-build:
+docker-for-fast-build:
   stage: alt-build
   when: on_failure
   allow_failure: true
+  variables:
+    GIT_STRATEGY: none
   image: docker:latest
   services:
     - docker:dind
-  before_script:
-    - docker login -u $DOCKER_LOGIN -p $DOCKER_PASSWORD $DOCKER_REGISTRY
   script:
     - echo 'FROM python:3.4' > Dockerfile
     - echo 'RUN apt-get update && apt-get install -y zip inkscape imagemagick' >> Dockerfile
     - echo 'RUN pip install sphinx==1.3 sphinx-intl docutils==0.12' >> Dockerfile
+    - docker login -u $DOCKER_LOGIN -p $DOCKER_PASSWORD $DOCKER_REGISTRY
     - docker build --pull -t ${DOCKER_REGISTRY}/${IMAGE_NAME} .
     - docker push ${DOCKER_REGISTRY}/${IMAGE_NAME}
 
 pages:
   stage: publish
+  when: always
   script:
     - ls public
   artifacts:
@@ -79,6 +81,7 @@ pages:
 
 mirror:
   stage: publish
+  when: always
   image: liaohuqiu/rsync
   before_script:
     - eval $(ssh-agent -s)
