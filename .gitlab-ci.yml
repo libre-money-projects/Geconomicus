@@ -14,6 +14,7 @@ build:
     - apk add inkscape
     - apk add imagemagick
     - apk add findutils
+    - apk add perl
     - pip install sphinx==1.3
     - pip install sphinx-intl
     - pip install docutils==0.12
