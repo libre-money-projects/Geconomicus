@@ -1,24 +1,39 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 
 current_dir=$(pwd)
 cd rst;
 
-# build html document
+echo " "
+echo "-------------------"
+echo "build html document"
+echo "___________________"
 make html;
 
-# generate money in png from svg in html
+echo " "
+echo "-------------------"
+echo "generate logo and favicon"
+echo "___________________"
+./build_logo.sh
+
+echo " "
+echo "-------------------"
+echo "generate money in png from svg in html"
+echo "___________________"
 ./build_money.sh
 
+echo " "
+echo "-------------------"
+echo "generate \"revolution\" cards set from inkscape layers"
+echo "___________________"
 # create folder for cards sets
 mkdir -p ./build/html/_static/cards
-
-# generate "revolution" cards set from inkscape layers
+# really building cards now
 ./build_cards.py ./source/_static/cards/revolution ./build/html/_static/cards
 
-# generate help sheets from cards and money
+echo " "
+echo "-------------------"
+echo "generate help sheets from cards and money"
+echo "___________________"
 ./build_help_sheets.sh
-
-# generate logo and favicon
-./build_logo.sh
 
 cd ${current_dir};

@@ -34,10 +34,10 @@ Matériel
 
 * 4 paquets de 20 billets
 
-    * 20 billets rouges
-    * 20 billets jaunes
-    * 20 billets verts
-    * 20 billets bleus
+    * 10 billets rouges
+    * 10 billets jaunes
+    * 10 billets verts
+    * 10 billets bleus
 
 |
 
@@ -50,7 +50,7 @@ Matériel
 * 1 chronomètre
 * 1 tableur LibreOffice permettant la saisie et le calcul rapide de la comptabilité.
 
-.. note:: Pour N joueurs, prévoir au moins 5*N en cartes (= au moins 5/4*N carrés) par niveau. Prévoir au moins 2*N pour chaque couleur de billet.
+.. note:: Pour N joueurs, prévoir au moins 5*N en cartes (= au moins 5/4*N carrés) par niveau. Prévoir au moins N billets pour chaque couleur de billet.
 
 
 Cartes valeurs
@@ -101,7 +101,7 @@ Les valeurs sont représentées par des lettres de **A** à **M**. Cela permet d
 Billets de la monnaie
 ---------------------
 
-Il faut 4 couleurs de 20 billets chacune. La monnaie en jeu est constituée de 60 billets colorés et il y a donc une couleur contituée de 20 billets en attente.
+Il faut 4 couleurs de 10 billets chacune. La monnaie en jeu est constituée de 30 billets colorés et il y a donc une couleur contituée de 10 billets en attente.
 
 .. figure:: _static/money/red_banknote_modern_preview.png
     :align: center

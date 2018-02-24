@@ -7,11 +7,11 @@ Quand la monnaie dette est utilisée pour le jeu, un joueur joue le rôle de la 
 
 On utilise les billets de couleurs, qui expriment alors des unités. On dispose les marqueurs de billets sur la feuille d'aide.
 
-La couleur de billet la plus haute vaut 2 unités, la suivante 1 unité et la dernière 1/2 unité.
+La couleur de billet la plus haute vaut 4 unités, la suivante 2 et la dernière 1.
 
-Une carte de valeur basse vaut 1 unité monétaire au départ, la valeur moyenne 2 unités, la valeur haute 4 unités.
+Une carte de valeur basse vaut 3 unités, la valeur moyenne 6, la valeur haute 12.
 
-La monnaie fonctionne toujours selon le principe roulant dans le temps, ce qui permet, si le banquier le souhaite, de faire tourner les couleurs s'il l'estime nécessaire. Mais ici ce n'est pas une obligation, le banquier doit décider lui-même s'il doit insuffler des crédits de niveau supérieur ou pas dans l'économie. Les prix des cartes s'adapteront alors à la nouvelle unité supérieure ainsi injectée.
+La monnaie fonctionne toujours selon le principe roulant dans le temps, ainsi au tour suivant le banquier ne pourra plus créditer les billets bas précédents, qu'il doit donc échanger 2 bas contre 1 billet plus haut. Les billets bas isolés sont donc perdus.
 
 Ainsi, en faisant « tourner la monnaie » s'il le souhaite, par l'injection d'une couleur "haute", le banquier pourra dévaluer la monnaie précédemment émise.
 
@@ -21,17 +21,21 @@ Pour commencer il peut distribuer quelques billets aléatoirement à sa discrét
 
 .. note:: Toutefois ceci n'est pas forcément la meilleure méthode, il est mieux de commencer directement par une allocation de crédits, ceci dès le premier tour, et même préalablement au début du premier tour, toujours pour la raison que le premier tour de jeu est censé représenter un tour de mesure comme un autre d'une économie déjà monétisée depuis longtemps.
 
+Conseil : Cartes valeurs et billets sont de mêmes montants qu'en monnaie libre, le banquier pourra donc créditer aux alentours de 7 à 14 unités / personne selon la demande et la stratégie de ses actionnaires...
+
 A tout moment pendant le tour de jeu, les joueurs peuvent s'adresser au banquier pour obtenir un crédit.
 
 .. _garanties:
 
 .. note:: Les garanties : Une bonne règle à suivre pour le banquier et qu'il ne faut pas négliger est de ne pas donner de crédit à qui n'a pas l'équivalent économique pour « gager le crédit ». Ceci afin de s'assurer du remboursement en monnaie ou en nature, et ne pas « faire faillite », car une banque qui ne se fait pas rembourser est censée faire faillite dans ce modèle monétaire.
 
-A la fin de chaque tour, le banquier réclame le remboursement total des crédits (intérêts inclus) ou seulement les intérêts pour les crédits en cours.
+A la fin de chaque tour, le banquier réclame le remboursement total des crédits (intérêts inclus) ou seulement les intérêts pour les crédits en cours, à sa discrétion (il aura averti les joueurs lors de leur prise de crédit).
 
-Si le joueur ne peut pas rembourser en unités monétaires, alors le banquier est en droit de lui prendre autant de cartes valeurs qu'il juge nécessaire pour se rembourser largement.
+Si le joueur ne peut pas rembourser en unités monétaires, alors le banquier est en droit de lui prendre autant de cartes valeurs qu'il juge nécessaire pour se rembourser largement et payer les frais de recouvrement.
 
 Éventuellement, en cas d'impossibilité totale de remboursement (ce qui sera dû à une inattention du banquier lors de l'allocation du crédit, voir la note sur les garanties_), le joueur peut être amené à « aller directement en prison » pour 1 tour, avant de reprendre le jeu avec 4 nouvelles cartes de valeur basse.
+
+Le banquier remet à disposition des joueurs ses cartes valeurs, qu'il revend au prix de la couleur. Si la couleur n'a pas été vendue lors d'un saut technologique, il peut changer ses cartes au pot comme les autres joueurs pour 2 basses = 1 haute
 
 .. note:: La prison ne doit pas être une période « drôle » pour le joueur. Il doit être isolé loin du jeu pendant 1 tour sans pouvoir communiquer ni se nourrir. Cela ne doit pas être une « pause » agréable, mais un isolement qui doit "faire réfléchir" le joueur. Toutefois, si le banquier joue précisément son rôle on peut faire une séance de jeu complète sans prison.
 
@@ -40,9 +44,9 @@ Comptabilité du banquier
 
 La comptabilité des joueurs ne change pas par rapport au principe général.
 
-Il faut par contre procéder à une comptabilité nette pour le banquier car, lors du remboursement, il ne bénéficie pas du principal mais uniquement de l'intérêt du crédit alloué. Le bénéfice du banquier est comptabilisé comme étant : (somme des remboursements effectués) – (somme des crédits alloués).
+Il faut par contre procéder à une comptabilité nette pour le banquier car, lors du remboursement, il ne bénéficie pas du principal mais uniquement de l'intérêt du crédit alloué. Le bénéfice du banquier est comptabilisé comme étant : (somme des remboursements effectués) – (somme des crédits alloués) + (cartes valeurs restantes)
 
-.. note:: Par exemple le banquier a crédité un joueur de 3 unités, dont l'intérêt au bout d'un tour sera de 1 unité. A la fin du tour, le joueur peut payer 4 unités, dont 3 de principal, et 1 d'intérêt. Le banquier remet donc à zéro le crédit alloué au joueur qui n'est plus endetté et bénéficie de +1 unité sur son propre compte, il ne garde donc qu'un seul billet pour lui. Autre solution : le joueur ne paye qu'une unité lors du tour, que le banquier garde, et reste crédité du principal, il devra donc payer encore l'intérêt au tour suivant et ceci pour tout le temps où il n'aura pas remboursé le principal.
+.. note:: Par exemple le banquier a crédité un joueur de 7 unités, dont l'intérêt au bout d'un tour sera de 2 unités. A la fin du tour, le joueur peut payer 7+2 = 9. Le banquier remet donc à zéro le crédit alloué au joueur qui n'est plus endetté et bénéficie de +2 unités sur son propre compte, il ne garde donc qu'un seul billet pour lui. Autre solution : le joueur ne paye qu'une unité lors du tour, que le banquier garde, et reste crédité du principal, il devra donc payer encore l'intérêt au tour suivant et ceci pour tout le temps où il n'aura pas remboursé le principal.
 
 Concernant les remboursements en nature une valeur économique vaudra moins que l'équivalent des unités monétaires qu'elle représente (ce qui correspond aux frais).
 

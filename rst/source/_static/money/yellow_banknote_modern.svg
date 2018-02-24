@@ -32,7 +32,7 @@
      id="defs3210">
     <color-profile
        name="PSO-Coated-v3"
-       xlink:href="/home/vit/.local/share/color/icc/PSOcoated_v3.icc"
+       xlink:href="../icc/PSOcoated_v3.icc"
        id="color-profile5107" />
     <linearGradient
        id="linearGradient7553"
@@ -208,7 +208,7 @@
      d="m 143.00001,37.734821 a 14.911765,14.911765 0 1 1 -29.82353,0 14.911765,14.911765 0 1 1 29.82353,0 z" />
   <text
      xml:space="preserve"
-     style="font-size:95.62467193999999893px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f67d15 icc-color(PSO-Coated-v3, 0, 0.58957809, 0.89073014, 0);fill-opacity:1;stroke:none;font-family:Sans"
+     style="font-size:95.62467193999999893px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f67d15 icc-color(PSO-Coated-v3, 0, 0.58957809, 0.89073014, 0);fill-opacity:1;stroke:none;font-family:sans-serif"
      x="113.47062"
      y="141.14439"
      id="text3007"
@@ -219,7 +219,7 @@
        id="tspan3009"><tspan
          x="113.47062"
          y="141.14439"
-         style="font-variant:normal;font-stretch:normal;fill:#f67d15 icc-color(PSO-Coated-v3, 0, 0.58957809, 0.89073014, 0);font-family:Serif;-inkscape-font-specification:Serif;fill-opacity:1"
+         style="font-variant:normal;font-stretch:normal;fill:#f67d15 icc-color(PSO-Coated-v3, 0, 0.58957809, 0.89073014, 0);font-family:serif;fill-opacity:1"
          id="tspan3011">Ğ</tspan></tspan></text>
   <path
      sodipodi:type="arc"
