@@ -14,7 +14,7 @@ Website including online rules (french) and zip ready-to-print cards & banknotes
 
 #### Ğeconomicus latest release
 
-Spread Ğeconomicus, download and install Ğeconomicus Website on your own server : https://github.com/galuel/Geconomicus/releases/latest
+Spread Ğeconomicus, download and install Ğeconomicus Website on your own server : https://github.com/libre-money-projects/Geconomicus/
 
 #### XMPP Chat room
 
